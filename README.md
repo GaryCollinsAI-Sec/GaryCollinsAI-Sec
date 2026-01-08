@@ -133,5 +133,5 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href= "https://github.com/Garycyberknight1/Cloud-Security-Operations">  Cloud Security Automation: Intelligent Detection and Response</a>
 - <a href="https://github.com/Garycyberknight1/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
--  <a href= "https://github.com/Garycyberknight1/Intelligent-Offensive-Engineering"> Intelligent Offensive Engineering</a>
+- <a href= "https://github.com/GaryCollins-Sec/ML-Assisted-Offensive-Security"> ML-Assisted Offensive Security</a>
 - <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
