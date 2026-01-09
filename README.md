@@ -133,7 +133,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ## Projects
 - <a href="https://github.com/GaryCollins-Sec/SOC-Automation">SOC Automation <a>
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
-- <a href= "">  Cloud Security Lab</a>
+- <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab</a>
 - <a href="https://github.com/Garycyberknight1/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
 - <a href= "https://github.com/GaryCollins-Sec/Neural-Assisted-Penetration-Testing"> Neural-Assisted Penetration Testing </a>
 - <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>
