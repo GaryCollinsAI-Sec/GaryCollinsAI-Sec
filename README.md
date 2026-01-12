@@ -16,7 +16,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |SOC Automation  | <a href="https://github.com/GaryCollins-Sec/SOC-Automation-Lab/tree/main">SOC Automation<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Cloud Security Lab |  <a href= "https://github.com/GaryCollins-Sec/Cloud-Security-Lab">  Cloud Security Lab </a>                     |
-|Network Traffic Analysis |                                                                                     |
+|Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |               
 |Phishing Automation Analysis Lab |                                              |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |                              |
 | Attack-Surface Lab |                                                         |
