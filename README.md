@@ -19,6 +19,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |Network Traffic Analysis |  <a href="https://github.com/GaryCollins-Sec/Network-Traffic-Analysis"> Network Traffic Analysis </a> |             
 | Incident Response & Playbook Lab |   <a href="https://github.com/GaryCollins-Sec/Attack-Surface-Lab/tree/main"> Incident Response & Playbook Lab </a> |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |<a href="https://github.com/GaryCollins-Sec/Hybrid-Malware-Analysis"> Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a> |
+| Honeypot with Azure & Microsoft Sentenel |                                                     |
 
 
 
