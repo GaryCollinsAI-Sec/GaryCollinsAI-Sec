@@ -15,7 +15,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 |-----------------------------------------------|----------------------------|
 |Detection Engineering & Network Analysis Lab  | <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">Detection Engineering & Network Analysis Lab<a> |
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
-|  CloudGuard-AI: Autonomuous Remediation for AWS  | <a href="https://github.com/GaryCollins-Sec/CloudGuard-AI-Autonomous-Remediation-for-AWS"> CloudGuard-AI: Autonomuous Remediation for AWS </a> |
+| AI Security Scanner for AWS S3  | <a href="https://github.com/GaryCollins-Sec/CloudGuard-AI-Autonomous-Remediation-for-AWS"> AI Security Scanner for AWS S3 </a> |
 
 
 
