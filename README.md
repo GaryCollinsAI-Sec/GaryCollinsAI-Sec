@@ -17,7 +17,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 | Vulnerability Management Lab                  | <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | AI Security Scanner for AWS S3  | <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3"> AI Security Scanner for AWS S3 </a> |
 |Cloud Exploit and Detect: AWS Guard Duty Lab | <a href="https://github.com/GaryCollins-Sec/Cloud-Exploit-and-Detect-AWS-GuardDuty-Lab">Cloud Exploit and Detect: AWS Guard Duty Lab</a>|
-|Security Assessment Lab: Exploiting & Hardening Legacy Systems |                                                                |
+|Security Assessment Lab: Exploiting & Hardening Legacy Systems | <a href="https://github.com/GaryCollins-Sec/Security-Assessment-Lab-Exploiting-Hardening-Legacy-Systems"> Security Assessment Lab: Exploiting & Hardening Legacy Systems </a>                                                               |
 
 
 ## Tools
@@ -113,4 +113,4 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 - <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3"> AI Security Scanner for AWS S3 </a>
 - <a href="https://github.com/GaryCollins-Sec/Cloud-Exploit-and-Detect-AWS-GuardDuty-Lab">Cloud Exploit and Detect: AWS Guard Duty Lab</a>
-- <a href="https://github.com/GaryCollins-Sec/Controlled-Pentesting-Lab-Exploiting-Hardening-Legacy-Systems">Controlled Pentesting Lab: Exploiting & Hardening Legacy Systems  </a>
+- <a href="https://github.com/GaryCollins-Sec/Security-Assessment-Lab-Exploiting-Hardening-Legacy-Systems"> Security Assessment Lab: Exploiting & Hardening Legacy Systems </a>                                           
