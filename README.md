@@ -21,13 +21,19 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 
 ## Tools
 
+### Infrastructure as Code
+<div>
 
-### Artificial Intelligence
+  <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-cloudformation&logoColor=white" alt="AWS CloudFormation">
+</div>
+
+### Artificial Intelligence and Machine Learning
 <div>
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/Boto3-90EE90?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3">
+  <img src="https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS GuardDuty">
 </p>
 
 </div>
@@ -57,8 +63,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ### Cloud Tools
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow" alt="IAM">
-    <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=yellow" alt="EC2">
     <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logo=IBM%20Cloud&logoColor=white" />
  
 
