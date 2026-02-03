@@ -30,7 +30,6 @@ Cyber Engineering professional with a strong technical foundation, now focused o
 ### Artificial Intelligence and Machine Learning
 <div>
   <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS GuardDuty">
 </div>
 
 
