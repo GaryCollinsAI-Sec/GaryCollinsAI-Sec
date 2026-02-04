@@ -27,7 +27,7 @@ Cyber Engineering professional with a strong technical foundation, now focused o
   <img src="https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-cloudformation&logoColor=white" alt="AWS CloudFormation">
 </div>
 
-### Artificial Intelligence and Machine Learning
+### Artificial Intelligence
 <div>
   <img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
 </div>
