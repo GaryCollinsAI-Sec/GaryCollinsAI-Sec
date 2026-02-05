@@ -16,7 +16,7 @@ I build AI-driven solutions for security and operational challenges. My work spa
 
 ### **AI & Machine Learning**
 - [Chatbot Assistant using vanilla python](https://github.com/GaryCollinsAI-Sec/Chatbot-Assistant-using-vanilla-python) – Able to ask the bot about the weather within a specific city and inquire information regarding a historical figure, a holiday, and so that it retrieves from the internet.  
-- [Prompt Engineering: Orchestrating ChatGPT for Complex Workflows]()
+- [Prompt Engineering: Orchestrating ChatGPT for Complex Workflows](https://github.com/GaryCollinsAI-Sec/Prompt-Engineering-Orchestrating-ChatGPT-for-Complex-Workflows) - Demonstrating the transition from basic AI usage to advanced AI Orchestration by utilizing structured frameworks and recursive logic—such as Task Decomposition, Prompt Chaining, and Meta-Prompting—to transform ChatGPT into a high-precision execution engine for complex, multi-step workflows.
 
 
 
