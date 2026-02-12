@@ -22,7 +22,7 @@ My work centers on detection engineering, applied ML, and practical security lab
 
 <li>
     <strong>
-      <a href="">
+      <a href="https://github.com/GaryCollinsAI-Sec/NeuralPhish-Detector">
         NeuralPhish-Detector
       </a>
     </strong> – Built an AI-driven detector that analyzes email content to accurately identify and score phishing threats using local language models.
