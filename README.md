@@ -83,7 +83,7 @@ My work centers on detection engineering, applied ML, and practical security lab
 <h2>Skills & Tools</h2>
 
 <p><strong>Programming:</strong> Python, Bash, SQL, PowerShell, C++, Java, JavaScript</p>
-<p><strong>Machine Learning:</strong> Scikit-learn, Jupyter, NumPy, Matplotlib, Seaborn, Cursor AI </p>
+<p><strong>Artificial Intelligence & Machine Learning:</strong> Scikit-learn, Jupyter, NumPy, Matplotlib, Seaborn, Cursor AI, Ollama </p>
 <p><strong>Security Tools:</strong> Wireshark, Snort, Suricata, Nmap, Nessus, pfSense, Autopsy</p>
 <p><strong>Cloud & Infrastructure:</strong> AWS, CloudFormation, Boto3, Docker</p>
 <p><strong>SIEM:</strong> Wazuh, Splunk</p>
