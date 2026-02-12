@@ -1,64 +1,107 @@
-# Hello, I'm Gary
-<a href="https://linkedin.com/in/garyjosephcollins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hello, I'm Gary</h1>
 
-**Cybersecurity Professional | AI Security Engineer | Automation • Cloud Security • Detection & VM**
+<p>
+  <a href="https://linkedin.com/in/garyjosephcollins">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-I build AI-driven solutions for security and operational challenges. My work spans applied machine learning, detection engineering, cloud security, and automation, with a strong foundation in software development, network analysis, and cybersecurity. I enjoy solving real-world problems through data, code, and creative system design.
+<h3>Cybersecurity | AI Security | Detection Engineering | Cloud & Automation</h3>
 
----
+<p>
+I build security-focused systems using machine learning, cloud tooling, and automation. 
+My work centers on detection engineering, applied ML, and practical security labs that simulate real-world environments.
+</p>
 
-## 🔹 Projects
+<hr>
 
-### **AI + Security**
-- [AI Security Scanner for AWS S3](https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3) – Applied ML to automatically detect misconfigurations and security risks in AWS S3 buckets.
-  
-- [End-to-End ML Pipeline for Cyber Threat Detection](https://github.com/GaryCollinsAI-Sec/End-to-End-ML-Pipeline-for-Cyber-Threat-Detection) – This project implements a robust machine learning pipeline that preprocesses raw network traffic data and utilizes a Random Forest classifier to accurately detect and visualize cyber threats within the NSL-KDD dataset.
+<h2>Projects</h2>
 
-  
-### **Cybersecurity & Cloud**
-- [Detection Engineering & Network Analysis Lab](https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab) – Simulated network environments to develop and test detection rules.  
-- [Vulnerability Management Lab](https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab) – Conducted automated vulnerability scans and risk assessments.  
-- [Cloud Security with AWS IAM](https://github.com/GaryCollins-Sec/Cloud-Security-with-AWS-IAM) – Implemented AWS IAM policies and security controls.  
-- [Security Assessment Lab: Exploiting & Hardening Legacy Systems](https://github.com/GaryCollins-Sec/Security-Assessment-Lab-Exploiting-Hardening-Legacy-Systems) – Hardening and exploitation exercises to improve system security.  
+<h3>AI + Security</h3>
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3">
+        AI Security Scanner for AWS S3
+      </a>
+    </strong> – Built an ML-based scanner to detect S3 misconfigurations and security risks.
+  </li>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollinsAI-Sec/End-to-End-ML-Pipeline-for-Cyber-Threat-Detection">
+        End-to-End ML Pipeline for Cyber Threat Detection
+      </a>
+    </strong> – Developed a machine learning pipeline to process network traffic data and detect threats using the NSL-KDD dataset.
+  </li>
+</ul>
 
----
+<h3>Cybersecurity & Cloud</h3>
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">
+        Detection Engineering & Network Analysis Lab
+      </a>
+    </strong> – Built a simulated network to create and test detection rules.
+  </li>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab">
+        Vulnerability Management Lab
+      </a>
+    </strong> – Performed automated scans and risk analysis in a lab environment.
+  </li>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollins-Sec/Cloud-Security-with-AWS-IAM">
+        Cloud Security with AWS IAM
+      </a>
+    </strong> – Designed and tested IAM policies and access controls.
+  </li>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollins-Sec/Security-Assessment-Lab-Exploiting-Hardening-Legacy-Systems">
+        Security Assessment Lab: Exploiting & Hardening Legacy Systems
+      </a>
+    </strong> – Practiced exploitation techniques and system hardening to understand attack paths and mitigation strategies.
+  </li>
+</ul>
 
-## 🔹 Key Skills & Tools
+<hr>
 
-| Category                | Tools & Technologies |
-|-------------------------|--------------------|
-| Programming & Scripting | Python, Bash, SQL, PowerShell, C++, Java, JavaScript |
-| AI / Machine Learning   | Cursor, Prompt Engineering, Jupyter, Scikit Learn, Numpy, Matplotlib, Seaborn, Ollama |
-| Network & Security      | Wireshark, Snort, Suricata, Nmap, Nessus, pfSense, Autopsy, E3 Forensics Platform |
-| Cloud & Infrastructure  | AWS, CloudFormation, Boto3, IBM Cloud, Docker |
-| SIEM & Monitoring       | Wazuh, Splunk |
-| Operating Systems       | Kali Linux, Ubuntu, Windows |
+<h2>Skills & Tools</h2>
 
----
+<p><strong>Programming:</strong> Python, Bash, SQL, PowerShell, C++, Java, JavaScript</p>
+<p><strong>Machine Learning:</strong> Scikit-learn, Jupyter, NumPy, Matplotlib, Seaborn</p>
+<p><strong>Security Tools:</strong> Wireshark, Snort, Suricata, Nmap, Nessus, pfSense, Autopsy</p>
+<p><strong>Cloud & Infrastructure:</strong> AWS, CloudFormation, Boto3, Docker</p>
+<p><strong>SIEM:</strong> Wazuh, Splunk</p>
+<p><strong>Operating Systems:</strong> Kali Linux, Ubuntu, Windows</p>
 
-## 🔹 Certifications
-- CompTIA Security+ (Expected June 2026)  
-- Google Cybersecurity Professional Certificate (Expected March 2026)  
+<hr>
 
----
+<h2>Certifications</h2>
+<ul>
+  <li>CompTIA Security+ (Expected June 2026)</li>
+  <li>Google Cybersecurity Professional Certificate (Expected March 2026)</li>
+</ul>
 
-## 🔹 Education
-- **MS Cyber Engineering** – University of the Cumberlands (June 2026)  
-- **BS Computer Science** – Colorado State University Global (Sep 2024)  
-- **AS Computer Science** – Yuba College (Dec 2021)  
+<h2>Education</h2>
+<ul>
+  <li><strong>MS Cyber Engineering</strong> – University of the Cumberlands (June 2026)</li>
+  <li><strong>BS Computer Science</strong> – Colorado State University Global (Sep 2024)</li>
+  <li><strong>AS Computer Science</strong> – Yuba College (Dec 2021)</li>
+</ul>
 
----
+<hr>
 
-## 🔹 Approach & Philosophy
-I approach every project with the mindset of **problem → solution → impact**:  
-1. Understand the environment and define the problem clearly.  
-2. Apply technical skills (ML, scripting, security tools) to develop solutions.  
-3. Measure outcomes, optimize performance, and document results.  
+<h2>Focus</h2>
+<ol>
+  <li>Define the problem clearly</li>
+  <li>Build and test solutions</li>
+  <li>Measure results and refine</li>
+</ol>
 
-This methodology applies to both **cybersecurity projects** and **AI-driven initiatives**, ensuring practical, actionable, and scalable results.  
-
----
-
-## 🔹 Additional Highlights
-- **CTF Participant:** Hands-on cybersecurity challenges to enhance analytical and problem-solving skills.  
-- **Open to AI & Cybersecurity Roles:** Interested in applied ML and security projects, as well as broader cybersecurity positions.  
+<p>
+Interested in roles that combine applied machine learning, detection engineering, and cloud security.
+</p>
