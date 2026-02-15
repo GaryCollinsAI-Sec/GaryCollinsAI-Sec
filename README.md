@@ -70,7 +70,7 @@ I specialize in Purple Team Operations, bridging the gap between adversarial emu
   </li>
   <li>
     <strong>
-      <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab">
+      <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab-Legacy-System-Exploitation-Remediation">
         Security Assessment Lab
       </a>
     </strong> – Practiced exploitation techniques and system hardening to understand attack paths and mitigation strategies.
