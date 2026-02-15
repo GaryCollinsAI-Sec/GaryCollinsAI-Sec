@@ -83,7 +83,7 @@ I specialize in Purple Team Operations, bridging the gap between adversarial emu
 
 <p><strong>Programming:</strong> Python, Bash, SQL, PowerShell, C++, Java, JavaScript</p>
 <p><strong>Artificial Intelligence & Machine Learning:</strong> Scikit-learn, Jupyter, NumPy, Matplotlib, Seaborn, Cursor AI, Ollama </p>
-<p><strong>Security Tools:</strong> Wireshark, Snort, Suricata, Nessus, pfSense, Autopsy, E3 Forensic Platform </p>
+<p><strong>Security Tools:</strong> Wireshark, Snort, Suricata, Nessus, pfSense, Autopsy </p>
 <p><strong>Cloud & Infrastructure:</strong> AWS, IAM, CloudFormation, IBM Cloud, Boto3, Docker</p>
 <p><strong>SIEM:</strong> Wazuh, Splunk</p>
 <p><strong>Operating Systems:</strong> Kali Linux, Ubuntu, Windows</p>
