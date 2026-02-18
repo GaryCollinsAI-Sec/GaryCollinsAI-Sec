@@ -16,6 +16,20 @@ I am a Security Engineer focused on SOC operations, detection engineering, and t
 
 <h2>Offensive • Defensive • Intelligent Security Engineering</h2>
 
+
+<h3>⚔️ Adversarial Emulation & Security Validation</h3>
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab-Legacy-System-Exploitation-Remediation">
+        Security Assessment: Legacy System Exploitation & Remediation
+      </a>
+    </strong> – Conducted controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
+  </li>
+</ul>
+
+
+
 <h3>🛡 Detection & Defensive Engineering</h3>
 <ul>
   <li>
@@ -43,16 +57,7 @@ I am a Security Engineer focused on SOC operations, detection engineering, and t
   </li>
 </ul>
 
-<h3>⚔️ Adversarial Emulation & Security Validation</h3>
-<ul>
-  <li>
-    <strong>
-      <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab-Legacy-System-Exploitation-Remediation">
-        Security Assessment: Legacy System Exploitation & Remediation
-      </a>
-    </strong> – Conducted controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
-  </li>
-</ul>
+
 
 <h3>🤖 AI-Driven Security Engineering</h3>
 <ul>
