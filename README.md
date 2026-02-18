@@ -1,4 +1,4 @@
-<h1>Hello, I'm Gary</h1>
+<h1>Hello, I'm Gary Collins</h1>
 
 <p>
   <a href="https://linkedin.com/in/garyjosephcollins">
@@ -6,86 +6,89 @@
   </a>
 </p>
 
-<h3>Cybersecurity Professional | Purple Team Operations | AI Security Engineer | Automation • Cloud Security • Detection & Vulnerability Management</h3>
+<h3>Purple Team Security Engineer | Detection Engineering • Adversarial Emulation • AI Security Automation</h3>
 
 <p>
-I specialize in Purple Team Operations, bridging the gap between adversarial emulation and defensive engineering. I leverage Machine Learning and Automation to validate security controls, scale detection engineering, and streamline vulnerability management across cloud and on-premise infrastructures.
+I specialize in Purple Team security engineering, integrating adversarial emulation with defensive detection to strengthen organizational security posture. My work focuses on applying machine learning and automation to validate security controls, scale detection engineering, and reduce risk across cloud and on-premise environments.
 </p>
 
 <hr>
 
-<h2>Projects</h2>
+<h2>Offensive • Defensive • Intelligent Security Engineering</h2>
 
-<h3>AI + Security</h3>
-<ul>
-
-<li>
-    <strong>
-      <a href="https://github.com/GaryCollinsAI-Sec/NeuralPhish-Detector">
-        NeuralPhish-Detector
-      </a>
-    </strong> – Built an AI-driven detector that analyzes email content to accurately identify and score phishing threats using local language models.
-  </li>
-
-
-  
-  <li>
-    <strong>
-      <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3">
-        AI Security Scanner for AWS S3
-      </a>
-    </strong> – Built an AI-based scanner to detect S3 misconfigurations and security risks.
-  </li>
-  <li>
-    <strong>
-      <a href="https://github.com/GaryCollinsAI-Sec/End-to-End-ML-Pipeline-for-Cyber-Threat-Detection">
-        End-to-End ML Pipeline for Cyber Threat Detection
-      </a>
-    </strong> – Developed a machine learning pipeline to process network traffic data and detect threats using the NSL-KDD dataset.
-  </li>
-</ul>
-
-<h3>Cybersecurity & Cloud</h3>
+<h3>🛡 Detection & Defensive Engineering</h3>
 <ul>
   <li>
     <strong>
       <a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">
         Detection Engineering & Network Analysis Lab
       </a>
-    </strong> – Built a simulated network to create and test detection rules.
+    </strong> – Designed a simulated enterprise network to develop, test, and validate custom detection rules using network telemetry.
   </li>
+
   <li>
     <strong>
       <a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab">
         Vulnerability Management Lab
       </a>
-    </strong> – Performed automated scans and risk analysis in a lab environment.
+    </strong> – Performed automated vulnerability scanning, risk prioritization, and remediation validation within a controlled lab environment.
   </li>
+
   <li>
     <strong>
       <a href="https://github.com/GaryCollins-Sec/Cloud-Security-with-AWS-IAM">
         Cloud Security with AWS IAM
       </a>
-    </strong> – Designed and tested IAM policies and access controls.
+    </strong> – Designed and tested least-privilege IAM policies and access control strategies in AWS.
   </li>
+</ul>
+
+<h3>⚔️ Adversarial Emulation & Security Validation</h3>
+<ul>
   <li>
     <strong>
       <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab-Legacy-System-Exploitation-Remediation">
         Security Assessment: Legacy System Exploitation & Remediation
       </a>
-    </strong> – Practiced exploitation techniques and system hardening to understand attack paths and mitigation strategies.
+    </strong> – Conducted controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
+  </li>
+</ul>
+
+<h3>🤖 AI-Driven Security Engineering</h3>
+<ul>
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollinsAI-Sec/NeuralPhish-Detector">
+        NeuralPhish-Detector
+      </a>
+    </strong> – Developed an AI-powered phishing detection system leveraging local language models to analyze and score malicious email content.
+  </li>
+
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3">
+        AI Security Scanner for AWS S3
+      </a>
+    </strong> – Built an AI-assisted scanner to detect AWS S3 misconfigurations and prioritize security risks.
+  </li>
+
+  <li>
+    <strong>
+      <a href="https://github.com/GaryCollinsAI-Sec/End-to-End-ML-Pipeline-for-Cyber-Threat-Detection">
+        End-to-End ML Pipeline for Cyber Threat Detection
+      </a>
+    </strong> – Engineered a full ML pipeline to process network traffic data and detect malicious behavior using the NSL-KDD dataset.
   </li>
 </ul>
 
 <hr>
 
-<h2>Skills & Tools</h2>
+<h2>Technical Skills</h2>
 
 <p><strong>Programming:</strong> Python, Bash, SQL, PowerShell, C++, Java, JavaScript</p>
-<p><strong>Artificial Intelligence & Machine Learning:</strong> Scikit-learn, Jupyter, NumPy, Matplotlib, Seaborn, Cursor AI, Ollama </p>
-<p><strong>Security Tools:</strong> Wireshark, Snort, Suricata, Nessus, pfSense, Autopsy </p>
-<p><strong>Cloud & Infrastructure:</strong> AWS, IAM, CloudFormation, IBM Cloud, Boto3, Docker</p>
-<p><strong>SIEM:</strong> Wazuh, Splunk</p>
+<p><strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Jupyter, Ollama</p>
+<p><strong>Detection & Security Tools:</strong> Wireshark, Snort, Suricata, Nessus, Wazuh, Splunk, pfSense, Autopsy</p>
+<p><strong>Cloud & Infrastructure:</strong> AWS, IAM, CloudFormation, Boto3, Docker, IBM Cloud</p>
 <p><strong>Operating Systems:</strong> Kali Linux, Ubuntu, Windows</p>
 
 <hr>
@@ -105,13 +108,14 @@ I specialize in Purple Team Operations, bridging the gap between adversarial emu
 
 <hr>
 
-<h2>Focus</h2>
+<h2>Security Philosophy</h2>
 <ol>
-  <li>Define the problem clearly</li>
-  <li>Build and test solutions</li>
-  <li>Measure results and refine</li>
+  <li>Define the threat model clearly</li>
+  <li>Emulate adversarial behavior</li>
+  <li>Engineer measurable detection & mitigation</li>
+  <li>Automate and continuously improve</li>
 </ol>
 
 <p>
-Interested in roles that applies SOC Analyst, detection engineering, cloud security, AI Security, and Purple Team.
+Seeking roles in Detection Engineering, SOC Operations, or AI-Driven Security Engineering where offensive insight strengthens defensive architecture.
 </p>
