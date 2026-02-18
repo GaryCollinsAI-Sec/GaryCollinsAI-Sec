@@ -6,10 +6,10 @@
   </a>
 </p>
 
-<h3>Purple Team Security Engineer | Detection Engineering • Adversarial Emulation • AI Security Automation</h3>
+<h3>Security Engineer | SOC Operations • Detection Engineering • Threat Emulation • AI Security Automation</h3>
 
 <p>
-I specialize in Purple Team security engineering, integrating adversarial emulation with defensive detection to strengthen organizational security posture. My work focuses on applying machine learning and automation to validate security controls, scale detection engineering, and reduce risk across cloud and on-premise environments.
+I am a Security Engineer focused on SOC operations, detection engineering, and threat emulation to strengthen enterprise security posture. I design and validate detection strategies through adversarial testing and leverage automation and machine learning to improve alert fidelity, streamline vulnerability management, and reduce risk across cloud and on-premise environments.
 </p>
 
 <hr>
