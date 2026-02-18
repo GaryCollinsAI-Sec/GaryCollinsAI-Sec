@@ -6,10 +6,10 @@
   </a>
 </p>
 
-<h3>Security Engineer | SOC Operations • Detection Engineering • Threat Emulation • AI Security Automation</h3>
+<h3>Security Engineer | SOC Operations • DFIR • Red Teaming • Detection Engineering • AI Security Automation</h3>
 
 <p>
-I am a Security Engineer focused on SOC operations, detection engineering, and threat emulation to strengthen enterprise security posture. I design and validate detection strategies through adversarial testing and leverage automation and machine learning to improve alert fidelity, streamline vulnerability management, and reduce risk across cloud and on-premise environments.
+I am a Security Engineer focused on SOC Operations, Red Teaming, and Detection Engineering to strengthen enterprise security posture. I proactively identify vulnerabilities through adversarial testing and design high-fidelity detection strategies to counter complex threats. By bridging the gap between offensive emulation, forensic investigation (DFIR), and AI Security, I leverage automation and machine learning to secure emerging technologies, streamline workflows, and accelerate incident response.
 </p>
 
 <hr>
