@@ -57,6 +57,21 @@ Digital Forensic Analysis & Incident Response (DFIR) Lab
 </a>
 </strong> – Simulated end-to-end cyberattacks in a segmented VM environment; executed live memory forensics and system triage to identify indicators of compromise (IoCs) and reconstruct attacker methodology.
 </li>
+
+
+
+<li>
+<strong>
+<a href="https://github.com/GaryCollinsAI-Sec/Digital-Forensic-Analysis-Incident-Response-DFIR-Lab">
+SOC Lab
+</a>
+</strong> – 
+</li>
+
+
+
+
+  
 </ul>
 
 <h3>🤖 AI-Driven Security Engineering</h3>
