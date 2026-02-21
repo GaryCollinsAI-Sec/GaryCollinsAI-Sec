@@ -23,7 +23,7 @@ I am a Security Engineer focused on SOC Operations, Penetration Testing, and Det
 <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab-Legacy-System-Exploitation-Remediation">
 Security Assessment: Legacy System Exploitation & Remediation
 </a>
-</strong> – Conducted a controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
+</strong> – Conducted a safe controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
 </li>
 
 
