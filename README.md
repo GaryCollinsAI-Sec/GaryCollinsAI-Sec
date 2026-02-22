@@ -35,7 +35,7 @@ Security Assessment: Legacy System Exploitation & Remediation
 <li>
 <strong>
 <a href="https://github.com/GaryCollinsAI-Sec/Bug-Bounty-Hunter-Lab">
-Web Penetration testing Lab
+Bug Bounty Lab
 </a>
 </strong> – An isolated, virtualized penetration testing lab utilizing pfSense as a network gateway to secure and monitor offensive security simulations between a Kali Linux attacking machine and the DVWA target.
 </li>
