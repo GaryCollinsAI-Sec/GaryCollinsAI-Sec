@@ -6,10 +6,14 @@
 </a>
 </p>
 
-<h3><h3>Security Engineer | SOC Operations • Penetration Testing • Detection Engineering • DFIR • AI Security</h3></h3>
+<h3><h3>SOC Analyst | SIEM (Splunk, Wazuh) | Alert Triage & Incident Escalation | AWS Security | Entry-Level Cybersecurity</h3></h3>
 
 <p>
-I am a Security Engineer focused on SOC Operations, Penetration Testing, and Detection Engineering to strengthen enterprise security posture. I proactively identify vulnerabilities through adversarial testing and design high-fidelity detection strategies to counter complex threats. By bridging the gap between offensive emulation, forensic investigation (DFIR), and AI Security, I leverage automation and machine learning to secure emerging technologies, streamline workflows, and accelerate incident response.
+Entry-level SOC Analyst with hands-on experience triaging SIEM alerts, performing log correlation, and escalating validated security incidents. Experienced with Splunk and Wazuh in structured monitoring environments, focusing on threat validation and false positive reduction.
+
+Strong analytical background with applied machine learning experience in network intrusion detection and AWS security assessments. Detail-oriented, documentation-driven, and committed to improving detection accuracy in high-volume security operations environments.
+
+Currently pursuing an M.S. in Cyber Engineering and actively seeking Tier 1 SOC opportunities within MSSP environments.
 </p>
 
 <hr>
