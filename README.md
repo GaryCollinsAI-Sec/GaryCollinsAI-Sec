@@ -126,7 +126,7 @@ End-to-End ML Pipeline for Cyber Threat Detection
 <p><strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Jupyter, Ollama</p>
 <p><strong>Detection & Forensic Tools:</strong> Wireshark, Snort, Suricata, Autopsy, Volatility, FTK Imager, Nessus, Wazuh, Splunk</p>
 <p><strong>Cloud & Infrastructure:</strong> AWS (IAM, S3, Boto3), Docker, pfSense, Oracle Virtual Box</p>
-<p><strong>Operating Systems:</strong> SIFT Workstation, Kali Linux, Ubuntu, Windows 10/11</p>
+<p><strong>Operating Systems:</strong> AlmaLinux, SIFT Workstation, Kali Linux, Ubuntu, Windows 10/11</p>
 
 <hr>
 
