@@ -68,13 +68,7 @@ Cloud Security with AWS IAM
 </a>
 </strong> – Designed and tested least-privilege IAM policies and access control strategies in AWS.
 </li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Digital-Forensic-Incident-Response-DFIR-Lab">
-Digital Forensic & Incident Response (DFIR) Lab
-</a>
-</strong> – Simulated end-to-end cyberattacks in a segmented VM environment; executed live memory forensics and system triage to identify indicators of compromise (IoCs) and reconstruct attacker methodology.
-</li>
+
 
 
 
