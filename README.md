@@ -129,7 +129,7 @@ Transformer-Based Malware Classifier
 <h2>Technical Skills</h2>
 
 <p><strong>Programming:</strong> Python, Bash, SQL, PowerShell, C++, Java, JavaScript</p>
-<p><strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Jupyter, Ollama</p>
+<p><strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Jupyter, Ollama, Bert, Transformer</p>
 <p><strong>Detection & Forensic Tools:</strong> Wireshark, Snort, Suricata, Nessus, Wazuh, Splunk</p>
 <p><strong>Cloud & Infrastructure:</strong> AWS (IAM, S3, Boto3), Docker, pfSense, Oracle Virtual Box</p>
 <p><strong>Operating Systems:</strong> Kali Linux, Ubuntu, Windows 10/11</p>
