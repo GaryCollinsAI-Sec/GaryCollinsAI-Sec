@@ -86,7 +86,13 @@ Windows Threat Detection & IR Lab
 </a>
 </strong> - Deploy a hardened logging environment to detect and investigate a simulated.
 </li>
-
+<li>
+<strong>
+<a href="https://github.com/GaryCollinsAI-Sec/Windows-Threat-Detection-IR-Lab">
+Project Ghostwire
+</a>
+</strong> - A raspberry pi-powered deception environment that lures attackers into a high-fidelity "phantom" system to safely observe their tactics, delay their progress, and capture their tools.
+</li>
 
 
 
