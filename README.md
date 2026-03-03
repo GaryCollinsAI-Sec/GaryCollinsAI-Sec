@@ -81,10 +81,10 @@ Cloud Security with AWS IAM
 </li>
 <li>
 <strong>
-<a href="">
+<a href="https://github.com/GaryCollinsAI-Sec/Windows-Threat-Detection-IR-Lab">
 Windows Threat Detection & IR Lab
 </a>
-</strong>
+</strong> - Deploy a hardened logging environment to detect and investigate a simulated.
 </li>
 
 
