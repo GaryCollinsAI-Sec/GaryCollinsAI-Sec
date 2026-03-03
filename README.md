@@ -114,6 +114,14 @@ End-to-End ML Pipeline for Cyber Threat Detection
 </a>
 </strong> – Engineered a full ML pipeline to process network traffic data and detect malicious behavior using the NSL-KDD dataset.
 </li>
+
+<li>
+<strong>
+<a href="https://github.com/GaryCollinsAI-Sec/Malware-Detection-Using-Transformers-and-Bert">
+Transformer-Based Malware Classifier
+</a>
+</strong> – Developed an automated malware classification system using BERT and Transformer models, fine-tuned with custom tokenization to identify sophisticated threats within hex and assembly sequences.
+</li>
 </ul>
 
 <hr>
