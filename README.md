@@ -1,11 +1,22 @@
 <h1>Hello, I'm Gary Collins</h1>
 
 <p>
+
+<a href="https://tryhackme.com/p/garycollins0449?tab=completed-rooms">
+    <img src="https://img.shields.io/badge/-TryHackMe-1f2d3d?style=for-the-badge&logo=tryhackme&logoColor=cc0000" />
+  </a>
+
+  
 <a href="https://linkedin.com/in/garyjosephcollins">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
+<p>
+  <a href="https://tryhackme.com/p/garycollins0449?tab=badges">
+    
+  </a>
+</p>
 
 <p>
 Entry-level SOC Analyst with hands-on experience triaging SIEM alerts, performing log correlation, and escalating validated security incidents. Experienced with Splunk and Wazuh in structured monitoring environments, focusing on threat validation and false positive reduction.
