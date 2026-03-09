@@ -125,7 +125,7 @@ End-to-End ML Pipeline for Cyber Threat Detection
 <a href="https://github.com/GaryCollinsAI-Sec/Transformer-Based-Malware-Classifier">
 Transformer-Based Malware Classifier
 </a>
-</strong> – Developed an automated malware classification system using BERT, fine-tuned with custom tokenization to identify sophisticated threats by analyzing behavioral API call sequences as linguistic patterns."
+</strong> – Developed an automated malware classification system using BERT, fine-tuned with custom tokenization to identify sophisticated threats by analyzing behavioral API call sequences as linguistic patterns.
 </li>
 </ul>
 
