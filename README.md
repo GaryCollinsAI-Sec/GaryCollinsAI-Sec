@@ -10,11 +10,11 @@
 </p>
 
 <p>
-Entry-level SOC Analyst with hands-on experience triaging SIEM alerts, performing log correlation, and escalating validated security incidents. Experienced with Splunk and Wazuh in structured monitoring environments, focusing on threat validation and false positive reduction.
+Entry-level cybersecurity professional with hands-on experience in triaging SIEM alerts, correlating logs, and escalating validated security incidents. Skilled in deploying and managing Splunk and Wazuh within structured monitoring environments, with a strong focus on threat validation, detection tuning, and minimizing false positives.
 
-Strong analytical background with applied machine learning in network intrusion detection and AWS security assessments. Detail-oriented, documentation-driven, and committed to improving detection accuracy in high-volume security operations.
+Possess a strong analytical foundation with applied experience in machine learning for network intrusion detection and AWS security assessments. Detail-oriented, documentation-driven, and committed to improving detection accuracy and operational efficiency in high-volume security environments.
 
-Currently pursuing an M.S. in Cyber Engineering and seeking Tier 1 SOC opportunities within MSSP environments.
+Currently pursuing an M.S. in Cyber Engineering and seeking Tier 1 SOC, Cloud Security, or Detection Engineering opportunities within MSSP or enterprise security operations teams.
 </p>
 
 <hr>
