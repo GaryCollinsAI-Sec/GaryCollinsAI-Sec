@@ -1,20 +1,12 @@
 <h1>Hello, I'm Gary Collins</h1>
 
 <p>
-
-<a href="https://tryhackme.com/p/garycollins0449?tab=completed-rooms">
+  <a href="https://tryhackme.com/p/garycollins0449?tab=completed-rooms">
     <img src="https://img.shields.io/badge/-TryHackMe-1f2d3d?style=for-the-badge&logo=tryhackme&logoColor=cc0000" />
   </a>
 
-  
-<a href="https://linkedin.com/in/garyjosephcollins">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
-<p>
-  <a href="https://tryhackme.com/p/garycollins0449?tab=badges">
-    
+  <a href="https://linkedin.com/in/garyjosephcollins">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -31,103 +23,31 @@ Currently pursuing an M.S. in Cyber Engineering and actively seeking Tier 1 SOC 
 <h2>Offensive • Defensive • Intelligent Security Engineering</h2>
 
 <h3>⚔️ Adversarial Emulation & Offensive Engineering</h3>
-<ul>
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab-Legacy-System-Exploitation-Remediation">
-Security Assessment: Legacy System Exploitation & Remediation
-</a>
-</strong> – Conducted a safe controlled exploitation of legacy systems to identify attack paths, followed by remediation and hardening to validate defensive improvements.
-</li>
-
-
-
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Offensive-Web-Security-Lab">
-Offensive Web Security Lab
-</a>
-</strong> – An isolated, virtualized penetration testing lab utilizing pfSense as a network gateway to secure and monitor offensive security simulations between a Kali Linux attacking machine and the DVWA target.
-</li>
-
-
-
-
-  
-</ul>
+<p>
+  <strong>
+    <a href="https://github.com/GaryCollinsAI-Sec/Offensive-Engineering-Projects">
+      View All Offensive Projects →
+    </a>
+  </strong>
+</p>
 
 <h3>🛡 Detection & Defensive Engineering</h3>
-<ul>
-<li>
-<strong>
-<a href="https://github.com/GaryCollins-Sec/Detection-Engineering-Network-Analysis-Lab">
-Detection Engineering & Network Analysis Lab
-</a>
-</strong> – Designed a simulated enterprise network to develop, test, and validate custom detection rules using network telemetry.
-</li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollins-Sec/Vulnerability-Management-Lab">
-Vulnerability Management Lab
-</a>
-</strong> – Performed automated vulnerability scanning, risk prioritization, and remediation validation within a controlled lab environment.
-</li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollins-Sec/Cloud-Security-with-AWS-IAM">
-Cloud Security with AWS IAM
-</a>
-</strong> – Designed and tested least-privilege IAM policies and access control strategies in AWS.
-</li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Windows-Threat-Detection-IR-Lab">
-Windows Threat Detection & IR Lab
-</a>
-</strong> - Deploy a hardened logging environment to detect and investigate a simulated.
-</li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Project-Ghostwire-Raspberry-Pi-Deception-Environment">
-Project Ghostwire: Raspberry Pi Deception Environment
-</a>
-</strong> - A raspberry pi-powered deception environment that lures attackers into a high-fidelity "phantom" system to safely observe their tactics, delay their progress, and capture their tools.
-</li>
-  
-</ul>
+<p>
+  <strong>
+    <a href="https://github.com/GaryCollins-Sec/Defensive-Engineering-Projects">
+      View All Defensive Projects →
+    </a>
+  </strong>
+</p>
 
 <h3>🤖 AI Security Engineering</h3>
-<ul>
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/NeuralPhish-Detector">
-NeuralPhish-Detector
-</a>
-</strong> – Developed an AI-powered phishing detection system leveraging local language models to analyze and score malicious email content.
-</li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollins-Sec/AI-Security-Scanner-for-AWS-S3">
-AI Security Scanner for AWS S3
-</a>
-</strong> – Built an AI-assisted scanner to detect AWS S3 misconfigurations and prioritize security risks.
-</li>
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/End-to-End-ML-Pipeline-for-Cyber-Threat-Detection">
-End-to-End ML Pipeline for Cyber Threat Detection
-</a>
-</strong> – Engineered a full ML pipeline to process network traffic data and detect malicious behavior using the NSL-KDD dataset.
-</li>
-
-<li>
-<strong>
-<a href="https://github.com/GaryCollinsAI-Sec/Transformer-Based-Malware-Classifier">
-Transformer-Based Malware Classifier
-</a>
-</strong> – Developed an automated malware classification system using BERT, fine-tuned with custom tokenization to identify sophisticated threats by analyzing behavioral API call sequences as linguistic patterns.
-</li>
-</ul>
+<p>
+  <strong>
+    <a href="https://github.com/GaryCollinsAI-Sec/AI-Security-Projects">
+      View All AI Security Projects →
+    </a>
+  </strong>
+</p>
 
 <hr>
 
@@ -143,27 +63,27 @@ Transformer-Based Malware Classifier
 
 <h2>Certifications</h2>
 <ul>
-<li>CompTIA Security+ (Expected June 2026)</li>
-<li>Google Cybersecurity Professional Certificate (Expected March 2026)</li>
-<li>Cisco Certificate in Ethical Hacking (Expected March 2026)</li>
+  <li>CompTIA Security+ (Expected June 2026)</li>
+  <li>Google Cybersecurity Professional Certificate (Expected March 2026)</li>
+  <li>Cisco Certificate in Ethical Hacking (Expected March 2026)</li>
 </ul>
 
 <h2>Education</h2>
 <ul>
-<li><strong>MS Cyber Engineering</strong> – University of the Cumberlands (Expected June 2026)</li>
-<li><strong>BS Computer Science</strong> – Colorado State University Global (2024)</li>
-<li><strong>AS Computer Science</strong> – Yuba College (2021)</li>
+  <li><strong>MS Cyber Engineering</strong> – University of the Cumberlands (Expected June 2026)</li>
+  <li><strong>BS Computer Science</strong> – Colorado State University Global (2024)</li>
+  <li><strong>AS Computer Science</strong> – Yuba College (2021)</li>
 </ul>
 
 <hr>
 
 <h2>Security Philosophy</h2>
 <ol>
-<li><strong>Define the Threat Model:</strong> Prioritize risks based on real-world impact, feasibility, and business logic.</li>
-<li><strong>Emulate Adversarial Behavior:</strong> Offense informs defense; valid detections and resilient architectures require realistic penetration testing.</li>
-<li><strong>Fortify Blue Team Defense:</strong> Implement robust, multi-layered defense-in-depth strategies and maintain continuous visibility to detect and neutralize threats in real-time.</li>
-<li><strong>Ethical AI Oversight:</strong> Leverage AI for defensive scale while maintaining transparency and human-in-the-loop accountability.</li>
-<li><strong>Automate & Iterate:</strong> Security is a process, not a product; automate the routine to focus on the complex.</li>
+  <li><strong>Define the Threat Model:</strong> Prioritize risks based on real-world impact, feasibility, and business logic.</li>
+  <li><strong>Emulate Adversarial Behavior:</strong> Offense informs defense; valid detections and resilient architectures require realistic penetration testing.</li>
+  <li><strong>Fortify Blue Team Defense:</strong> Implement robust, multi-layered defense-in-depth strategies and maintain continuous visibility to detect and neutralize threats in real-time.</li>
+  <li><strong>Ethical AI Oversight:</strong> Leverage AI for defensive scale while maintaining transparency and human-in-the-loop accountability.</li>
+  <li><strong>Automate & Iterate:</strong> Security is a process, not a product; automate the routine to focus on the complex.</li>
 </ol>
 
 <p>
