@@ -40,6 +40,15 @@ Currently pursuing an M.S. in Cyber Engineering and actively seeking Tier 1 SOC 
   </strong>
 </p>
 
+<h3>🛡 Cloud Security Engineering</h3>
+<p>
+  <strong>
+    <a href="https://github.com/GaryCollinsAI-Sec/Defensive-Engineering-Projects">
+      View All Defensive Cloud Projects →
+    </a>
+  </strong>
+</p>
+
 <h3>🤖 AI Security Engineering</h3>
 <p>
   <strong>
