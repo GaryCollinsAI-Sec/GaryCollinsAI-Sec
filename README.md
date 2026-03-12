@@ -10,11 +10,11 @@
 </p>
 
 <p>
-Entry-level cybersecurity professional with hands-on experience in triaging SIEM alerts, correlating logs, and escalating validated security incidents. Skilled in deploying and managing Splunk and Wazuh within structured monitoring environments, with a strong focus on threat validation, detection tuning, and minimizing false positives.
+Detail-oriented cybersecurity professional with hands-on experience in SIEM alert triage and log correlation within structured monitoring environments. Currently specializing in Cloud Security, with a focus on translating traditional SOC workflows into AWS environments.
 
-Possess a strong analytical foundation with applied experience in machine learning for network intrusion detection and AWS security assessments. Detail-oriented, documentation-driven, and committed to improving detection accuracy and operational efficiency in high-volume security environments.
+Actively developing expertise in cloud-native monitoring—specifically analyzing CloudTrail for identity-based threats and VPC Flow Logs for network visibility. Skilled in deploying Splunk and Wazuh to detect anomalies, with an academic background in applying Machine Learning to network intrusion detection.
 
-Currently pursuing an M.S. in Cyber Engineering and seeking Tier 1 SOC, Cloud Security, or Detection Engineering opportunities within MSSP or enterprise security operations teams.
+M.S. in Cyber Engineering candidate committed to bridging the gap between on-premise detection and cloud-native security. Seeking a Tier 1 SOC or Cloud Security Associate role to contribute to the operational efficiency and detection accuracy of a forward-thinking security team.
 </p>
 
 <hr>
