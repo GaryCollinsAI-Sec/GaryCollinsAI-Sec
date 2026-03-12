@@ -60,11 +60,13 @@ M.S. in Cyber Engineering candidate committed to bridging the gap between on-pre
 <hr>
 
 <h2>Technical Skills</h2>
-  <strong>Cloud & Infrastructure:</strong> AWS (IAM, S3, CloudTrail, VPC, Boto3), Docker, pfSense, VirtualBox<br>
-  <strong>Detection & Forensics:</strong> Splunk, Wazuh, Wireshark, Snort, Suricata, Nessus<br>
-  <strong>AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Ollama, BERT, Transformers, Cursor AI<br>
-  <strong>Programming:</strong> Python (Automation/Boto3), Bash, SQL, PowerShell, C++, Java
-  <strong>Operating Systems:</strong> Wndows 10/11, Kali, Ubuntu
+  <p>
+  <strong>☁️ Cloud & Infrastructure:</strong> AWS (IAM, S3, CloudTrail, VPC, Boto3), Docker, pfSense, VirtualBox<br>
+  <strong>🛡️ Detection & Forensics:</strong> Splunk, Wazuh, Wireshark, Snort, Suricata, Nessus<br>
+  <strong>🤖 AI & Machine Learning:</strong> Scikit-learn, NumPy, Matplotlib, Ollama, BERT, Transformers, Cursor AI<br>
+  <strong>💻 Programming:</strong> Python (Automation/Boto3), Bash, SQL, PowerShell, C++, Java<br>
+  <strong>🖥️ Operating Systems:</strong> Windows 10/11, Kali Linux, Ubuntu
+</p>
 <hr>
 
 <h2>Certifications</h2>
