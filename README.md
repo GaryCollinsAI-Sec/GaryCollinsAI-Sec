@@ -21,7 +21,7 @@ M.S. in Cyber Engineering candidate committed to bridging the gap between on-pre
 
 <h2>Cybersecurity & AI Engineering Projects</h2>
 
-<h3>🛡 Cyber Security Engineering </h3>
+<h3>🛡 ⚔️ Cyber Security Engineering </h3>
 <p>
   <ul>
 
