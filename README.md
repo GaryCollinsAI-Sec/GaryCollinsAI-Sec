@@ -61,7 +61,7 @@ M.S. in Cyber Engineering candidate committed to bridging the gap between on-pre
  <strong>☁️ Cloud & Infrastructure:</strong> AWS (IAM, S3, CloudTrail, VPC, Boto3), Docker, pfSense, VirtualBox<br>
   <strong>🛡️ Detection & Forensics:</strong> Splunk, Wazuh, Wireshark, Snort, Suricata, Nessus<br>
   <strong>🤖 AI & Machine Learning:</strong> PyTorch, Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib, Ollama, BERT, Transformers, Cursor AI<br>
-  <strong>💻 Programming:</strong> Python (Automation/Boto3), Bash, SQL, PowerShell, C++, Java, JavaScript<br>
+  <strong>💻 Programming:</strong> Python (Automation/Boto3), Bash, SQL, PowerShell, C++, Java, JavaScript, golang<br>
   <strong>🖥️ Operating Systems:</strong> Windows 10/11, Kali Linux, Ubuntu
 </p>
 <hr>
