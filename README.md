@@ -103,7 +103,7 @@ PyTorch, Scikit-learn, Pandas, NumPy, BERT, Transformers, Ollama
 
 
 <strong>Programming</strong><br>
-Python, Go, JavaScript, Bash, SQL, PowerShell, C++, Java, Golang
+Python, Go, JavaScript, Bash, SQL, PowerShell, C++, Java
 
 
 <strong>Operating Systems</strong><br>
