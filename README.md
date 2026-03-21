@@ -24,14 +24,7 @@ Currently expanding my full-stack development stack while continuing to engineer
 
 <ul>
 
-<li>
-<strong>Full-Stack Applications</strong><br>
-Secure web applications built with modern frameworks and production-ready architectures.
-<br>
-<a href="https://github.com/GaryCollinsAI-Sec/FullStack-Software-Engineering">
-View Full-Stack Software Engineering Projects
-</a>
-</li>
+
 
 
 <li>
