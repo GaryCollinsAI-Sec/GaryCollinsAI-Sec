@@ -1,12 +1,13 @@
 <h1>Hi, I'm Gary Collins</h1>
 
 <p>
-**Full-Stack Software Engineer and Cybersecurity Engineer** focused on building secure, scalable applications and cloud-native detection systems.
+<strong>Vulnerability Management Analyst | Cybersecurity Engineer</strong><br><br>
 
-My work integrates software engineering, cloud security, and applied machine learning to develop production-ready systems that improve threat visibility, automate response, and strengthen defensive capabilities.
+I specialize in identifying, analyzing, and prioritizing security vulnerabilities across applications, systems, and cloud environments. My work focuses on transforming raw scan data into actionable risk insights that drive remediation and improve organizational security posture.
 
-Currently expanding my full-stack development stack while continuing to engineer purple teaming solutions that bridge offensive and defensive security practices.
+With a background in software engineering and security operations, I bring a risk-based mindset to vulnerability management—combining technical analysis, asset context, and clear reporting to support effective decision-making.
 
+Currently building hands-on labs and projects that simulate real-world vulnerability management workflows, including asset discovery, scanning, risk prioritization, and remediation planning.
 </p>
 
 <p>
@@ -20,51 +21,36 @@ Currently expanding my full-stack development stack while continuing to engineer
 
 <hr>
 
-<h2>🚀 Featured Engineering Projects</h2>
+<h2>🔍 Featured Vulnerability Management Projects</h2>
 
 <ul>
 
-
-
-
 <li>
-<strong>Cybersecurity Engineering</strong><br>
-Security detection systems, SIEM integrations, and threat monitoring environments.
+<strong>End-to-End Vulnerability Management Lab</strong><br>
+Simulated enterprise workflow including asset discovery, vulnerability scanning, CVSS-based prioritization, and remediation planning.
 <br>
-<a href="https://github.com/GaryCollinsAI-Sec/Defensive-Engineering-Projects">
-View Defensive Security Projects
-</a>
+<a href="#">View Project</a>
 </li>
 
 <li>
-<strong>Offensive Security Research</strong><br>
-Penetration testing labs, exploitation techniques, and adversary emulation environments.
+<strong>Web Application Vulnerability Assessment</strong><br>
+OWASP Top 10 testing with detailed findings, risk ratings, and remediation guidance.
 <br>
-<a href="https://github.com/GaryCollinsAI-Sec/Offensive-Engineering-Projects">
-View Offensive Security Projects
-</a>
+<a href="#">View Project</a>
 </li>
 
-
-
 <li>
-<strong>Cloud Security Engineering</strong><br>
-Cloud-native monitoring systems, AWS detection engineering, and automated response tooling.
+<strong>Network Vulnerability Scan & Analysis</strong><br>
+Nmap and Nessus-based enumeration with vulnerability analysis and risk-based prioritization.
 <br>
-<a href="https://github.com/GaryCollinsAI-Sec/Cloud-Security-Engineering-Projects">
-View Cloud Security Projects
-</a>
+<a href="#">View Project</a>
 </li>
 
-
-
 <li>
-<strong>AI & Machine Learning Security</strong><br>
-Machine learning experiments for anomaly detection, intrusion detection, and AI-assisted security workflows.
+<strong>Vulnerability Reporting & Risk Analysis</strong><br>
+Professional-grade reports including executive summaries, technical findings, and remediation roadmaps.
 <br>
-<a href="https://github.com/GaryCollinsAI-Sec/AI-Security-Engineering-Projects">
-View AI Security Projects
-</a>
+<a href="#">View Reports</a>
 </li>
 
 </ul>
@@ -75,28 +61,23 @@ View AI Security Projects
 
 <p>
 
-<strong>Full-Stack Development</strong><br>
-React, TypeScript, FastAPI, Tailwind CSS, PostgreSQL, Docker
+<strong>Vulnerability Management & Assessment</strong><br>
+Nessus, OpenVAS, Nmap, CVSS Scoring, Risk Prioritization, Asset-Based Analysis
+<br><br>
 
-
+<strong>Security Tools & Analysis</strong><br>
+Wireshark, Burp Suite, Wazuh, Splunk, Snort, Suricata
+<br><br>
 
 <strong>Cloud & Infrastructure</strong><br>
 AWS (EC2, IAM, CloudTrail), Docker, pfSense, VirtualBox
+<br><br>
+
+<strong>Programming & Automation</strong><br>
+Python, Bash, PowerShell, SQL (automation, parsing scan results, reporting)
+<br><br>
 
 
-
-<strong>Detection & Security Engineering</strong><br>
-Splunk, Wazuh, Wireshark, Snort, Suricata, Nessus
-
-
-
-<strong>AI & Machine Learning</strong><br>
-PyTorch, Scikit-learn, Pandas, NumPy, BERT, Transformers, Ollama
-
-
-
-<strong>Programming</strong><br>
-Python, Go, JavaScript, Bash, SQL, PowerShell, C++, Java
 
 
 <strong>Operating Systems</strong><br>
@@ -112,7 +93,6 @@ Linux (Kali, Ubuntu), Windows 10/11
 <li>Cisco Ethical Hacking Certificate (Expected March 2026)</li>
 </ul>
 
-
 <h2>Education</h2>
 
 <ul>
@@ -121,15 +101,10 @@ Linux (Kali, Ubuntu), Windows 10/11
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
 </ul>
 
-
 <hr>
 
 <p align="center">
 <em>
-Building secure software, cloud-native detection systems, and intelligent security tools that transform data into actionable defense.
+Focused on reducing risk through structured vulnerability analysis, prioritization, and remediation.
 </em>
 </p>
-
-
-
-
