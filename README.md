@@ -30,7 +30,7 @@ Built and managed a cloud-based ITSM system to support 15+ simulated users acros
 <strong>Impact:</strong> Resolved critical tier-1 and tier-2 issues involving <strong>VPN tunnels</strong>, <strong>Windows 11</strong> OS loops, and <strong>Network Printing</strong>; documented all resolutions with clear technical SOPs.
 
 
-<a href="https://github.com/GaryCollinsAI-Sec/IT-Help-Desk-Ticketing-Lab">View Project</a>
+<a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
 
 
