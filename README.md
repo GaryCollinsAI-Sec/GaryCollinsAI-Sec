@@ -1,13 +1,13 @@
-<h1>Hi, I'm Gary Collins</h1>
+<h1>Gary Collins</h1>
+
 <p>
-<strong>Systems Administrator | IT Operations & Infrastructure Specialist</strong>
+<strong>Cybersecurity & IT Infrastructure Engineer | Systems Administration | Network Security | Incident Response</strong>
+</p>
 
+<p>
+IT and cybersecurity professional with experience supporting enterprise systems, maintaining infrastructure reliability, and applying security principles to protect networks and endpoints. Skilled in systems administration, network troubleshooting, and security-focused operations including vulnerability identification, incident response, and infrastructure hardening.
 
-
-I specialize in enterprise IT operations, systems deployment, and high-level technical support. My focus is on maintaining 99.9% system uptime, optimizing network connectivity, and providing rapid-response troubleshooting for diverse government and corporate environments.
-
-With a background in Computer Science and Systems Engineering, I leverage automation (PowerShell/Python) to streamline administrative tasks, manage Active Directory at scale, and ensure seamless service delivery for all end-users.
-
+Currently advancing toward cybersecurity engineering with hands-on experience in lab-based security projects involving threat detection, network defense, and system monitoring.
 </p>
 
 <p>
@@ -18,78 +18,104 @@ With a background in Computer Science and Systems Engineering, I leverage automa
 
 <hr>
 
-<h2>🛠️ Featured IT Infrastructure & Systems Projects</h2>
+<h2>🛡️ Cybersecurity & Infrastructure Projects</h2>
+
 <ul>
+
 <li>
-<strong>Enterprise Help Desk & Ticketing Environment (Spiceworks)</strong>
+<strong>Enterprise IT Service Desk & Security Incident Simulation Environment</strong>
+<br><br>
 
+Built and managed a simulated IT service desk environment supporting multi-department operations while integrating security-focused troubleshooting scenarios including authentication issues, VPN anomalies, and system misconfigurations.
 
-Built and managed a cloud-based ITSM system to support 15+ simulated users across County departments (Law Enforcement, Health Services, Public Works).
+<br><br>
 
+<strong>IT & Security Impact:</strong>
+<ul>
+<li>Resolved tier-1 and tier-2 technical issues across Windows and network environments</li>
+<li>Applied structured incident documentation aligned with basic security triage workflows</li>
+<li>Improved troubleshooting efficiency through standardized resolution procedures</li>
+</ul>
 
-<strong>Impact:</strong> Resolved critical tier-1 and tier-2 issues involving <strong>VPN tunnels</strong>, <strong>Windows 11</strong> OS loops, and <strong>Network Printing</strong>; documented all resolutions with clear technical SOPs.
-
-
+<br>
 <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
 
+<br><br>
 
 <li>
-<strong>Network Infrastructure Hardening & Migration</strong>
+<strong>Network Infrastructure Security Hardening & Segmentation Project</strong>
+<br><br>
 
+Assessed and improved a simulated enterprise network environment by implementing firewall rules, segmentation strategies, and access control controls using pfSense.
 
-Managed the assessment and modernization of legacy network services to ensure operational continuity and hardware reliability.
+<br><br>
 
+<strong>IT & Security Impact:</strong>
+<ul>
+<li>Configured network infrastructure including VPNs, routing, and firewall rules</li>
+<li>Reduced attack surface through segmentation and controlled access policies</li>
+<li>Improved network stability and security posture through infrastructure hardening</li>
+</ul>
 
-<strong>Impact:</strong> Implemented <strong>pfSense</strong> firewall rules and network segmentation to isolate critical department traffic and improve overall network performance.
-
-
+<br>
 <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
 </li>
 
+</ul>
 
 <hr>
 
-<h2>Technical Skills</h2>
+<h2>🧠 Technical Skills</h2>
+
 <p>
-<strong>Systems Administration</strong>
+<strong>Cybersecurity & Defense</strong><br>
+Vulnerability Assessment • Incident Response Fundamentals • Network Traffic Analysis • Security Hardening • Threat Detection • Firewall Configuration • Security Monitoring
+</p>
 
+<p>
+<strong>Systems Administration (IT Core)</strong><br>
+Windows Server 2019/2022 • Windows 10/11 • Active Directory (Users, Groups, GPO) • DNS/DHCP • Patch Management (WSUS) • Print Services • System Troubleshooting
+</p>
 
-Windows Server 2019/2022, Windows 10/11, Active Directory (Users & Computers, GPO), DNS/DHCP, Print Server Management, Patch Management (WSUS)
+<p>
+<strong>Networking & Infrastructure</strong><br>
+TCP/IP • VPN Configuration • VLANs • Routing • Network Troubleshooting • pfSense • Wireshark
+</p>
 
+<p>
+<strong>Security Tools</strong><br>
+Wireshark • Splunk (SIEM) • pfSense • VirtualBox • Windows Security Tools
+</p>
 
-
-<strong>ITSM & Support</strong>
-
-
-Ticketing Systems (Spiceworks) and VoIP Configuration
-
-
-
-<strong>Networking & Infrastructure</strong>
-
-
-VPN Configuration, TCP/IP Troubleshooting, VLAN Segmentation, pfSense, Wireshark, Static Routing
-
-
-
-<strong>Automation & Scripting</strong>
-
-
-PowerShell, Python, Bash, SQL, Cursor AI
-
-
-
-<strong>Virtualization & Cloud</strong>
-
-
-VirtualBox, Docker, AWS (S3/EC2/IAM), IBM Cloud
-
+<p>
+<strong>Scripting & Automation</strong><br>
+PowerShell • Python • Bash • SQL
 </p>
 
 <hr>
 
-<h2>Education & Professional Development</h2>
+<h2>🧪 Active Security Engineering Project</h2>
+
+<p>
+<strong>Multi-Layer Intrusion Detection & Incident Response Lab (SIEM + Network Analysis)</strong><br><br>
+
+Designing a full-stack security monitoring environment that integrates system logs, network traffic analysis, and intrusion detection to simulate real-world SOC operations.
+
+<br><br>
+
+<strong>Technologies:</strong>
+<ul>
+<li>Splunk (SIEM log analysis and alerting)</li>
+<li>Wireshark (network traffic inspection)</li>
+<li>Suricata (intrusion detection system)</li>
+</ul>
+</p>
+
+<hr>
+
+<h2>🎓 Education & Professional Development</h2>
+
 <ul>
 <li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (Expected 2026)</li>
 <li><strong>B.S. Computer Science</strong> – Colorado State University Global (2024)</li>
@@ -100,5 +126,5 @@ VirtualBox, Docker, AWS (S3/EC2/IAM), IBM Cloud
 <hr>
 
 <p align="center">
-<em>Focused on delivering reliable, efficient, and scalable IT infrastructure through technical innovation and proactive service.</em>
+<em>Bridging IT infrastructure and cybersecurity engineering to build secure, resilient, and high-availability systems.</em>
 </p>
