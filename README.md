@@ -143,7 +143,9 @@ Developing SOC-style monitoring workflows using SIEM, network analysis, and intr
 <li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (Expected 2026)</li>
 <li><strong>B.S. Computer Science</strong> – Colorado State University Global (2024)</li>
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
-<li>Google IT Support Professional Certificate (2026)</li>
+<li>Comptia Security+ (Expected 2026) </li>
+<li>Cisco CCNA (Expected 2026) </li>
+<li>Google IT Support Professional Certificate (Expected 2026)</li>
 </ul>
 
 <hr>
