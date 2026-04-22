@@ -89,21 +89,6 @@ Performed full exploitation lifecycle in a segmented lab environment using Kali 
 <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
 </li>
 
-<br>
-
-<li>
-<strong>Network Security Hardening & Segmentation (pfSense)</strong><br>
-Implemented firewall rules and network segmentation to reduce attack surface in a simulated enterprise environment.<br><br>
-
-<strong>Focus:</strong>
-<ul>
-<li>Configured pfSense firewall policies</li>
-<li>Implemented network segmentation</li>
-<li>Reduced lateral movement risk</li>
-</ul>
-
-<a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
-</li>
 
 <br>
 
@@ -123,20 +108,7 @@ Simulated IT service desk operations with structured incident handling workflows
 
 <br>
 
-<li>
-<strong>Security Monitoring Lab (SIEM + Network Analysis) - In Progress </strong><br>
-Developing SOC-style monitoring workflows using SIEM, network analysis, and intrusion detection tools.<br><br>
 
-<strong>Focus:</strong>
-<ul>
-<li>Log analysis using Splunk</li>
-<li>Network inspection using Wireshark</li>
-<li>Intrusion detection using Suricata</li>
-<li>Incident correlation and analysis workflows</li>
-</ul>
-
-<em>Active SOC monitoring project</em>
-</li>
 
 </ul>
 
