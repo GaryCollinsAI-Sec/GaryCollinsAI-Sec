@@ -57,6 +57,25 @@ PowerShell • Python • Bash • SQL
 <ul>
 
 <li>
+<strong>Virtual Network Security Lab (pfSense | VLANs | VPN | VirtualBox)</strong><br>
+Built a fully segmented enterprise-style virtual network environment simulating real-world security architecture, including firewall enforcement, VLAN segmentation, VPN access control, and attack simulation testing.<br><br>
+
+<strong>Focus:</strong>
+<ul>
+<li>Designed multi-tier network architecture using pfSense</li>
+<li>Implemented VLAN-based segmentation (User vs Server networks)</li>
+<li>Configured stateful firewall rules with default-deny posture</li>
+<li>Enabled secure VPN access into isolated lab environment</li>
+<li>Performed attack simulation using Kali Linux (Nmap, enumeration)</li>
+<li>Validated security controls through exploitation testing</li>
+</ul>
+
+<a href="https://github.com/YOUR-REPO-LINK-HERE">View Project</a>
+</li>
+
+<br>
+
+<li>
 <strong>Vulnerability Management Lab (Nessus)</strong><br>
 Scanned Linux systems for vulnerabilities and implemented structured remediation in a virtual enterprise environment.<br><br>
 
@@ -89,7 +108,6 @@ Performed full exploitation lifecycle in a segmented lab environment using Kali 
 <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Legacy-System-Exploitation-Remediation">View Project</a>
 </li>
 
-
 <br>
 
 <li>
@@ -105,10 +123,6 @@ Simulated IT service desk operations with structured incident handling workflows
 
 <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
-
-<br>
-
-
 
 </ul>
 
