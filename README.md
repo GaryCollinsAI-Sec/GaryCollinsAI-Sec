@@ -58,14 +58,13 @@ PowerShell • Python • Bash • SQL
 
 <li>
 <strong>Virtual Network Security Lab (pfSense | VLANs | Wireshark | Suricata | VirtualBox)</strong><br>
-Built a fully segmented enterprise-style virtual network environment simulating real-world security architecture, including firewall enforcement, VLAN segmentation, VPN access control, and attack simulation testing.<br><br>
+Built a fully segmented enterprise-style virtual network environment simulating real-world security architecture, including firewall enforcement, VLAN segmentation, and attack simulation testing.<br><br>
 
 <strong>Focus:</strong>
 <ul>
 <li>Designed multi-tier network architecture using pfSense</li>
 <li>Implemented VLAN-based segmentation (User vs Server networks)</li>
 <li>Configured stateful firewall rules with default-deny posture</li>
-<li>Enabled secure VPN access into isolated lab environment</li>
 <li>Performed attack simulation using Kali Linux (Nmap, enumeration)</li>
 <li>Validated security controls through exploitation testing</li>
 </ul>
