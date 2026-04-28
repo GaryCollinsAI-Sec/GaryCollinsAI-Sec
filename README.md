@@ -32,7 +32,7 @@ AWS Core Services • IAM (Users, Roles, Policies) • Cloud Security Fundamenta
 
 <p>
 <strong>Networking & Defense</strong><br>
-TCP/IP • DNS • DHCP • VPNs • VLANs • Routing • Network Troubleshooting • pfSense (Firewall & Segmentation) • Wireshark
+TCP/IP • DNS • DHCP • VLANs • Routing • Network Troubleshooting • pfSense (Firewall & Segmentation) • Wireshark
 </p>
 
 <p>
