@@ -5,7 +5,7 @@
 <p>
 Cybersecurity and IT infrastructure professional focused on vulnerability management, security monitoring, and network defense in enterprise-style environments. Experienced in identifying security risks, analyzing system and network activity, penetration testing, and implementing remediation through structured, risk-based approaches.
 
-Hands-on experience with SIEM analysis, intrusion detection, vulnerability assessment, identity and access management (IAM), AI Security, Cloud Security, and network segmentation using tools such as AWS, IAM, pfSense, Splunk, Suricata, Wireshark, Kali Linux, and Metasploitable 2.
+Hands-on experience with SIEM analysis, intrusion detection, vulnerability assessment, identity and access management (IAM), AI Security, Cloud Security, and network segmentation using tools such as AWS, IAM, pfSense, Splunk, Suricata, Wireshark, Kali Linux, DVWA, and Metasploitable 2.
 </p>
 
 <p>
