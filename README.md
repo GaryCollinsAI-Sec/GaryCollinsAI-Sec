@@ -1,8 +1,6 @@
 <h1>Gary Collins</h1>
 
-<p>
-<strong>Cybersecurity Engineer | Network Security | Systems Administration | Incident Response</strong>
-</p>
+
 
 <p>
 Cybersecurity and IT infrastructure professional focused on vulnerability management, security monitoring, and network defense in enterprise-style environments. Experienced in identifying security risks, analyzing system and network activity, penetration testing, and implementing remediation through structured, risk-based approaches.
