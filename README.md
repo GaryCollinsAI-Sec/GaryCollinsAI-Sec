@@ -39,8 +39,8 @@ Suricata • Snort • Nessus Essentials • AWS Console • Kali Linux • Parr
 </p>
 
 <p>
-<strong>Containers</strong><br>
-Docker
+<strong>Containers & Infrastructure as code</strong><br>
+Docker • Cloudformation
 </p>
 
 <p>
