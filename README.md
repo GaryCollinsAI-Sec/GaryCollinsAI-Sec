@@ -93,7 +93,7 @@ Scanned Linux systems for vulnerabilities and implemented structured remediation
 
 <li>
 <strong>Penetration Testing Lab (Kali Linux + Metasploitable 2 + DVWA + pfSense)</strong><br>
-Performed full exploitation lifecycle in a segmented lab environment using Kali Linux and Metasploitable 2 with pfSense-based containment.<br><br>
+Performed full exploitation lifecycle in a segmented lab environment using Kali Linux and Metasploitable 2 or DVWA with pfSense-based containment.<br><br>
 
 <strong>Focus:</strong>
 <ul>
