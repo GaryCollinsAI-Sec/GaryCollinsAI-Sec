@@ -35,7 +35,7 @@ TCP/IP • DNS • DHCP • VLANs • Routing • Network Troubleshooting • pf
 
 <p>
 <strong>Security Tools</strong><br>
-Suricata • Nessus Essentials • AWS Console • Kali Linux • Parrot OS Security • VirtualBox • pfSense • Wazuh • Splunk
+Suricata • Snort • Nessus Essentials • AWS Console • Kali Linux • Parrot OS Security • VirtualBox • pfSense • Wazuh • Splunk
 </p>
 
 <p>
