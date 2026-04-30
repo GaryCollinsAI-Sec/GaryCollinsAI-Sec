@@ -138,6 +138,8 @@ Simulated IT service desk operations with structured incident handling workflows
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
 <li>CompTIA Security+ (Expected 2026)</li>
 <li>Cisco CCNA (Expected 2026)</li>
+<li>Cisco Ethical Hacking Certificate (Expected 2026) </li>
+<li>Google Cyber Security(Expected 2026)</li>
 <li>Google IT Support Professional Certificate (2026)</li>
 </ul>
 
