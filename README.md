@@ -106,20 +106,6 @@ Scanned Linux systems for vulnerabilities and implemented structured remediation
 
 <br>
 
-<li>
-<strong>Penetration Testing Lab (Kali Linux + Metasploitable 2 + DVWA + pfSense)</strong><br>
-Performed full exploitation lifecycle in a segmented lab environment using Kali Linux and Metasploitable 2 or DVWA with pfSense-based containment.<br><br>
-
-<strong>Focus:</strong>
-<ul>
-<li>Validated critical remote code execution vulnerability</li>
-<li>Confirmed full system compromise via exploitation testing</li>
-<li>Applied network-level containment using pfSense</li>
-<li>Hardened system to eliminate attack vectors</li>
-</ul>
-
-<a href="https://github.com/GaryCollinsAI-Sec/Penetration-Testing-Lab">View Project</a>
-</li>
 
 <br>
 
