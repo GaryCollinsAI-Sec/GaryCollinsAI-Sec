@@ -1,10 +1,7 @@
 <h1>Gary Collins</h1>
 
-
-
 <p>
 Cybersecurity and IT infrastructure professional focused on vulnerability management, security monitoring, troubleshooting and network defense in enterprise-style environments. Experienced in identifying technical problems, security risks, analyzing system and network activity, and implementing remediation through structured, risk-based approaches. 
-
 </p>
 
 <p>
@@ -23,8 +20,8 @@ Vulnerability Management • Incident Response • Log Analysis • Threat Detec
 </p>
 
 <p>
-<strong>Cloud & Security (AWS)</strong><br>
-AWS Core Services • IAM (Users, Roles, Policies) • Cloud Security Fundamentals • Access Control • Identity Governance Concepts
+<strong>Cloud & Security (Azure & AWS)</strong><br>
+Microsoft Entra ID (Azure AD) • RBAC • MFA • AWS Core Services • IAM (Users, Roles, Policies) • Cloud Security Fundamentals • Identity Governance
 </p>
 
 <p>
@@ -34,7 +31,7 @@ TCP/IP • DNS • DHCP • VLANs • VPN • Routing • Network Troubleshootin
 
 <p>
 <strong>Security Tools</strong><br>
-Suricata • Snort • Nessus Essentials • AWS Console • Kali Linux • Parrot OS Security • VirtualBox • pfSense • Wazuh • Splunk
+Suricata • Snort • Nessus Essentials • Azure Portal • AWS Console • Kali Linux • Parrot OS Security • VirtualBox • pfSense • Wazuh • Splunk
 </p>
 
 <p>
@@ -59,6 +56,23 @@ PowerShell • Python • Bash • Golang • Java • Javascript • C++ • SQ
 <ul>
 
 <li>
+<strong>Azure Active Directory Identity Defense (Entra ID | RBAC | MFA | PoLP)</strong><br>
+Implemented a secure identity infrastructure in Microsoft Entra ID, focusing on Role-Based Access Control (RBAC) and the Principle of Least Privilege.<br><br>
+
+<strong>Focus:</strong>
+<ul>
+<li>Configured Security Defaults to enforce Multi-Factor Authentication (MFA)</li>
+<li>Created a tiered identity structure (Global Admin, User Admin, Reader)</li>
+<li>Implemented Zero-Trust password policies for new user onboarding</li>
+<li>Audited and verified RBAC boundaries to prevent privilege escalation</li>
+</ul>
+
+<a href="https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense">View Project</a>
+</li>
+
+<br>
+
+<li>
 <strong>Virtual Network Security Lab (pfSense | VLANs | Wireshark | Suricata | VirtualBox)</strong><br>
 Built a fully segmented enterprise-style virtual network environment simulating real-world security architecture, including firewall enforcement, VLAN segmentation, and attack simulation testing.<br><br>
 
@@ -68,7 +82,6 @@ Built a fully segmented enterprise-style virtual network environment simulating 
 <li>Implemented VLAN-based segmentation (User vs Server networks)</li>
 <li>Configured stateful firewall rules with default-deny posture</li>
 <li>Performed attack simulation using Kali Linux (Nmap, enumeration)</li>
-<li>Validated security controls through exploitation testing</li>
 </ul>
 
 <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
@@ -103,7 +116,6 @@ Performed full exploitation lifecycle in a segmented lab environment using Kali 
 <li>Confirmed full system compromise via exploitation testing</li>
 <li>Applied network-level containment using pfSense</li>
 <li>Hardened system to eliminate attack vectors</li>
-<li>Verified remediation via exploit failure testing</li>
 </ul>
 
 <a href="https://github.com/GaryCollinsAI-Sec/Penetration-Testing-Lab">View Project</a>
@@ -137,12 +149,5 @@ Simulated IT service desk operations with structured incident handling workflows
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
 <li>CompTIA Security+ (Expected 2026)</li>
 <li>Cisco CCNA (Expected 2026)</li>
-<li>Google Cyber Security(Expected 2026)</li>
-<li>Google IT Support Professional Certificate (2026)</li>
+<li>Google Cyber Security (Expected 2026)</li>
 </ul>
-
-<hr>
-
-<p align="center">
-<em>Cybersecurity and IT infrastructure professional focused on building secure, resilient, and observable systems through hands-on security engineering and operations practice.</em>
-</p>
