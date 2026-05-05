@@ -1,12 +1,12 @@
 <h1>Gary Collins</h1>
 
 <p>
-Cybersecurity and IT infrastructure professional focused on vulnerability management, security monitoring, troubleshooting and network defense in enterprise-style environments. Experienced in identifying technical problems, security risks, analyzing system and network activity, and implementing remediation through structured, risk-based approaches. 
+Cybersecurity and IT professional dedicated to securing and maintaining enterprise-style environments. Focused on the intersection of system administration and network defense, I combine technical troubleshooting with vulnerability management to ensure both operational uptime and a hardened security posture.
 </p>
 
 <p>
 <a href="https://linkedin.com/in/garyjosephcollins">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
@@ -35,7 +35,7 @@ Suricata • Snort • Nessus Essentials • Azure Portal • AWS Console • Ka
 </p>
 
 <p>
-<strong>Containers & Infrastructure as code</strong><br>
+<strong>Containers & Infrastructure as Code</strong><br>
 Docker • CloudFormation
 </p>
 
@@ -46,7 +46,7 @@ Windows 10/11 • Linux (Ubuntu) • IT Support Fundamentals • System Troubles
 
 <p>
 <strong>Scripting & Programming</strong><br>
-PowerShell • Python • Bash • Golang • Java • Javascript • C++ • SQL
+PowerShell • Python • Bash • Golang • Java • JavaScript • C++ • SQL
 </p>
 
 <hr>
@@ -54,11 +54,23 @@ PowerShell • Python • Bash • Golang • Java • Javascript • C++ • SQ
 <h2>🛡️ Security & IT Projects</h2>
 
 <ul>
+<li>
+<strong>Enterprise Help Desk & IT Support Environment</strong><br>
+Simulated IT service desk operations with structured incident handling workflows.<br><br>
+<strong>Focus:</strong>
+<ul>
+<li>Resolved VPN, system, and network incidents</li>
+<li>Applied structured troubleshooting methods</li>
+<li>Documented technical resolutions</li>
+</ul>
+<a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
+</li>
+
+<br>
 
 <li>
 <strong>Azure Active Directory Identity Defense (Entra ID | RBAC | MFA | PoLP)</strong><br>
 Implemented a secure identity infrastructure in Microsoft Entra ID, focusing on Role-Based Access Control (RBAC) and the Principle of Least Privilege.<br><br>
-
 <strong>Focus:</strong>
 <ul>
 <li>Configured Security Defaults to enforce Multi-Factor Authentication (MFA)</li>
@@ -66,7 +78,6 @@ Implemented a secure identity infrastructure in Microsoft Entra ID, focusing on 
 <li>Implemented Zero-Trust password policies for new user onboarding</li>
 <li>Audited and verified RBAC boundaries to prevent privilege escalation</li>
 </ul>
-
 <a href="https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense">View Project</a>
 </li>
 
@@ -75,15 +86,13 @@ Implemented a secure identity infrastructure in Microsoft Entra ID, focusing on 
 <li>
 <strong>Virtual Network Security Lab (pfSense | VLANs | Wireshark | Suricata | VirtualBox)</strong><br>
 Built a fully segmented enterprise-style virtual network environment simulating real-world security architecture, including firewall enforcement, VLAN segmentation, and attack simulation testing.<br><br>
-
 <strong>Focus:</strong>
 <ul>
 <li>Designed multi-tier network architecture using pfSense</li>
-<li>Implemented VLAN-based segmentation (User vs Server networks)</li>
+<li>Implemented VLAN-based segmentation (User vs. Server networks)</li>
 <li>Configured stateful firewall rules with default-deny posture</li>
 <li>Performed attack simulation using Kali Linux (Nmap, enumeration)</li>
 </ul>
-
 <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
 </li>
 
@@ -92,7 +101,6 @@ Built a fully segmented enterprise-style virtual network environment simulating 
 <li>
 <strong>Vulnerability Management Lab (Nessus)</strong><br>
 Scanned Linux systems for vulnerabilities and implemented structured remediation in a virtual enterprise environment.<br><br>
-
 <strong>Focus:</strong>
 <ul>
 <li>Identified vulnerabilities using Nessus</li>
@@ -100,29 +108,8 @@ Scanned Linux systems for vulnerabilities and implemented structured remediation
 <li>Remediated issues through service removal and hardening</li>
 <li>Validated fixes through post-scan verification</li>
 </ul>
-
 <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
 </li>
-
-<br>
-
-
-<br>
-
-<li>
-<strong>Enterprise Help Desk & IT Support Environment</strong><br>
-Simulated IT service desk operations with structured incident handling workflows.<br><br>
-
-<strong>Focus:</strong>
-<ul>
-<li>Resolved VPN, system, and network incidents</li>
-<li>Applied structured troubleshooting methods</li>
-<li>Documented technical resolutions</li>
-</ul>
-
-<a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
-</li>
-
 </ul>
 
 <hr>
@@ -135,5 +122,5 @@ Simulated IT service desk operations with structured incident handling workflows
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
 <li>CompTIA Security+ (Expected 2026)</li>
 <li>Cisco CCNA (Expected 2026)</li>
-<li>Google Cyber Security (Expected 2026)</li>
+<li>Google Cybersecurity Professional (Expected 2026)</li>
 </ul>
