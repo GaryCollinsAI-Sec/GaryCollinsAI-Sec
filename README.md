@@ -130,5 +130,5 @@ Performed structured vulnerability assessment and remediation using enterprise s
 <br>
 <li>CompTIA Security+ (In Progress)</li>
 <li>Cisco CCNA (In Progress)</li>
-<li>Google Cybersecurity Professional Certificate (Completed/In Progress)</li>
+<li>Google Cybersecurity Professional Certificate (In Progress)</li>
 </ul>
