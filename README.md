@@ -85,15 +85,16 @@ Built a secure identity environment using Microsoft Entra ID with enterprise-gra
 <br>
 
 <li>
-<strong>Enterprise Network & Security Lab (pfSense | VLANs | IDS)</strong><br>
+<strong>Enterprise Network & Security Lab (pfSense | VLANs | IDS/IPS | Wireshark)</strong><br>
 Designed and built a segmented virtual enterprise network to simulate production infrastructure and security monitoring.<br><br>
 
 <strong>Infrastructure + Security Focus:</strong>
 <ul>
 <li>Configured VLAN segmentation for user/server separation</li>
 <li>Implemented firewall rules with default-deny architecture</li>
-<li>Deployed IDS/IPS tools for traffic monitoring</li>
+<li>Deployed IDS/IPS and Wireshark for network traffic monitoring and security analysis</li>
 <li>Simulated attacker behavior using Kali Linux</li>
+
 </ul>
 
 <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
