@@ -103,7 +103,7 @@ Designed and built a segmented virtual enterprise network to simulate production
 <br>
 
 <li>
-<strong>Vulnerability Management & Patch Validation Lab</strong><br>
+<strong>Vulnerability Management Lab</strong><br>
 Performed structured vulnerability assessment and remediation using enterprise scanning workflows.<br><br>
 
 <strong>Security Operations Focus:</strong>
