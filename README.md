@@ -1,7 +1,7 @@
 <h1>Gary Collins</h1>
 
 <p>
-Cybersecurity and IT professional dedicated to securing and maintaining enterprise-style environments. Focused on the intersection of system administration and network defense, I combine technical troubleshooting with vulnerability management to ensure both operational uptime and a hardened security posture.
+Cybersecurity and IT professional focused on bridging <strong>system administration, IT operations, and security engineering</strong>. I specialize in building and supporting enterprise-style environments with an emphasis on identity security, infrastructure reliability, and threat detection. My goal is to ensure systems are not only operational, but resilient, monitored, and hardened against modern threats.
 </p>
 
 <p>
@@ -12,115 +12,122 @@ Cybersecurity and IT professional dedicated to securing and maintaining enterpri
 
 <hr>
 
-<h2>🧠 Technical Skills</h2>
+<h2>🧠 Core Technical Focus</h2>
 
 <p>
-<strong>Security Operations</strong><br>
-Vulnerability Management • Incident Response • Log Analysis • Threat Detection • Security Monitoring • Risk Assessment • Identity & Access Management (IAM)
+<strong>IT Operations & System Administration</strong><br>
+Help Desk Support • Ticketing Systems • Windows & Linux Administration • Endpoint Troubleshooting • Active Directory Basics • User Account Management • System Recovery
 </p>
 
 <p>
-<strong>Cloud & Security (Azure & AWS)</strong><br>
-Microsoft Entra ID (Azure AD) • RBAC • MFA • AWS Core Services • IAM (Users, Roles, Policies) • Cloud Security Fundamentals • Identity Governance
+<strong>Cybersecurity Operations</strong><br>
+Incident Response • Threat Detection • Vulnerability Management • Log Analysis • Security Monitoring • Risk Assessment • Security Hardening
 </p>
 
 <p>
-<strong>Networking & Defense</strong><br>
-TCP/IP • DNS • DHCP • VLANs • VPN • Routing • Network Troubleshooting • pfSense (Firewall & Segmentation) • Wireshark
+<strong>Identity & Cloud Security</strong><br>
+Microsoft Entra ID (Azure AD) • IAM (AWS) • RBAC • MFA • Zero Trust Principles • Identity Governance • Cloud Security Fundamentals
 </p>
 
 <p>
-<strong>Security Tools</strong><br>
-Suricata • Snort • Nessus Essentials • Azure Portal • AWS Console • Kali Linux • VirtualBox • pfSense • Wazuh • Splunk
+<strong>Networking & Infrastructure</strong><br>
+TCP/IP • DNS • DHCP • VLANs • VPNs • Network Troubleshooting • Firewall Configuration (pfSense) • Packet Analysis (Wireshark)
 </p>
 
 <p>
-<strong>Containers & Infrastructure as Code</strong><br>
-Docker • CloudFormation
+<strong>Security & IT Tools</strong><br>
+Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • VirtualBox • Azure Portal • AWS Console • pfSense
 </p>
 
 <p>
-<strong>Systems</strong><br>
-Windows 10/11 • Linux (Ubuntu) • IT Support Fundamentals • System Troubleshooting
-</p>
-
-<p>
-<strong>Scripting & Programming</strong><br>
-PowerShell • Python • Bash • Golang • Java • JavaScript • C++ • SQL
+<strong>Automation & Scripting</strong><br>
+PowerShell (IT automation) • Python (security tooling) • Bash (Linux administration) • SQL (log/query analysis)
 </p>
 
 <hr>
 
-<h2>🛡️ Security & IT Projects</h2>
+<h2>🛡️ IT & Cybersecurity Projects</h2>
 
 <ul>
+
 <li>
-<strong>Enterprise Help Desk & IT Support Environment</strong><br>
-Simulated IT service desk operations with structured incident handling workflows.<br><br>
-<strong>Focus:</strong>
+<strong>Enterprise IT Help Desk & Ticketing System Simulation</strong><br>
+Simulated IT service desk environment modeled after enterprise support workflows, focusing on real-world troubleshooting and ticket resolution processes.<br><br>
+
+<strong>IT Operations Focus:</strong>
 <ul>
-<li>Resolved VPN, system, and network incidents</li>
-<li>Applied structured troubleshooting methods</li>
-<li>Documented technical resolutions</li>
+<li>User support for VPN, login, and system issues</li>
+<li>Structured ticket triage and escalation process</li>
+<li>Active Directory-style user lifecycle management concepts</li>
+<li>Documentation of incident resolution procedures</li>
 </ul>
+
 <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
 </li>
 
 <br>
 
 <li>
-<strong>Azure Active Directory Identity Defense (Entra ID | RBAC | MFA | PoLP)</strong><br>
-Implemented a secure identity infrastructure in Microsoft Entra ID, focusing on Role-Based Access Control (RBAC) and the Principle of Least Privilege.<br><br>
-<strong>Focus:</strong>
+<strong>Azure Active Directory Identity & Access Security Lab</strong><br>
+Built a secure identity environment using Microsoft Entra ID with enterprise-grade access controls and policy enforcement.<br><br>
+
+<strong>Security Focus:</strong>
 <ul>
-<li>Configured Security Defaults to enforce Multi-Factor Authentication (MFA)</li>
-<li>Created a tiered identity structure (Global Admin, User Admin, Reader)</li>
-<li>Implemented Zero-Trust password policies for new user onboarding</li>
-<li>Audited and verified RBAC boundaries to prevent privilege escalation</li>
+<li>Implemented RBAC for role separation and privilege control</li>
+<li>Enforced MFA via Security Defaults</li>
+<li>Applied Zero Trust onboarding policies</li>
+<li>Validated least privilege access across users</li>
 </ul>
+
 <a href="https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense">View Project</a>
 </li>
 
 <br>
 
 <li>
-<strong>Virtual Network Security Lab (pfSense | VLANs | Wireshark | Suricata | VirtualBox)</strong><br>
-Built a fully segmented enterprise-style virtual network environment simulating real-world security architecture, including firewall enforcement, VLAN segmentation, and attack simulation testing.<br><br>
-<strong>Focus:</strong>
+<strong>Enterprise Network & Security Lab (pfSense | VLANs | IDS)</strong><br>
+Designed and built a segmented virtual enterprise network to simulate production infrastructure and security monitoring.<br><br>
+
+<strong>Infrastructure + Security Focus:</strong>
 <ul>
-<li>Designed multi-tier network architecture using pfSense</li>
-<li>Implemented VLAN-based segmentation (User vs. Server networks)</li>
-<li>Configured stateful firewall rules with default-deny posture</li>
-<li>Performed attack simulation using Kali Linux (Nmap, enumeration)</li>
+<li>Configured VLAN segmentation for user/server separation</li>
+<li>Implemented firewall rules with default-deny architecture</li>
+<li>Deployed IDS/IPS tools for traffic monitoring</li>
+<li>Simulated attacker behavior using Kali Linux</li>
 </ul>
+
 <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
 </li>
 
 <br>
 
 <li>
-<strong>Vulnerability Management Lab (Nessus)</strong><br>
-Scanned Linux systems for vulnerabilities and implemented structured remediation in a virtual enterprise environment.<br><br>
-<strong>Focus:</strong>
+<strong>Vulnerability Management & Patch Validation Lab</strong><br>
+Performed structured vulnerability assessment and remediation using enterprise scanning workflows.<br><br>
+
+<strong>Security Operations Focus:</strong>
 <ul>
-<li>Identified vulnerabilities using Nessus</li>
-<li>Prioritized risk using CVSS scoring</li>
-<li>Remediated issues through service removal and hardening</li>
-<li>Validated fixes through post-scan verification</li>
+<li>Conducted vulnerability scans using Nessus</li>
+<li>Analyzed CVSS-based risk prioritization</li>
+<li>Performed system hardening and service remediation</li>
+<li>Validated fixes through rescanning and reporting</li>
 </ul>
+
 <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
 </li>
+
 </ul>
 
 <hr>
 
-<h2>🎓 Education</h2>
+<h2>🎓 Education & Certifications</h2>
 
 <ul>
 <li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (Expected 2026)</li>
 <li><strong>B.S. Computer Science</strong> – Colorado State University Global (2024)</li>
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
-<li>CompTIA Security+ (Expected 2026)</li>
-<li>Cisco CCNA (Expected 2026)</li>
-<li>Google Cybersecurity Professional (Expected 2026)</li>
+<br>
+<li>CompTIA Security+ (In Progress)</li>
+<li>Cisco CCNA (In Progress)</li>
+<li>Google Cybersecurity Professional Certificate (Completed/In Progress)</li>
 </ul>
