@@ -124,7 +124,7 @@ Performed structured vulnerability assessment and remediation using enterprise s
 <h2>🎓 Education & Certifications</h2>
 
 <ul>
-<li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (Expected 2026)</li>
+<li><strong>M.S. Cyber Engineering</strong> – University of the Cumberlands (2026)</li>
 <li><strong>B.S. Computer Science</strong> – Colorado State University Global (2024)</li>
 <li><strong>A.S. Computer Science</strong> – Yuba College (2021)</li>
 <br>
