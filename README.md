@@ -111,7 +111,7 @@ Performed structured vulnerability assessment and remediation using enterprise s
 <li>Conducted vulnerability scans using Nessus</li>
 <li>Analyzed CVSS-based risk prioritization</li>
 <li>Performed system hardening and service remediation</li>
-<li>Validated fixes through rescanning and reporting</li>
+<li>Validated fixes</li>
 </ul>
 
 <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
