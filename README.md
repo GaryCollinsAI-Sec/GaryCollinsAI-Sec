@@ -43,6 +43,11 @@
   NIST • OWASP Top 10 • HIPAA
 </p>
 <p>
+  <p>
+  <Strong>Containers & IaC</Strong><br>
+ Docker • CloudFormation
+</p>
+<p>
   <strong>Automation & Scripting</strong><br>
   PowerShell (IT automation) • Python (security tooling) • Bash (Linux administration) • SQL (log/query analysis) • Golang
 </p>
