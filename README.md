@@ -38,7 +38,10 @@
   <strong>Security & IT Tools</strong><br>
   Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • VirtualBox • Azure Portal • AWS Console • pfSense
 </p>
-
+<p>
+  <Strong>Security Compliance</Strong>
+  NIST • OWASP Top 10 • HIPAA
+</p>
 <p>
   <strong>Automation & Scripting</strong><br>
   PowerShell (IT automation) • Python (security tooling) • Bash (Linux administration) • SQL (log/query analysis) • Golang
