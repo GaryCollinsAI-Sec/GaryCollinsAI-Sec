@@ -45,7 +45,7 @@
 <p>
   <p>
   <Strong>Containers & IaC</Strong><br>
- Docker • TerraForm • Kubernetes (K8)
+ Docker • Kubernetes (K8) • TerraForm • CloudFormation
 </p>
 <p>
   <strong>Automation & Scripting</strong><br>
