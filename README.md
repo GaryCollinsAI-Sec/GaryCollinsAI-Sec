@@ -119,6 +119,26 @@ Performed structured vulnerability assessment and remediation using enterprise s
 
 </ul>
 
+
+<li>
+  <strong>Security Assessment Remediation & System Hardening Lab (Kali | Metasploitable | pfSense)</strong><br>
+  Managed the end-to-end remediation lifecycle within a segmented infrastructure, focusing on identifying configuration gaps and applying enterprise-grade hardening to prevent system compromise.<br><br>
+
+  <strong>IT & Operations Focus:</strong>
+  <ul>
+    <li><strong>Risk Validation:</strong> Performed targeted testing to confirm the impact of unpatched services and insecure defaults on operational continuity.</li>
+    <li><strong>Root Cause Remediation:</strong> Addressed critical vulnerabilities by applying patches, disabling legacy protocols, and correcting service misconfigurations to restore a secure baseline.</li>
+    <li><strong>Perimeter & Internal Hardening:</strong> Configured <strong>pfSense</strong> to enforce strict network-layer isolation, preventing unauthorized lateral movement and broadcast-domain exposure.</li>
+    <li><strong>Attack Surface Reduction:</strong> Standardized system configurations to eliminate known attack vectors, ensuring the environment meets "hardened" infrastructure standards.</li>
+  </ul>
+
+  <a href="https://github.com/GaryCollinsAI-Sec/Penetration-Testing-Lab">View Project</a>
+</li>
+
+  <a href="https://github.com/GaryCollinsAI-Sec/Penetration-Testing-Lab">View Project</a>
+</li>
+
+
 <hr>
 
 <h2>🎓 Education & Certifications</h2>
