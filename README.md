@@ -108,7 +108,7 @@
       <li><strong>Hardware Preservation:</strong> Implemented <strong>Log2Ram</strong> to offload system logging to virtual memory, protecting 8GB SD card storage from write-fatigue.</li>
       <li><strong>Validation & Verification:</strong> Conducted authoritative DNS lookups (<code>nslookup</code>) to verify real-time "sinkholing" of malicious domains to <code>0.0.0.0</code>.</li>
     </ul>
-    <a href="https://github.com/GaryCollinsAI-Sec/Iron-Cerberus-DNS-Sinkhole">View Project</a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Iron-Cerberus-DNS-Network-Wide-Hardware-Sinkhole-Raspberry-Pi-Pi-hole-Linux-Hardening-">View Project</a>
   </li>
 
   <br>
