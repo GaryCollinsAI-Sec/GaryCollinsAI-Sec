@@ -49,19 +49,7 @@
 <h2>🛡️ IT & Cybersecurity Projects</h2>
 
 <ul>
-  <li>
-    <strong>Iron Cerberus-DNS: Network-Wide Hardware Sinkhole (Raspberry Pi | Pi-hole | Linux Hardening)</strong><br>
-    Deployed a dedicated physical DNS sinkhole on a Raspberry Pi 3B+ to provide automated network-wide threat mitigation and advertisement filtering.<br><br>
-    <strong>Infrastructure & Security Focus:</strong>
-    <ul>
-      <li><strong>Network Persistence:</strong> Configured static IPv4 addressing and DHCP reservation to ensure 100% availability for network-wide DNS resolution.</li>
-      <li><strong>Targeted Endpoint Hardening:</strong> Utilized <code>nmcli</code> and <code>systemd-resolved</code> on Ubuntu clients to implement isolated, non-disruptive security testing environments.</li>
-      <li><strong>Hardware Preservation:</strong> Implemented <strong>Log2Ram</strong> to offload system logging to virtual memory, protecting 8GB SD card storage from write-fatigue.</li>
-      <li><strong>Validation & Verification:</strong> Conducted authoritative DNS lookups (<code>nslookup</code>) to verify real-time "sinkholing" of malicious domains to <code>0.0.0.0</code>.</li>
-    </ul>
-    <a href="https://github.com/GaryCollinsAI-Sec/Iron-Cerberus-DNS-Sinkhole">View Project</a>
-  </li>
-
+  
   <br>
 
   <li>
@@ -105,6 +93,22 @@
       <li>Simulated attacker behavior using Kali Linux</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
+  </li>
+
+<br>
+
+<li>
+    <strong>Iron Cerberus-DNS: Network-Wide Hardware Sinkhole (Raspberry Pi | Pi-hole | Linux Hardening)</strong><br>
+    Deployed a dedicated physical DNS sinkhole on a Raspberry Pi 3B+ to provide automated network-wide threat mitigation and advertisement filtering.<br><br>
+    <strong>Infrastructure & Security Focus:</strong>
+    <ul>
+      <li><strong>Identity & Access Management:</strong> Implemented <strong> SSH key-based authentication</strong> to secure the administrative interface and eliminate password-based vulnerabilities.</li>
+      <li><strong>Network Persistence:</strong> Configured static IPv4 addressing and DHCP reservation to ensure 100% availability for network-wide DNS resolution.</li>
+      <li><strong>Targeted Endpoint Hardening:</strong> Utilized <code>nmcli</code> and <code>systemd-resolved</code> on Ubuntu clients to implement isolated, non-disruptive security testing environments.</li>
+      <li><strong>Hardware Preservation:</strong> Implemented <strong>Log2Ram</strong> to offload system logging to virtual memory, protecting 8GB SD card storage from write-fatigue.</li>
+      <li><strong>Validation & Verification:</strong> Conducted authoritative DNS lookups (<code>nslookup</code>) to verify real-time "sinkholing" of malicious domains to <code>0.0.0.0</code>.</li>
+    </ul>
+    <a href="https://github.com/GaryCollinsAI-Sec/Iron-Cerberus-DNS-Sinkhole">View Project</a>
   </li>
 
   <br>
