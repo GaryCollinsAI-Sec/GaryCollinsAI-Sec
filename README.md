@@ -132,7 +132,7 @@ Performed structured vulnerability assessment and remediation using enterprise s
     <li><strong>Attack Surface Reduction:</strong> Standardized system configurations to eliminate known attack vectors, ensuring the environment meets "hardened" infrastructure standards.</li>
   </ul>
 
-  <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Lab">View Project</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab">View Project</a>
 </li>
 
 
