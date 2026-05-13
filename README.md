@@ -39,7 +39,7 @@
   Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • VirtualBox • Azure Portal • AWS Console • pfSense
 </p>
 <p>
-  <Strong>Security Compliance</Strong>
+  <Strong>Security Compliance</Strong><br>
   NIST • OWASP Top 10 • HIPAA
 </p>
 <p>
