@@ -41,7 +41,7 @@
 
 <p>
   <strong>Automation & Scripting</strong><br>
-  PowerShell (IT automation) • Python (security tooling) • Bash (Linux administration) • SQL (log/query analysis)
+  PowerShell (IT automation) • Python (security tooling) • Bash (Linux administration) • SQL (log/query analysis) • Golang
 </p>
 
 <hr>
