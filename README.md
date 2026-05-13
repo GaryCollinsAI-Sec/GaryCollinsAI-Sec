@@ -16,7 +16,7 @@
 
 <p>
   <strong>IT Operations & System Administration</strong><br>
-  Help Desk Support • Ticketing Systems • Windows & Linux Administration • Endpoint Troubleshooting • Active Directory Basics • User Account Management • System Recovery
+  Help Desk Support • Ticketing Systems • Windows • MAC OS • Linux Administration • Endpoint Troubleshooting • Active Directory Basics • User Account Management • System Recovery
 </p>
 
 <p>
