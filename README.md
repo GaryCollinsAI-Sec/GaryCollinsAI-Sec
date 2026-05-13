@@ -50,6 +50,21 @@
 
 <ul>
   <li>
+    <strong>Iron Cerberus-DNS: Network-Wide Hardware Sinkhole (Raspberry Pi | Pi-hole | Linux Hardening)</strong><br>
+    Deployed a dedicated physical DNS sinkhole on a Raspberry Pi 3B+ to provide automated network-wide threat mitigation and advertisement filtering.<br><br>
+    <strong>Infrastructure & Security Focus:</strong>
+    <ul>
+      <li><strong>Network Persistence:</strong> Configured static IPv4 addressing and DHCP reservation to ensure 100% availability for network-wide DNS resolution.</li>
+      <li><strong>Targeted Endpoint Hardening:</strong> Utilized <code>nmcli</code> and <code>systemd-resolved</code> on Ubuntu clients to implement isolated, non-disruptive security testing environments.</li>
+      <li><strong>Hardware Preservation:</strong> Implemented <strong>Log2Ram</strong> to offload system logging to virtual memory, protecting 8GB SD card storage from write-fatigue.</li>
+      <li><strong>Validation & Verification:</strong> Conducted authoritative DNS lookups (<code>nslookup</code>) to verify real-time "sinkholing" of malicious domains to <code>0.0.0.0</code>.</li>
+    </ul>
+    <a href="https://github.com/GaryCollinsAI-Sec/Iron-Cerberus-DNS-Sinkhole">View Project</a>
+  </li>
+
+  <br>
+
+  <li>
     <strong>Enterprise IT Help Desk & Ticketing System Simulation</strong><br>
     Simulated IT service desk environment modeled after enterprise support workflows, focusing on real-world troubleshooting and ticket resolution processes.<br><br>
     <strong>IT Operations Focus:</strong>
@@ -114,10 +129,10 @@
     Managed the end-to-end remediation lifecycle within a segmented infrastructure, focusing on identifying configuration gaps and applying enterprise-grade hardening to prevent system compromise.<br><br>
     <strong>IT & Operations Focus:</strong>
     <ul>
-      <li><strong>Risk Validation:</strong> Performed targeted testing to confirm the impact of unpatched services and insecure defaults on operational continuity.</li>
-      <li><strong>Root Cause Remediation:</strong> Addressed critical vulnerabilities by applying patches, disabling legacy protocols, and correcting service misconfigurations to restore a secure baseline.</li>
-      <li><strong>Perimeter & Internal Hardening:</strong> Configured <strong>pfSense</strong> to enforce strict network-layer isolation, preventing unauthorized lateral movement and broadcast-domain exposure.</li>
-      <li><strong>Attack Surface Reduction:</strong> Standardized system configurations to eliminate known attack vectors, ensuring the environment meets "hardened" infrastructure standards.</li>
+      <li><strong>Risk Validation:</strong> Performed targeted testing to confirm the impact of unpatched services and insecure defaults.</li>
+      <li><strong>Root Cause Remediation:</strong> Addressed critical vulnerabilities by applying patches and correcting service misconfigurations.</li>
+      <li><strong>Perimeter & Internal Hardening:</strong> Configured <strong>pfSense</strong> to enforce strict network-layer isolation.</li>
+      <li><strong>Attack Surface Reduction:</strong> Standardized system configurations to eliminate known attack vectors.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab">View Project</a>
   </li>
