@@ -1,7 +1,7 @@
 <h1>Gary Collins</h1>
 
 <p>
-Cybersecurity and IT professional focused on bridging <strong>system administration, IT operations, and security engineering</strong>. I specialize in building and supporting enterprise-style environments with an emphasis on identity security, infrastructure reliability, and threat detection. My goal is to ensure systems are not only operational, but resilient, monitored, and hardened against modern threats.
+I am a Systems Support & Security Technician dedicated to high-level technical troubleshooting and endpoint integrity. I specialize in the full lifecycle of enterprise hardware and software—from initial provisioning and cloud integration to complex problem-solving and threat remediation. My focus is on turning everyday IT tickets into opportunities for system hardening, ensuring that every fix not only restores productivity but strengthens the overall security posture of the network.
 </p>
 
 <p>
