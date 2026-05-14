@@ -1,7 +1,7 @@
 <h1>Gary Collins</h1>
 
 <p>
-  I am a <strong>IT Support & Security Specialist</strong> dedicated to high-level technical troubleshooting and endpoint integrity. I specialize in the full lifecycle of enterprise hardware and software—from initial provisioning and cloud integration to complex problem-solving and threat remediation. My focus is on turning everyday IT tickets into opportunities for system hardening, ensuring that every fix not only restores productivity but strengthens the overall security posture of the network.
+  I am an <strong>IT Support & Security Specialist</strong> dedicated to high-level technical troubleshooting and endpoint integrity. I specialize in the full lifecycle of enterprise hardware and software—from initial provisioning and cloud integration to complex problem-solving and threat remediation. My focus is on turning everyday IT tickets into opportunities for system hardening, ensuring that every fix not only restores productivity but strengthens the overall security posture of the network.
 </p>
 
 <p>
@@ -16,7 +16,7 @@
 
 <p>
   <strong>IT Operations & System Administration</strong><br>
-  Help Desk Support • Ticketing Systems • Windows • MAC OS • Linux Administration • Endpoint Troubleshooting • Active Directory Basics • User Account Management • System Recovery
+  Help Desk Support • Ticketing Systems • Windows/macOS/Linux • Endpoint Troubleshooting • Active Directory • User Lifecycle Management • System Recovery
 </p>
 
 <p>
@@ -26,7 +26,7 @@
 
 <p>
   <strong>Identity & Cloud Security</strong><br>
-  Microsoft Entra ID (Azure AD) • IAM (AWS) • RBAC • MFA • Zero Trust Principles • Identity Governance • Cloud Security Fundamentals
+  Microsoft Entra ID (Azure AD) • IAM (AWS) • RBAC • MFA • Zero Trust Architecture • Identity Governance • Cloud Security Fundamentals
 </p>
 
 <p>
@@ -36,20 +36,22 @@
 
 <p>
   <strong>Security & IT Tools</strong><br>
-  Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • VirtualBox • Azure Portal • AWS Console • pfSense
+  Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • Metasploit • VirtualBox • Azure Portal • AWS Console • pfSense
 </p>
+
 <p>
-  <Strong>Security Compliance</Strong><br>
-  NIST • OWASP Top 10 • HIPAA
+  <strong>Security Compliance</strong><br>
+  NIST CSF • OWASP Top 10 • HIPAA
 </p>
+
 <p>
-  <p>
-  <Strong>Containers & IaC</Strong><br>
- Docker • Kubernetes (K8) • TerraForm • CloudFormation
+  <strong>Containers & IaC</strong><br>
+  Docker • Kubernetes (K3s) • Terraform • CloudFormation
 </p>
+
 <p>
   <strong>Automation & Scripting</strong><br>
-  PowerShell (IT automation) • Python (security tooling) • Bash (Linux administration) • SQL (log/query analysis) • Golang
+  PowerShell (IT Automation) • Python (Security Tooling) • Bash (Linux Admin) • SQL (Log Analysis) • Go
 </p>
 
 <hr>
@@ -57,18 +59,15 @@
 <h2>🛡️ IT & Cybersecurity Projects</h2>
 
 <ul>
-  
-  <br>
-
   <li>
-    <strong>Enterprise IT Help Desk & Ticketing System Simulation</strong><br>
-    Simulated IT service desk environment modeled after enterprise support workflows, focusing on real-world troubleshooting and ticket resolution processes.<br><br>
+    <strong>Enterprise IT Help Desk & Ticketing Simulation (Spiceworks)</strong><br>
+    Built an IT service desk environment modeled after enterprise workflows, focusing on end-to-end incident resolution and user support optimization.<br><br>
     <strong>IT Operations Focus:</strong>
     <ul>
-      <li>User support for VPN, login, and system issues</li>
-      <li>Structured ticket triage and escalation process</li>
-      <li>Active Directory-style user lifecycle management concepts</li>
-      <li>Documentation of incident resolution procedures</li>
+      <li>Provisioned user support for VPN connectivity, authentication issues, and system failures.</li>
+      <li>Established structured ticket triage, priority levels, and escalation workflows.</li>
+      <li>Managed Active Directory-style user lifecycle concepts and credential management.</li>
+      <li>Developed technical documentation for standard operating procedures (SOPs).</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
   </li>
@@ -77,13 +76,13 @@
 
   <li>
     <strong>Azure Active Directory Identity & Access Security Lab</strong><br>
-    Built a secure identity environment using Microsoft Entra ID with enterprise-grade access controls and policy enforcement.<br><br>
+    Architected a secure identity environment using Microsoft Entra ID, enforcing enterprise-grade access controls and Zero Trust policy frameworks.<br><br>
     <strong>Security Focus:</strong>
     <ul>
-      <li>Implemented RBAC for role separation and privilege control</li>
-      <li>Enforced MFA via Security Defaults</li>
-      <li>Applied Zero Trust onboarding policies</li>
-      <li>Validated least privilege access across users</li>
+      <li>Implemented Role-Based Access Control (RBAC) to enforce the Principle of Least Privilege.</li>
+      <li>Configured Conditional Access policies and mandatory Multi-Factor Authentication (MFA).</li>
+      <li>Applied automated onboarding policies following Zero Trust principles.</li>
+      <li>Audited identity logs to validate secure user-to-cloud resource mapping.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense">View Project</a>
   </li>
@@ -91,46 +90,29 @@
   <br>
 
   <li>
-    <strong>Enterprise Network & Security Lab (pfSense | VLANs | IDS/IPS | Wireshark)</strong><br>
-    Designed and built a segmented virtual enterprise network to simulate production infrastructure and security monitoring.<br><br>
-    <strong>Infrastructure + Security Focus:</strong>
+    <strong>Enterprise Network & Security Lab (pfSense | VLANs | IDS/IPS)</strong><br>
+    Designed and deployed a segmented virtual enterprise network to simulate production-grade infrastructure and proactive security monitoring.<br><br>
+    <strong>Infrastructure & Security Focus:</strong>
     <ul>
-      <li>Configured VLAN segmentation for user/server separation</li>
-      <li>Implemented firewall rules with default-deny architecture</li>
-      <li>Deployed IDS/IPS and Wireshark for network traffic monitoring and security analysis</li>
-      <li>Simulated attacker behavior using Kali Linux</li>
+      <li>Engineered VLAN segmentation to isolate sensitive server environments from user traffic.</li>
+      <li>Implemented a default-deny firewall architecture via pfSense.</li>
+      <li>Integrated Snort/Suricata IDS/IPS and Wireshark for real-time packet analysis and threat detection.</li>
+      <li>Simulated adversary traffic patterns to test network resilience and alerting.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab">View Project</a>
   </li>
 
-
-
   <br>
 
   <li>
-    <strong>Vulnerability Management Lab</strong><br>
-    Performed structured vulnerability assessment and remediation using enterprise scanning workflows.<br><br>
-    <strong>Security Operations Focus:</strong>
+    <strong>Vulnerability Research & Exploitation Hardening Lab (Kali | Metasploit)</strong><br>
+    Executed a targeted Red-vs-Blue simulation within a multi-segmented lab, conducting exploitation to identify critical flaws and documenting the transition to a hardened security posture.<br><br>
+    <strong>Offensive & Defensive Validation Focus:</strong>
     <ul>
-      <li>Conducted vulnerability scans using Nessus</li>
-      <li>Analyzed CVSS-based risk prioritization</li>
-      <li>Performed system hardening and service remediation</li>
-      <li>Validated fixes</li>
-    </ul>
-    <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
-  </li>
-
-  <br>
-
-  <li>
-    <strong>Security Assessment Remediation & System Hardening Lab (Kali | Metasploitable | pfSense)</strong><br>
-    Managed the end-to-end remediation lifecycle within a segmented infrastructure, focusing on identifying configuration gaps and applying enterprise-grade hardening to prevent system compromise.<br><br>
-    <strong>IT & Operations Focus:</strong>
-    <ul>
-      <li><strong>Risk Validation:</strong> Performed targeted testing to confirm the impact of unpatched services and insecure defaults.</li>
-      <li><strong>Root Cause Remediation:</strong> Addressed critical vulnerabilities by applying patches and correcting service misconfigurations.</li>
-      <li><strong>Perimeter & Internal Hardening:</strong> Configured <strong>pfSense</strong> to enforce strict network-layer isolation.</li>
-      <li><strong>Attack Surface Reduction:</strong> Standardized system configurations to eliminate known attack vectors.</li>
+      <li><strong>Vulnerability Exploitation:</strong> Leveraged Kali Linux and Metasploit to demonstrate PoC impact on misconfigured services (SMB, SSH, RCE).</li>
+      <li><strong>Network Pivoting:</strong> Evaluated pfSense firewall rules to simulate lateral movement and test VLAN isolation efficacy.</li>
+      <li><strong>Post-Exploitation Analysis:</strong> Analyzed system artifacts to identify credential leakage and high-risk misconfigurations.</li>
+      <li><strong>Defensive Validation:</strong> Documented the final hardened state, confirming that Attack Surface Reduction successfully neutralized identified vectors.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab">View Project</a>
   </li>
