@@ -121,7 +121,7 @@
 
   <li>
   <strong>Security Assessment, Remediation & System Hardening Lab (Kali | Metasploitable 2 | pfSense)</strong><br>
-  Conducted a targeted <strong>Purple Team</strong> simulation involving manual exploitation of known software vulnerabilities to identify critical flaws, followed by documenting the remediation and system hardening process.<br><br>
+  Conducted a targeted <strong>Purple Team</strong> simulation involving manual exploitations of known software vulnerabilities to identify critical flaws, followed by documenting the remediation and system hardening process.<br><br>
 
   <strong>Offensive & Defensive Validation Focus:</strong>
   <ul>
