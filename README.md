@@ -1,7 +1,7 @@
 <h1>Gary Collins</h1>
 
 <p>
-  I am an <strong>IT Support & Security Specialist</strong> dedicated to high-level technical troubleshooting and endpoint integrity. I specialize in the full lifecycle of enterprise hardware and software—from initial provisioning and cloud integration to complex problem-solving and threat remediation. My focus is on turning everyday IT tickets into opportunities for system hardening, ensuring that every fix not only restores productivity but strengthens the overall security posture of the network.
+  I am an <strong>IT Support & Security Specialist</strong> dedicated to high-level technical troubleshooting and endpoint integrity. I specialize in the full lifecycle of enterprise hardware and software,from initial provisioning and cloud integration to complex problem-solving and threat remediation. My focus is on turning everyday IT tickets into opportunities for system hardening, ensuring that every fix not only restores productivity but strengthens the overall security posture of the network.
 </p>
 
 <p>
