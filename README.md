@@ -105,7 +105,7 @@
   <br>
 
   <li>
-    <strong>Vulnerability Research & Exploitation Hardening Lab (Kali | Metasploit)</strong><br>
+    <strong>Vulnerability Research & Exploitation Hardening Lab (Kali | Metasploitable 2 | Pfsense)</strong><br>
     Executed a targeted Red-vs-Blue simulation within a multi-segmented lab, conducting exploitation to identify critical flaws and documenting the transition to a hardened security posture.<br><br>
     <strong>Offensive & Defensive Validation Focus:</strong>
     <ul>
