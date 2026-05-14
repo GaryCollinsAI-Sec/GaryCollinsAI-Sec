@@ -36,7 +36,7 @@
 
 <p>
   <strong>Security & IT Tools</strong><br>
-  Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • Metasploit • VirtualBox • Azure Portal • AWS Console • pfSense
+  Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • VirtualBox • Azure Portal • AWS Console • pfSense
 </p>
 
 <p>
@@ -67,7 +67,7 @@
       <li>Provisioned user support for VPN connectivity, authentication issues, and system failures.</li>
       <li>Established structured ticket triage, priority levels, and escalation workflows.</li>
       <li>Managed Active Directory-style user lifecycle concepts and credential management.</li>
-      <li>Developed technical documentation for standard operating procedures (SOPs).</li>
+      <li>Developed technical documentation for Standard Operating Procedures (SOPs).</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">View Project</a>
   </li>
@@ -105,14 +105,29 @@
   <br>
 
   <li>
-    <strong>Vulnerability Research & Exploitation Hardening Lab (Kali | Metasploitable 2 | Pfsense)</strong><br>
-    Executed a targeted Red-vs-Blue simulation within a multi-segmented lab, conducting exploitation to identify critical flaws and documenting the transition to a hardened security posture.<br><br>
+    <strong>Vulnerability Management Lab (Nessus)</strong><br>
+    Executed a complete vulnerability management lifecycle, focusing on automated discovery and technical remediation of systemic weaknesses.<br><br>
+    <strong>Security Operations Focus:</strong>
+    <ul>
+      <li>Conducted credentialed vulnerability scans using Nessus to identify unpatched services.</li>
+      <li>Analyzed risk levels using CVSS scoring to prioritize critical security gaps.</li>
+      <li>Implemented service-layer hardening and applied patches to mitigate high-risk findings.</li>
+      <li>Validated remediation success by documenting the transition to a secured state.</li>
+    </ul>
+    <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project</a>
+  </li>
+
+  <br>
+
+  <li>
+    <strong>Purple Team Vulnerability Research & Hardening Lab (Kali | Metasploitable 2 | pfSense)</strong><br>
+    Conducted a targeted simulation involving manual exploitation of vulnerable targets to identify critical flaws and documenting the subsequent remediation and hardening process.<br><br>
     <strong>Offensive & Defensive Validation Focus:</strong>
     <ul>
-      <li><strong>Vulnerability Exploitation:</strong> Leveraged Kali Linux and Metasploit to demonstrate PoC impact on misconfigured services (SMB, SSH, RCE).</li>
-      <li><strong>Network Pivoting:</strong> Evaluated pfSense firewall rules to simulate lateral movement and test VLAN isolation efficacy.</li>
-      <li><strong>Post-Exploitation Analysis:</strong> Analyzed system artifacts to identify credential leakage and high-risk misconfigurations.</li>
-      <li><strong>Defensive Validation:</strong> Documented the final hardened state, confirming that Attack Surface Reduction successfully neutralized identified vectors.</li>
+      <li><strong>Targeted Exploitation:</strong> Leveraged Kali Linux utilities to identify and manually exploit misconfigured services (SMB, SSH, RCE) on <strong>Metasploitable 2</strong> to demonstrate PoC impact.</li>
+      <li><strong>Network Pivoting & Segmentation:</strong> Evaluated <strong>pfSense</strong> firewall rules to simulate lateral movement and test the efficacy of VLAN isolation against pivoting attempts.</li>
+      <li><strong>Post-Exploitation Analysis:</strong> Analyzed system artifacts post-compromise to identify high-risk misconfigurations and credential leakage.</li>
+      <li><strong>Defensive Validation Summary:</strong> Documented the final hardened state, confirming that the implementation of <strong>Attack Surface Reduction</strong> and service-layer hardening neutralized the identified vectors.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab">View Project</a>
   </li>
