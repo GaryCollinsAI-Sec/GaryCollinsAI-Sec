@@ -58,8 +58,8 @@
 </p>
 
 <p>
-  <strong>Automation & Scripting</strong><br>
-  PowerShell • Python • Bash • SQL
+  <strong>Programming & Scripting</strong><br>
+  PowerShell • Python • Bash • SQL • C++ • Java • JavaScript • Golang
 </p>
 
 <hr>
