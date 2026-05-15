@@ -120,7 +120,7 @@
   <br>
 
   <li>
-    <strong>Vulnerability Management Lab (Nessus | Metasploitable 2)</strong><br>
+    <strong>Vulnerability Management Lab (Nessus | Metasploitable 2 | Ubuntu Linux)</strong><br>
     Executed a full vulnerability management cycle from discovery to defensive validation.
     <ul>
       <li>Conducted credentialed Nessus scans to identify insecure services and configurations.</li>
