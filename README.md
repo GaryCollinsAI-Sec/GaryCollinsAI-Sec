@@ -136,10 +136,10 @@
     <strong>Security Assessment & System Hardening (Kali | Metasploitable | pfSense)</strong><br>
     Conducted a Purple Team simulation involving controlled exploitation and defensive remediation.
     <ul>
-      <li><strong>Targeted Exploitation:</strong> Leveraged Kali Linux utilities to identify and manually exploit unpatched services and insecure open ports on <strong>Metasploitable 2</strong> to demonstrate proof-of-concept (PoC) impact.</li>
-      <li><strong>Network Segmentation & Control:</strong> Utilized <strong>pfSense</strong> to engineer a strictly controlled lab environment, enforcing granular traffic isolation to simulate and defend against lateral movement.</li>
-      <li><strong>Post-Exploitation Analysis:</strong> Analyzed system artifacts post-compromise to identify credential leakage and the underlying causes of successful service exploitation.</li>
-      <li><strong>Defensive Validation Summary:</strong> Documented the final hardened state, confirming that the implementation of <strong>Attack Surface Reduction</strong> and comprehensive patching neutralized the identified exploit vectors.</li>
+      <li><strong>Targeted Exploitation:</strong> Leveraged Kali Linux to identify and exploit unpatched services on Metasploitable 2 to demonstrate PoC impact.</li>
+      <li><strong>Network Control:</strong> Utilized pfSense to engineer a segmented lab environment, enforcing traffic isolation to defend against lateral movement.</li>
+      <li><strong>Post-Exploitation Analysis:</strong> Analyzed system artifacts post-compromise to identify credential leakage and underlying root causes.</li>
+      <li><strong>Defensive Validation:</strong> Confirmed that Attack Surface Reduction and comprehensive patching neutralized all identified exploit vectors.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab" target="_blank">View Project</a>
   </li>
