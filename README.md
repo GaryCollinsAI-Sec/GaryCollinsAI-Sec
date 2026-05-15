@@ -29,7 +29,7 @@
 
 <p>
   <strong>IT Operations & System Administration</strong><br>
-  Enterprise Help Desk • Ticketing Systems • SLA • Windows/macOS/Linux • Active Directory • User Lifecycle Management • System Recovery
+  Enterprise Help Desk • Ticketing Systems • Spiceworks • Jira • SLA • Windows/macOS/Linux • Active Directory • User Lifecycle Management • System Recovery
 </p>
 
 <p>
