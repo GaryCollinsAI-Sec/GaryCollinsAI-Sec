@@ -2,7 +2,7 @@
 
 <p>
   <strong>IT Support & Cybersecurity Specialist</strong><br>
-  Enterprise Support • Security Operations • Infrastructure Hardening • Identity & Network Security
+  
 </p>
 
 <p>
