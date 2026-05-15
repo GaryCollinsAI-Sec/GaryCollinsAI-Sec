@@ -105,6 +105,21 @@
   <br>
 
   <li>
+    <strong>Cross-Platform Security Monitoring & Visibility Lab (Wazuh SIEM/XDR)</strong><br>
+    Architected a centralized security monitoring solution using a Wazuh OVA manager to gain deep visibility into endpoint activity across Windows and Linux environments.<br><br>
+    <strong>Detection & Visibility Focus:</strong>
+    <ul>
+      <li><strong>Automated Agent Provisioning:</strong> Deployed and configured security agents on Windows 10 via PowerShell and Ubuntu via CLI to establish secure telemetry pipelines.</li>
+      <li><strong>Unified Security Telemetry:</strong> Centralized disparate system logs and event data into a single pane of glass for real-time monitoring of brute-force attempts and privilege escalations.</li>
+      <li><strong>File Integrity Monitoring (FIM):</strong> Configured monitors to detect unauthorized modifications to sensitive system files and directories in real-time.</li>
+      <li><strong>Security Configuration Assessment (SCA):</strong> Conducted automated audits against system benchmarks to identify and surface OS-level misconfigurations and vulnerabilities.</li>
+    </ul>
+    <a href="https://github.com/GaryCollinsAI-Sec/Wazuh-Security-Monitoring-Lab">View Project</a>
+  </li>
+
+  <br>
+
+  <li>
     <strong>Vulnerability Management Lab (Nessus)</strong><br>
     Executed a complete vulnerability management lifecycle, focusing on automated discovery and technical remediation of systemic weaknesses.<br><br>
     <strong>Security Operations Focus:</strong>
@@ -132,6 +147,8 @@
   </ul>
   <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab">View Project</a>
 </li>
+</ul>
+
 <hr>
 
 <h2>🎓 Education & Certifications</h2>
