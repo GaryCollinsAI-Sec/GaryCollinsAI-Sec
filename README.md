@@ -99,7 +99,7 @@
     <ul>
       <li>Engineered VLAN segmentation to isolate sensitive systems from standard traffic.</li>
       <li>Implemented a default-deny firewall architecture using pfSense.</li>
-      <li>Integrated Snort/Suricata and Wireshark for deep packet analysis and threat visibility.</li>
+      <li>Integrated Suricata and Wireshark for deep packet analysis and threat visibility.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab" target="_blank">View Project</a>
   </li>
