@@ -114,7 +114,7 @@
       <li>Centralized telemetry to support rapid security event detection.</li>
       <li>Monitored system behavior to identify and analyze cross-platform security events.</li>
     </ul>
-    <a href="https://github.com/GaryCollinsAI-Sec/Wazuh-Security-Monitoring-Lab" target="_blank">View Project</a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">View Project</a>
   </li>
 
   <br>
