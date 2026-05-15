@@ -16,11 +16,11 @@
 <h2>🧠 Professional Summary</h2>
 
 <p>
-  I am an <strong>IT Support & Security Specialist</strong> focused on enterprise troubleshooting, endpoint integrity, and security operations. My experience spans the full lifecycle of enterprise hardware and software environments, including provisioning, identity management, cloud integration, incident response, and system hardening.
+  I am an <strong>IT Support & Security Specialist</strong> focused on enterprise troubleshooting, endpoint integrity, and security operations. My experience spans the full lifecycle of enterprise environments, including hardware provisioning, identity governance, cloud integration, and incident response.
 </p>
 
 <p>
-  I approach IT operations with a security-first mindset, ensuring technical issues are resolved efficiently while improving infrastructure resilience, endpoint visibility, and overall organizational security posture.
+  I apply a security-first mindset to IT operations, ensuring technical issues are resolved efficiently while proactively hardening infrastructure, improving endpoint visibility, and strengthening organizational security posture.
 </p>
 
 <hr>
@@ -29,37 +29,32 @@
 
 <p>
   <strong>IT Operations & System Administration</strong><br>
-  Help Desk Support • Ticketing Systems • Windows/macOS/Linux • Endpoint Troubleshooting • Active Directory • User Lifecycle Management • System Recovery
+  Enterprise Help Desk • Ticketing Systems • Windows/macOS/Linux • Active Directory • User Lifecycle Management • System Recovery
 </p>
 
 <p>
   <strong>Cybersecurity Operations</strong><br>
-  Incident Response • Threat Detection • Vulnerability Management • Security Monitoring • Log Analysis • Risk Assessment • Security Hardening
+  Incident Response • Threat Detection • Vulnerability Management • Log Analysis (SIEM) • Risk Assessment • Security Hardening
 </p>
 
 <p>
   <strong>Identity & Cloud Security</strong><br>
-  Microsoft Entra ID (Azure AD) • AWS IAM • RBAC • MFA • Zero Trust Architecture • Identity Governance • Cloud Security
+  Microsoft Entra ID (Azure AD) • AWS IAM • RBAC • MFA • Zero Trust Architecture • Identity Governance
 </p>
 
 <p>
   <strong>Networking & Infrastructure</strong><br>
-  TCP/IP • DNS • DHCP • VLANs • VPNs • Network Troubleshooting • pfSense Firewall Administration • Wireshark Packet Analysis
+  TCP/IP • DNS/DHCP • VLAN Segmentation • VPNs • pfSense Firewall Administration • Wireshark Packet Analysis
 </p>
 
 <p>
-  <strong>Security Operations Tools</strong><br>
-  Splunk • Wazuh • Suricata • Snort • Nessus • Kali Linux • VirtualBox • Azure Portal • AWS Console • pfSense
+  <strong>Tools & Platforms</strong><br>
+  Wazuh • Splunk • Nessus • Suricata • Docker • Kubernetes (K3s) • Terraform • Kali Linux • VirtualBox
 </p>
 
 <p>
-  <strong>Security Compliance & Frameworks</strong><br>
+  <strong>Compliance & Frameworks</strong><br>
   NIST CSF • OWASP Top 10 • HIPAA
-</p>
-
-<p>
-  <strong>Containers & Infrastructure as Code</strong><br>
-  Docker • Kubernetes (K3s) • Terraform • CloudFormation
 </p>
 
 <p>
@@ -72,131 +67,82 @@
 <h2>🛡️ IT & Cybersecurity Projects</h2>
 
 <ul>
-
   <li>
     <strong>Enterprise IT Help Desk & Ticketing Simulation (Spiceworks)</strong><br>
-    Built an enterprise-style IT service desk environment focused on incident resolution, workflow optimization, and end-user support operations.
-    <br><br>
-
-    <strong>IT Operations Focus:</strong>
-
-  <ul>
-      <li>Provisioned user support for VPN connectivity, authentication issues, and endpoint failures.</li>
+    Architected an enterprise-style service desk environment focused on incident resolution and workflow optimization.
+    <ul>
+      <li>Provisioned support for VPN connectivity, authentication, and endpoint failures.</li>
       <li>Established structured ticket triage, prioritization, and escalation workflows.</li>
-      <li>Applied Active Directory-style user lifecycle and credential management concepts.</li>
-      <li>Developed technical documentation and Standard Operating Procedures (SOPs).</li>
+      <li>Applied Active Directory-style user lifecycle and credential management.</li>
     </ul>
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-" target="_blank">
-      View Project
-    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-" target="_blank">View Project</a>
   </li>
 
   <br>
 
   <li>
     <strong>Azure Active Directory Identity & Access Security Lab</strong><br>
-    Architected a secure Microsoft Entra ID environment implementing identity governance and Zero Trust access controls.
-    <br><br>
-
-    <strong>Identity & Security Focus:</strong>
-
-  <ul>
-      <li>Implemented Role-Based Access Control (RBAC) following the Principle of Least Privilege.</li>
+    Built a secure Microsoft Entra ID environment implementing identity governance and Zero Trust controls.
+    <ul>
+      <li>Implemented Role-Based Access Control (RBAC) via the Principle of Least Privilege.</li>
       <li>Configured Conditional Access policies and Multi-Factor Authentication (MFA).</li>
-      <li>Applied automated onboarding workflows aligned with Zero Trust methodologies.</li>
       <li>Audited identity activity logs to validate secure access management.</li>
     </ul>
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense" target="_blank">
-      View Project
-    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense" target="_blank">View Project</a>
   </li>
 
   <br>
 
   <li>
     <strong>Enterprise Network & Security Lab (pfSense | VLANs | IDS/IPS)</strong><br>
-    Designed and deployed a segmented virtual enterprise network simulating production-grade infrastructure and proactive security monitoring.
-    <br><br>
-
-    <strong>Infrastructure & Network Security Focus:</strong>
-
-  <ul>
-      <li>Engineered VLAN segmentation to isolate sensitive systems from standard user traffic.</li>
+    Deployed a segmented virtual network simulating production-grade infrastructure and proactive monitoring.
+    <ul>
+      <li>Engineered VLAN segmentation to isolate sensitive systems from standard traffic.</li>
       <li>Implemented a default-deny firewall architecture using pfSense.</li>
-      <li>Integrated Snort/Suricata IDS/IPS and Wireshark for packet analysis and threat visibility.</li>
-      <li>Simulated adversarial traffic patterns to validate detection and alerting workflows.</li>
+      <li>Integrated Snort/Suricata and Wireshark for deep packet analysis and threat visibility.</li>
     </ul>
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab" target="_blank">
-      View Project
-    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Virtual-Network-Security-Lab" target="_blank">View Project</a>
   </li>
 
   <br>
 
   <li>
-    <strong>Cross-Platform Security Monitoring & Visibility Lab (Wazuh SIEM/XDR)</strong><br>
-    Built a centralized monitoring environment using Wazuh to improve endpoint visibility and security event correlation across Windows and Linux systems.
-    <br><br>
-
-    <strong>Detection & Monitoring Focus:</strong>
-
-  <ul>
-      <li>Deployed and configured Wazuh agents on Windows 10 and Ubuntu systems.</li>
-      <li>Centralized endpoint telemetry to support real-time monitoring and log analysis.</li>
-      <li>Monitored suspicious system behavior and analyzed security events across multiple operating systems.</li>
-      <li>Improved visibility into endpoint activity and threat detection workflows.</li>
+    <strong>Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)</strong><br>
+    Built a centralized monitoring environment to improve telemetry correlation across disparate systems.
+    <ul>
+      <li>Deployed Wazuh agents on Windows and Ubuntu endpoints for real-time log analysis.</li>
+      <li>Centralized telemetry to support rapid security event detection.</li>
+      <li>Monitored system behavior to identify and analyze cross-platform security events.</li>
     </ul>
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Wazuh-Security-Monitoring-Lab" target="_blank">
-      View Project
-    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Wazuh-Security-Monitoring-Lab" target="_blank">View Project</a>
   </li>
 
   <br>
 
   <li>
-    <strong>Vulnerability Management Lab (Nessus)</strong><br>
-    Executed a complete vulnerability management lifecycle focused on discovery, prioritization, remediation, and defensive validation.
-    <br><br>
-
-    <strong>Security Operations Focus:</strong>
-
-  <ul>
-      <li>Conducted credentialed vulnerability scans using Nessus to identify insecure services and configurations.</li>
-      <li>Prioritized findings using CVSS scoring methodologies.</li>
-      <li>Applied remediation strategies including patch management and service hardening.</li>
-      <li>Validated remediation success by documenting the transition to a hardened environment.</li>
+    <strong>Vulnerability Management Lifecycle Lab (Nessus)</strong><br>
+    Executed a full vulnerability management cycle from discovery to defensive validation.
+    <ul>
+      <li>Conducted credentialed Nessus scans to identify insecure services and configurations.</li>
+      <li>Prioritized findings using CVSS scoring and business-context methodologies.</li>
+      <li>Remediated vulnerabilities through patch management and system hardening.</li>
     </ul>
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab" target="_blank">
-      View Project
-    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab" target="_blank">View Project</a>
   </li>
 
   <br>
 
   <li>
-    <strong>Security Assessment, Remediation & System Hardening Lab (Kali | Metasploitable 2 | pfSense)</strong><br>
-    Conducted a Purple Team security simulation involving controlled exploitation, remediation, and defensive validation within an isolated lab environment.
-    <br><br>
-
-    <strong>Offensive & Defensive Security Focus:</strong>
-
-  <ul>
-      <li>Leveraged Kali Linux tools to identify and exploit vulnerable services on Metasploitable 2 for proof-of-concept validation.</li>
-      <li>Utilized pfSense to implement segmented network controls and restrict lateral movement.</li>
-      <li>Performed post-exploitation analysis to identify credential exposure and root causes of compromise.</li>
-      <li>Validated remediation efforts through patching, Attack Surface Reduction, and security hardening measures.</li>
+    <strong>Security Assessment & System Hardening (Kali | Metasploitable | pfSense)</strong><br>
+    Conducted a Purple Team simulation involving controlled exploitation and defensive remediation.
+    <ul>
+      <li><strong>Targeted Exploitation:</strong> Leveraged Kali Linux utilities to identify and manually exploit unpatched services and insecure open ports on <strong>Metasploitable 2</strong> to demonstrate proof-of-concept (PoC) impact.</li>
+      <li><strong>Network Segmentation & Control:</strong> Utilized <strong>pfSense</strong> to engineer a strictly controlled lab environment, enforcing granular traffic isolation to simulate and defend against lateral movement.</li>
+      <li><strong>Post-Exploitation Analysis:</strong> Analyzed system artifacts post-compromise to identify credential leakage and the underlying causes of successful service exploitation.</li>
+      <li><strong>Defensive Validation Summary:</strong> Documented the final hardened state, confirming that the implementation of <strong>Attack Surface Reduction</strong> and comprehensive patching neutralized the identified exploit vectors.</li>
     </ul>
-
-  <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab" target="_blank">
-      View Project
-    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab" target="_blank">View Project</a>
   </li>
-
 </ul>
 
 <hr>
@@ -204,12 +150,10 @@
 <h2>🎓 Education & Certifications</h2>
 
 <ul>
-  <li><strong>CompTIA Security+</strong> — In Progress</li>
-  <li><strong>Cisco CCNA</strong> — In Progress</li>
-
-  <br>
-
   <li><strong>M.S. Cyber Engineering</strong> — University of the Cumberlands (2026)</li>
   <li><strong>B.S. Computer Science</strong> — Colorado State University Global (2024)</li>
   <li><strong>A.S. Computer Science</strong> — Yuba College (2021)</li>
+  <br>
+  <li><strong>CompTIA Security+</strong> — In Progress</li>
+  <li><strong>Cisco CCNA</strong> — In Progress</li>
 </ul>
