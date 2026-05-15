@@ -2,7 +2,7 @@
 
 <p>
   <strong>IT Support & Cybersecurity Specialist</strong><br>
-  
+  Enterprise Support • Security Operations • Infrastructure Hardening • Identity & Network Security
 </p>
 
 <p>
@@ -29,7 +29,7 @@
 
 <p>
   <strong>IT Operations & System Administration</strong><br>
-  Enterprise Help Desk • Ticketing Systems • Windows/macOS/Linux • Active Directory • User Lifecycle Management • System Recovery
+  Enterprise Help Desk • Ticketing Systems • SLA • Windows/macOS/Linux • Active Directory • User Lifecycle Management • System Recovery
 </p>
 
 <p>
@@ -73,7 +73,7 @@
     <ul>
       <li>Provisioned support for VPN connectivity, authentication, and endpoint failures.</li>
       <li>Established structured ticket triage, prioritization, and escalation workflows.</li>
-      <li>Applied Active Directory-style user lifecycle and credential management.</li>
+      <li>Applied SLA-based prioritization to high-impact business incidents to ensure operational continuity.</li>
     </ul>
     <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-" target="_blank">View Project</a>
   </li>
@@ -111,10 +111,10 @@
     Built a centralized monitoring environment to improve telemetry correlation across disparate systems.
     <ul>
       <li>Deployed Wazuh agents on Windows and Ubuntu endpoints for real-time log analysis.</li>
-      <li>Centralized telemetry to support rapid security event detection.</li>
+      <li>Centralized telemetry to support rapid security event detection and correlation.</li>
       <li>Monitored system behavior to identify and analyze cross-platform security events.</li>
     </ul>
-    <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">View Project</a>
+    <a href="https://github.com/GaryCollinsAI-Sec/Wazuh-Security-Monitoring-Lab" target="_blank">View Project</a>
   </li>
 
   <br>
