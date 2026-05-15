@@ -39,7 +39,7 @@
 
 <p>
   <strong>Identity & Cloud Security</strong><br>
-  Microsoft Entra ID (Azure AD) • AWS IAM • RBAC • MFA • Zero Trust Architecture • Identity Governance
+  Microsoft Entra ID (Azure AD) • AWS IAM • Google Cloud Provider • RBAC • MFA • Zero Trust Architecture • Identity Governance 
 </p>
 
 <p>
