@@ -50,7 +50,7 @@ Python • Bash • PowerShell • SQL
   https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab  
   Designed an enterprise-style segmented network using VLANs and pfSense firewall rules to enforce isolation and test intrusion containment.
 
-- **Vulnerability Management Lab (Nessus / CVSS)**  
+- **Vulnerability Management Lab (Nessus / CVSS / Metasploitable 2 / Ubuntu Linux)**  
   https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab  
   Performed full vulnerability lifecycle analysis including scanning, risk prioritization, remediation, and validation using CVSS scoring.
 
