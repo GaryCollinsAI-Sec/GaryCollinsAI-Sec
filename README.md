@@ -8,7 +8,8 @@ Cybersecurity Graduate | SOC Analyst (Entry-Level) | IT Security
 
 - LinkedIn: https://linkedin.com/in/garyjosephcollins  
 - GitHub: https://github.com/GaryCollinsAI-Sec  
-- 📄 Resume Download: https://github.com/GaryCollinsAI-Sec/GaryCollinsAI-Sec/blob/main/Gary_Collins_SOC_Resume.pdf
+- 📄 Resume Download: https://github.com/GaryCollinsAI-Sec/GaryCollinsAI-Sec/raw/main/Gary_Collins_SOC_Resume.pdf
+
 ---
 
 ## 🧠 Professional Summary
@@ -30,7 +31,7 @@ SOC Monitoring • Incident Detection • Log Analysis • Alert Triage • SIEM
 TCP/IP • DNS/DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Network Traffic Analysis (Wireshark) • Lateral Movement Awareness
 
 ### Systems
-Windows 10/11 • Linux (Ubuntu, Kali, Parrot OS) • MAC OS• VirtualBox
+Windows 10/11 • Linux (Ubuntu, Kali, Parrot OS) • macOS • VirtualBox
 
 ### Security Tools
 Wazuh • Nessus • Suricata • Wireshark • Nmap • Netcat • Metasploit Framework
@@ -59,7 +60,7 @@ Python • Bash • PowerShell • SQL
   Implemented Zero Trust identity controls using MFA, RBAC, and Conditional Access policies in a cloud-based environment.
 
 - **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**  
-  https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab  
+  https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab  
   Conducted controlled attack and defense simulations to evaluate exploitation paths, network segmentation, and remediation effectiveness.
 
 - **IT Help Desk & Ticketing Operations Lab (Spiceworks / Incident Workflow Simulation)**  
