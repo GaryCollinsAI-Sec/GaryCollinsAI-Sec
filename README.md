@@ -43,7 +43,7 @@ Python • Bash • PowerShell • SQL
 
 ## 🛡️ Security Projects
 
-- **SOC Monitoring Lab (Wazuh / EDR / XDR)**  
+- **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)**  
   https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Lab  
   Built a SOC-style security monitoring environment for detecting, analyzing, and investigating simulated intrusion activity across Windows and Linux systems.
 
