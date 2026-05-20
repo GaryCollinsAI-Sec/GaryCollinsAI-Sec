@@ -16,7 +16,7 @@ Cybersecurity Graduate | SOC Analyst (Entry-Level) | IT Security
 
 Cybersecurity graduate with hands-on SOC simulation experience in log analysis, intrusion detection, vulnerability assessment, and network defense using Wazuh, Wireshark, and Nessus.
 
-Experienced in designing and operating virtual security environments that replicate enterprise SOC workflows, including monitoring, alert triage, and incident investigation.
+Experienced in building and operating virtual security environments that replicate enterprise SOC workflows, including monitoring, alert triage, endpoint monitoring, and incident investigation.
 
 Seeking entry-level SOC Analyst, Security Analyst, or IT Security roles focused on detection, response, and infrastructure security.
 
@@ -25,7 +25,7 @@ Seeking entry-level SOC Analyst, Security Analyst, or IT Security roles focused 
 ## 🛠️ Core Skills
 
 ### Security Operations
-SOC Monitoring • Incident Detection • Log Analysis • Alert Triage • SIEM (Wazuh) • IDS/IPS (Suricata) • Threat Detection • Vulnerability Management
+SOC Monitoring • Incident Detection • Security Event Analysis • Log Analysis • Alert Triage • SIEM (Wazuh) • IDS/IPS (Suricata) • Threat Detection • Vulnerability Management • Threat Investigation
 
 ### Networking & Infrastructure Security
 TCP/IP • DNS/DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Network Traffic Analysis (Wireshark) • Lateral Movement Awareness
