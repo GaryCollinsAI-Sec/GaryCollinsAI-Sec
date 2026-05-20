@@ -58,7 +58,7 @@ Python • Bash • PowerShell • SQL
   https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense  
   Implemented Zero Trust identity controls using MFA, RBAC, and Conditional Access policies in a cloud-based environment.
 
-- **Purple Team Security Lab (Kali / Metasploitable / pfSense)**  
+- **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**  
   https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab  
   Conducted controlled attack and defense simulations to evaluate exploitation paths, network segmentation, and remediation effectiveness.
 
