@@ -59,7 +59,7 @@ Python • Bash • PowerShell • SQL
   Implemented Zero Trust identity controls using MFA, RBAC, and Conditional Access policies in a cloud-based environment.
 
 - **Purple Team Security Lab (Kali / Metasploitable / pfSense)**  
-  https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab  
+  https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab  
   Conducted controlled attack and defense simulations to evaluate exploitation paths, network segmentation, and remediation effectiveness.
 
 - **IT Help Desk & Ticketing Operations Lab (Spiceworks / Incident Workflow Simulation)**  
