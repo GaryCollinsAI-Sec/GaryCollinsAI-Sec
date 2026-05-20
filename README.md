@@ -8,7 +8,7 @@ Cybersecurity Graduate | SOC Analyst (Entry-Level) | IT Security
 
 - LinkedIn: https://linkedin.com/in/garyjosephcollins  
 - GitHub: https://github.com/GaryCollinsAI-Sec  
-- 📄 Resume Download: https://github.com/GaryCollinsAI-Sec/GaryCollinsAI-Sec/raw/main/Gary_Collins_SOC_Resume.pdf
+- Resume Download: https://github.com/GaryCollinsAI-Sec/GaryCollinsAI-Sec/raw/main/Gary_Collins_SOC_Resume.pdf
 
 ---
 
