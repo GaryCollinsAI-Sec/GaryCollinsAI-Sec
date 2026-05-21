@@ -56,7 +56,7 @@ Experienced in building virtual security environments that replicate enterprise 
 
 - **Automated Incident Response Triage Tool**
   <br>
-  https://github.com/GaryCollinsAI-Sec/Automated-IR-Triage-Tool  
+  https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool  
   Developed a lightweight Linux forensic triage framework in Bash engineered for rapid live-system volatile data collection during active security incidents.
   - **Live System Triage:** Automates packet capture logging, active listening sockets (`ss`), process trees, and user authentication logs to capture volatile data before it is lost.
   - **Volatile Memory Hunting:** Implements lightweight hunting logic via `/proc` filesystem metadata to intercept deleted-but-running binaries, fileless malware techniques, and runtime evasion scripts.
