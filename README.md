@@ -63,7 +63,7 @@ Experienced in building virtual security environments that replicate enterprise 
   - **Adversary Simulation:** Validated detection capability using non-destructive simulation models (unlinked execution paths via masked process spaces) inside a network-isolated VirtualBox environment.
   - **Roadmap:** Phase 1 complete. Phase 2 actively optimizing output parsing and structuring automated SIEM/SOAR ingestion hooks.
 
-- **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)**
+- **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR/EDR/PowerShell/Ubuntu/Windows)**
   <br>
   https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab  
   Built a SOC-style security monitoring environment for detecting, analyzing, and investigating simulated intrusion activity across Windows and Linux systems.
