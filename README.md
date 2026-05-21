@@ -72,7 +72,7 @@ Experienced in building virtual security environments that replicate enterprise 
   - **Incident Log Mapping:** Correlated multi-host security log streams to piece together attack chains and identify systemic indicators of compromise (IOCs).
 
 - **Enterprise Network Security Lab (pfSense / VLANs / IDS/IPS/ Wireshark)**
-- <br>
+  <br>
   https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab  
   Designed an enterprise-style segmented network using VLANs and pfSense firewall rules to enforce isolation and test intrusion containment.
   - **VLAN Isolation:** Designed a secure network segmentation scheme dividing corporate infrastructure into strict, isolated department zones.
