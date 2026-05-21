@@ -112,24 +112,7 @@ Experienced in building virtual security environments that replicate enterprise 
   - **SLA Management:** Applied SLA-based response logic to prioritize critical system and access-related incidents.
   - **Documentation:** Documented incidents to support structured troubleshooting and resolution tracking.
 
----
 
-## 💼 Professional Experience
-
-<h4><strong>JT Enterprise</strong> | Cyber Security Analyst (SOC-Focused) <br><em>January 2025 – Present</em></h4>
-<ul>
-  <li>Triaged and analyzed high-volume SIEM alerts (Wazuh, Splunk) across endpoint and network telemetry, validating threats through log correlation and packet analysis to identify true positives and escalate confirmed incidents.</li>
-  <li>Investigated suspicious activity to distinguish false positives from actionable security incidents, improving detection fidelity.</li>
-  <li>Escalated confirmed incidents according to defined response procedures, ensuring proper documentation and case tracking.</li>
-  <li>Conducted detailed packet inspection using Wireshark to support threat validation and investigative accuracy.</li>
-  <li>Maintained thorough incident documentation to support audit readiness and structured security operations.</li>
-</ul>
-
-<h4><strong>Han-Mi Tae Kwon Do</strong> | Chief Instructor <br><em>June 2015 – March 2023</em></h4>
-<ul>
-  <li><strong>Leadership:</strong> Led classes and modeled positive behavior while teaching proper defense methods to students.</li>
-  <li><strong>Communication:</strong> Managed regular progress updates and fostered relationships with parents and stakeholders.</li>
-</ul>
 
 ---
 
