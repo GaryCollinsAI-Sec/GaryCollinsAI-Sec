@@ -54,7 +54,7 @@ Experienced in building virtual security environments that replicate enterprise 
 
 ## 🛡️ Security Projects
 
-- **Automated Incident Response Triage Tool**
+- **Automated Incident Response Triage Tool (Ubuntu & Bash Scripting)**
   <br>
   https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool  
   Developed a lightweight Linux forensic triage framework in Bash engineered for rapid live-system volatile data collection during active security incidents.
