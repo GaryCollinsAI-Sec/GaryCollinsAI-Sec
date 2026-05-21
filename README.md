@@ -97,7 +97,7 @@ Experienced in building virtual security environments that replicate enterprise 
 
 - **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**
   <br>
-  https://github.com/GaryCollinsAI-Sec/Security-Assessment-Remediation-System-Hardening-Lab  
+  https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab 
   Conducted controlled attack and defense simulations to evaluate exploitation paths, network segmentation, and remediation effectiveness.
   - **Attack Simulation:** Performed targeted exploit scenarios using Metasploit to map out internal pivoting routes and credential risks.
   - **Defensive Tuning:** Adjusted endpoint auditing profiles and host detection points to catch network scanning and brute-force events.
