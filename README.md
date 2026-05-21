@@ -29,7 +29,7 @@ Experienced in building virtual security environments that replicate enterprise 
     </td>
     <td width="50%">
       <strong>🌐 Networking & Infrastructure Security</strong><br>
-      TCP/IP • DNS/DHCP • VLAN Segmentation • VPNs • Netbird Secure Mesh • pfSense Firewall • Network Traffic Analysis (Wireshark) • Lateral Movement Awareness
+      TCP/IP • DNS/DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Network Traffic Analysis (Wireshark) • Lateral Movement Awareness
     </td>
   </tr>
   <tr>
