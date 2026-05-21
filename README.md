@@ -1,6 +1,6 @@
 <div>
   <h1>Hi, I'm Gary Collins 👋</h1>
-  <p><strong>Cybersecurity Graduate | SOC Analyst (Entry-Level) | IT Security</strong></p>
+  <p><strong>Cybersecurity Professional | SOC Analyst | IT Security</strong></p>
 
   <p>
     <a href="mailto:garycollins0449@email.com"><img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
