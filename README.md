@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 Professional Summary
+## Professional Summary
 
 Detail-oriented **SOC-focused Cybersecurity Analyst** and graduate with hands-on security operations experience triaging, investigating, and documenting SIEM-generated alerts. Skilled in log correlation, endpoint event analysis, network defense, and vulnerability management using **Wazuh**, **Splunk**, and **Nessus**. 
 
