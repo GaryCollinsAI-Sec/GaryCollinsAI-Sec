@@ -89,7 +89,7 @@ Experienced in building virtual security environments that replicate enterprise 
 
 - **Identity & Access Security Lab (Microsoft Entra ID / Azure)**
   <br>
-  https://github.com/GaryCollinsAI-Sec/Azure-Active-Directory-Identity-Defense  
+  https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab  
   Implemented Zero Trust identity controls using MFA, RBAC, and Conditional Access policies in a cloud-based environment.
   - **Conditional Access:** Configured risk-based login blockades and step-up authentication checks targeting suspicious user sign-in locations.
   - **RBAC Enforce:** Defined fine-grained Role-Based Access Control assignments to minimize credential exposure across production resources.
