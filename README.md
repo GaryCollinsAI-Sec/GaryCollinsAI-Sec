@@ -5,7 +5,7 @@
   <p>
     <a href="mailto:garycollins0449@email.com"><img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/garyjosephcollins"><img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/GaryCollinsAI-Sec"><img src="https://img.shields.io/badge/GitHub-GaryCollinsAI--Sec-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  
   </p>
 </div>
 
