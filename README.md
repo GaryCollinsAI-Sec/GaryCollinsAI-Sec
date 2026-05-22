@@ -35,7 +35,7 @@ Experienced in building virtual security environments that replicate enterprise 
   <tr>
     <td>
       <strong>💻 Systems & Hardening</strong><br>
-      Windows 10/11 • Linux (Parrot OS, Ubuntu, Kali) • macOS • VirtualBox Lab Isolation • Log2Ram Storage Protection • Raspberry Pi Hardware
+      Windows 10/11 • Linux (Parrot OS, Ubuntu, Kali) • macOS • VirtualBox Lab Isolation
     </td>
     <td>
       <strong>⚙️ Security Tools & Scripting</strong><br>
