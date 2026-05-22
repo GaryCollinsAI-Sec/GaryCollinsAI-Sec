@@ -125,8 +125,7 @@ Experienced in building virtual security environments that replicate enterprise 
 
 ### 📜 Certifications
 * **CompTIA Security+** *(In Progress, Expected 06/2026)*
-* **Cisco Certified Network Associate (CCNA)** *(In Progress, Expected 06/2026)*
-* **Google Cybersecurity Professional Certificate** *(In Progress, Expected 06/2026)*
+
 
 ---
 
