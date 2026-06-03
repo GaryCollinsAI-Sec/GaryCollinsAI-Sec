@@ -51,6 +51,30 @@ Focused on designing and developing secure, scalable software systems with a str
     View Project Repository
   </a>
 
+- **Pong Game (Godot Engine)**
+  <br>
+  Classic Pong game developed using the Godot Engine to demonstrate core game development principles, physics-based interactions, and real-time gameplay systems.
+
+  - Implemented real-time game loop and physics-based collision detection  
+  - Designed responsive paddle controls using input mapping  
+  - Developed scoring system and win condition logic  
+  - Structured game using Godot scene and node architecture  
+  - Applied scripting logic using GDScript for gameplay mechanics  
+  - Focused on smooth frame-rate performance and responsive gameplay  
+
+  <br>
+
+  <strong>Tools & Technologies Used:</strong><br>
+  Godot Engine • GDScript • Game Physics • Scene System • Input Handling • Collision Detection  
+
+  <br><br>
+
+  <a href="YOUR_GITHUB_REPOSITORY_LINK">
+    View Project Repository
+  </a>
+
+
+
 ---
 
 ## 🛡️ Cybersecurity & IT Projects
