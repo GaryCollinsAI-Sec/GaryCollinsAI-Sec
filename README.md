@@ -80,7 +80,7 @@ Passionate about designing and developing secure, scalable software systems whil
   - Log correlation and incident reconstruction
   - Attack chain analysis
     <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
     View Project Repository
   </a>
 
