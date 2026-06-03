@@ -96,9 +96,6 @@ Focused on designing and developing secure, scalable software systems with a str
   - Applied scripting logic using GDScript for gameplay mechanics  
   - Focused on smooth frame-rate performance and responsive gameplay  
 
-  <strong>Tools & Technologies Used:</strong><br>
-  Godot Engine • GDScript • Game Physics • Scene System • Input Handling • Collision Detection  
-
   <br>
   <a href="YOUR_GITHUB_REPOSITORY_LINK">View Project Repository</a>
 
