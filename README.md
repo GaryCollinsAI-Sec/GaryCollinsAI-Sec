@@ -100,7 +100,7 @@ Passionate about designing and developing secure, scalable software systems whil
   - Patch remediation workflows
   - Security validation testing
     <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">
     View Project Repository
   </a>
 
