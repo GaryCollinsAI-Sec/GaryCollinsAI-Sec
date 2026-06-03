@@ -120,7 +120,7 @@ Passionate about designing and developing secure, scalable software systems whil
   - Exploit path analysis and mitigation
   - Network hardening practices
     <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">
     View Project Repository
   </a>
 
