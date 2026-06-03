@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Computer Science graduate and Cyber Engineering graduate student with experience spanning **software development, mobile application development, cybersecurity operations, and infrastructure security**.
+Computer Science graduate and Cyber Engineering graduate student with experience spanning **software development, mobile application development, cybersecurity operations, and IT support**.
 
 Skilled in building applications, designing mobile solutions, automating workflows, and analyzing security events within SOC environments. Experienced with Java, Python, Kotlin, Android development, JavaScript, TypeScript, React, Linux administration, networking, SIEM platforms, and vulnerability management tools including **Wazuh, Splunk, and Nessus**.
 
