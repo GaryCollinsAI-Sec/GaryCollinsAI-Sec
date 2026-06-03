@@ -68,7 +68,6 @@ Passionate about designing and developing secure, scalable software systems whil
   - Process, network, and user activity analysis
   - Volatile memory and artifact capture
   - Incident response workflow acceleration
-
   <br>
   <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
     View Project Repository
