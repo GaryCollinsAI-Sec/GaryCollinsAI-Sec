@@ -11,7 +11,14 @@
     Building secure software systems, mobile applications, and cybersecurity solutions through software engineering, automation, and SOC-style security operations.
   </p>
 
- <p> <a href="mailto:garycollins0449@email.com"><img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/garyjosephcollins"><img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
+  <p>
+    <a href="mailto:garycollins0449@email.com">
+      <img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/garyjosephcollins">
+      <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -28,14 +35,42 @@ Focused on designing and developing secure, scalable software systems with a str
 
 ## 🛠️ Core Skills
 
-<table> <tr> <td width="50%"> <strong>💻 Software Development</strong><br> Java • Kotlin • Python • Bash • PowerShell • C# • C++ • JavaScript • TypeScript • HTML • CSS • React • SQL • REST APIs • Object-Oriented Programming • Godot • Git • Software Design • Database Design • Debugging • Data Structures and Algorithms </td> <td width="50%"> <strong>📱 Mobile Development</strong><br> Android Development • Android Studio • Jetpack Compose • API Integration • JSON Processing • MVVM Architecture • Mobile UI Design • Local Storage • React Native </td> </tr> <tr> <td width="50%"> <strong>🛡️ Security Operations</strong><br> SOC Monitoring • Incident Response • SIEM (Wazuh, Splunk) • Log Analysis • Threat Detection • Vulnerability Management • Security Event Investigation • Threat Hunting </td> <td width="50%"> <strong>🌐 Networking & Infrastructure Security</strong><br> TCP/IP • DNS • DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Wireshark • Linux & Windows Administration • Network Traffic Analysis </td> </tr> <tr> <td colspan="2" align="center"> <strong>⚙️ Security & Dev Tools</strong><br> SIEM • Nessus • Suricata • Nmap • Netcat • Bash • PowerShell • GitHub • VirtualBox • Linux CLI </td> </tr> </table>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>💻 Software Development</strong><br>
+      Java • Kotlin • Python • Bash • PowerShell • C# • C++ • JavaScript • TypeScript • HTML • CSS • React • SQL • REST APIs • Object-Oriented Programming • Godot • Software Design • Database Design • Debugging • Data Structures and Algorithms
+    </td>
+    <td width="50%">
+      <strong>📱 Mobile Development</strong><br>
+      React Native • Expo • TypeScript • API Integration • JSON Processing • MVVM Concepts • Mobile UI Design • Cross-platform Development
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <strong>🛡️ Security Operations</strong><br>
+      SOC Monitoring • Incident Response • SIEM (Wazuh, Splunk) • Log Analysis • Threat Detection • Vulnerability Management • Security Event Investigation • Threat Hunting
+    </td>
+    <td width="50%">
+      <strong>🌐 Networking & Infrastructure Security</strong><br>
+      TCP/IP • DNS • DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Wireshark • Linux & Windows Administration • Network Traffic Analysis
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <strong>⚙️ Security & Dev Tools</strong><br>
+      SIEM • Nessus • Suricata • Nmap • Netcat • Bash • PowerShell • GitHub • VirtualBox • Linux CLI
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📱 Software Development Projects
 
-- **Weather Application (React Native, Expo, TypeScript, Tanstack Query, Axios)**
-  <br>
+- **Weather Application (React Native, Expo, TypeScript, TanStack Query, Axios)**  
   Mobile weather application built using React Native with Expo to retrieve and display real-time weather data from the OpenWeather API.
 
   - OpenWeather API integration for live weather data retrieval  
@@ -46,13 +81,12 @@ Focused on designing and developing secure, scalable software systems with a str
   - Mobile UI development with responsive cross-platform design (iOS/Android)  
   - Error handling and network request lifecycle management  
   - Component-based architecture using reusable UI modules  
-  <br> 
-  <a href="https://github.com/GaryCollinsAI-Sec/Weather-App">
-    View Project Repository
-  </a>
 
-- **Pong Game (Godot Engine)**
-  <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Weather-App">View Project Repository</a>
+
+---
+
+- **Pong Game (Godot Engine)**  
   Classic Pong game developed using the Godot Engine to demonstrate core game development principles, physics-based interactions, and real-time gameplay systems.
 
   - Implemented real-time game loop and physics-based collision detection  
@@ -62,92 +96,64 @@ Focused on designing and developing secure, scalable software systems with a str
   - Applied scripting logic using GDScript for gameplay mechanics  
   - Focused on smooth frame-rate performance and responsive gameplay  
 
-  <br>
-
   <strong>Tools & Technologies Used:</strong><br>
   Godot Engine • GDScript • Game Physics • Scene System • Input Handling • Collision Detection  
 
-  <br><br>
-
-  <a href="YOUR_GITHUB_REPOSITORY_LINK">
-    View Project Repository
-  </a>
-
-
+  <br>
+  <a href="YOUR_GITHUB_REPOSITORY_LINK">View Project Repository</a>
 
 ---
 
 ## 🛡️ Cybersecurity & IT Projects
 
-- **Automated Incident Response Triage Tool (Ubuntu & Bash)**
-  - Live system forensic data collection automation
-  - Process, network, and user activity analysis
-  - Volatile memory and artifact capture
-  - Incident response workflow acceleration
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
-    View Project Repository
-  </a>
+- **Automated Incident Response Triage Tool (Ubuntu & Bash)**  
+  - Live system forensic data collection automation  
+  - Process, network, and user activity analysis  
+  - Volatile memory and artifact capture  
+  - Incident response workflow acceleration  
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">View Project Repository</a>
 
-- **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)**
-  - Windows and Linux security monitoring environment
-  - Alert triage and investigation workflows
-  - Log correlation and incident reconstruction
-  - Attack chain analysis
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
-    View Project Repository
-  </a>
+- **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)**  
+  - Windows and Linux security monitoring environment  
+  - Alert triage and investigation workflows  
+  - Log correlation and incident reconstruction  
+  - Attack chain analysis  
+  <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">View Project Repository</a>
 
-- **Enterprise Network Security Lab (pfSense / VLANs / IDS/IPS)**
-  - Network segmentation using VLAN architecture
-  - Firewall rule enforcement and traffic control
-  - Intrusion detection and prevention (Suricata)
-  - Network traffic inspection and analysis
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
-    View Project Repository
-  </a>
+- **Enterprise Network Security Lab (pfSense / VLANs / IDS/IPS)**  
+  - Network segmentation using VLAN architecture  
+  - Firewall rule enforcement and traffic control  
+  - Intrusion detection and prevention (Suricata)  
+  - Network traffic inspection and analysis  
+  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">View Project Repository</a>
 
-- **Vulnerability Management Lab (Nessus / CVSS)**
-  - Credentialed vulnerability scanning
-  - Risk prioritization using CVSS scoring
-  - Patch remediation workflows
-  - Security validation testing
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">
-    View Project Repository
-  </a>
+- **Vulnerability Management Lab (Nessus / CVSS)**  
+  - Credentialed vulnerability scanning  
+  - Risk prioritization using CVSS scoring  
+  - Patch remediation workflows  
+  - Security validation testing  
+  <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project Repository</a>
 
-- **Identity & Access Security Lab (Azure / Entra ID)**
-  - Zero Trust identity security implementation
-  - MFA and Conditional Access policies
-  - Role-based access control (RBAC)
-  - Identity auditing and monitoring
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
-    View Project Repository
-  </a>
+- **Identity & Access Security Lab (Azure / Entra ID)**  
+  - Zero Trust identity security implementation  
+  - MFA and Conditional Access policies  
+  - Role-based access control (RBAC)  
+  - Identity auditing and monitoring  
+  <a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">View Project Repository</a>
 
-- **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**
-  - Controlled attack simulation environments
-  - Defensive tuning and detection improvement
-  - Exploit path analysis and mitigation
-  - Network hardening practices
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">
-    View Project Repository
-  </a>
+- **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**  
+  - Controlled attack simulation environments  
+  - Defensive tuning and detection improvement  
+  - Exploit path analysis and mitigation  
+  - Network hardening practices  
+  <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">View Project Repository</a>
 
-- **IT Help Desk & Ticketing Operations Lab (Spiceworks Simulation)**
-  - IT support workflow simulation
-  - Ticket triage and escalation processes
-  - SLA-based incident prioritization
-  - Structured troubleshooting documentation
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">
-    View Project Repository
-  </a>
+- **IT Help Desk & Ticketing Operations Lab (Spiceworks Simulation)**  
+  - IT support workflow simulation  
+  - Ticket triage and escalation processes  
+  - SLA-based incident prioritization  
+  - Structured troubleshooting documentation  
+  <a href="YOUR_REPO_LINK">View Project Repository</a>
 
 ---
 
