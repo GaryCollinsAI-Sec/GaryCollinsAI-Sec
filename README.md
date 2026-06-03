@@ -90,7 +90,7 @@ Passionate about designing and developing secure, scalable software systems whil
   - Intrusion detection and prevention (Suricata)
   - Network traffic inspection and analysis
     <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
     View Project Repository
   </a>
 
