@@ -34,28 +34,20 @@ Passionate about designing and developing secure, scalable software systems whil
 
 ## 📱 Software Development Projects
 
-- **Weather Application (Android)**
+- **Weather Application (React Native, Expo, TypeScript, Tanstack Query, Axios)**
   <br>
-  Mobile weather application utilizing REST APIs to retrieve and display real-time weather data.
-  - API Integration and consumption
-  - JSON parsing and data handling
-  - Mobile UI development
-  - Error handling and API reliability
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
-    View Project Repository
-  </a>
+  Mobile weather application built using React Native with Expo to retrieve and display real-time weather data from the OpenWeather API.
 
-- **Martial Arts Dojo Management System**
-  <br>
-  Full-stack management system for martial arts schools and student progression tracking.
-  - Student profile management
-  - Belt ranking system
-  - Technique library database
-  - Support ticket workflow system
-  - Administrative dashboard design
-    <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  - OpenWeather API integration for live weather data retrieval  
+  - Axios-based API requests for external data fetching  
+  - TanStack Query for caching, state management, and data synchronization  
+  - TypeScript for type-safe development and improved code reliability  
+  - JSON data handling and transformation for UI display  
+  - Mobile UI development with responsive cross-platform design (iOS/Android)  
+  - Error handling and network request lifecycle management  
+  - Component-based architecture using reusable UI modules  
+  <br> 
+  <a href="https://github.com/GaryCollinsAI-Sec/Weather-App">
     View Project Repository
   </a>
 
