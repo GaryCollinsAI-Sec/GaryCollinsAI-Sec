@@ -53,7 +53,7 @@ Passionate about designing and developing secure, scalable software systems whil
 
 ---
 
-## 🛡️ Cybersecurity Projects
+## 🛡️ Cybersecurity & IT Projects
 
 - **Automated Incident Response Triage Tool (Ubuntu & Bash)**
   - Live system forensic data collection automation
