@@ -11,7 +11,7 @@
     Building secure software systems, mobile applications, and cybersecurity solutions through software engineering, automation, and SOC-style security operations.
   </p>
 
-  <p> <a href="mailto:garycollins0449@email.com"><img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/garyjosephcollins"><img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
+ <p> <a href="mailto:garycollins0449@email.com"><img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/garyjosephcollins"><img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
 </div>
 
 ---
@@ -41,6 +41,10 @@ Passionate about designing and developing secure, scalable software systems whil
   - JSON parsing and data handling
   - Mobile UI development
   - Error handling and API reliability
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 - **Martial Arts Dojo Management System**
   <br>
@@ -50,6 +54,10 @@ Passionate about designing and developing secure, scalable software systems whil
   - Technique library database
   - Support ticket workflow system
   - Administrative dashboard design
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 ---
 
@@ -61,41 +69,70 @@ Passionate about designing and developing secure, scalable software systems whil
   - Volatile memory and artifact capture
   - Incident response workflow acceleration
 
+  <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
+
 - **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)**
   - Windows and Linux security monitoring environment
   - Alert triage and investigation workflows
   - Log correlation and incident reconstruction
   - Attack chain analysis
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 - **Enterprise Network Security Lab (pfSense / VLANs / IDS/IPS)**
   - Network segmentation using VLAN architecture
   - Firewall rule enforcement and traffic control
   - Intrusion detection and prevention (Suricata)
   - Network traffic inspection and analysis
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 - **Vulnerability Management Lab (Nessus / CVSS)**
   - Credentialed vulnerability scanning
   - Risk prioritization using CVSS scoring
   - Patch remediation workflows
   - Security validation testing
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 - **Identity & Access Security Lab (Azure / Entra ID)**
   - Zero Trust identity security implementation
   - MFA and Conditional Access policies
   - Role-based access control (RBAC)
   - Identity auditing and monitoring
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 - **Purple Team Security Lab (Kali / Metasploit / pfSense)**
   - Controlled attack simulation environments
   - Defensive tuning and detection improvement
   - Exploit path analysis and mitigation
   - Network hardening practices
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 - **IT Help Desk & Ticketing Operations Lab (Spiceworks Simulation)**
   - IT support workflow simulation
   - Ticket triage and escalation processes
   - SLA-based incident prioritization
   - Structured troubleshooting documentation
+    <br>
+  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+    View Project Repository
+  </a>
 
 ---
 
