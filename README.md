@@ -130,7 +130,7 @@ Passionate about designing and developing secure, scalable software systems whil
   - SLA-based incident prioritization
   - Structured troubleshooting documentation
     <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Help-Desk-Ticketing-Environment-Spiceworks-">
     View Project Repository
   </a>
 
