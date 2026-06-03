@@ -110,7 +110,7 @@ Passionate about designing and developing secure, scalable software systems whil
   - Role-based access control (RBAC)
   - Identity auditing and monitoring
     <br>
-  <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
+  <a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
     View Project Repository
   </a>
 
