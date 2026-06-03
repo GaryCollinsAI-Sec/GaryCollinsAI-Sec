@@ -105,7 +105,7 @@ Passionate about designing and developing secure, scalable software systems whil
     View Project Repository
   </a>
 
-- **Purple Team Security Lab (Kali / Metasploit / pfSense)**
+- **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**
   - Controlled attack simulation environments
   - Defensive tuning and detection improvement
   - Exploit path analysis and mitigation
