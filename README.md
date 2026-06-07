@@ -39,11 +39,11 @@ Focused on designing and developing secure, scalable software systems with a str
   <tr>
     <td width="50%">
       <strong>💻 Software Development</strong><br>
-      Java • Kotlin • Python • Bash • PowerShell • C# • C++ • JavaScript • TypeScript • HTML • CSS • React • SQL • REST APIs • Object-Oriented Programming • Godot • Software Design • Database Design • Debugging • Data Structures and Algorithms
+      Java • Kotlin • Python • Bash • PowerShell • C# • C++ • JavaScript • TypeScript • React • HTML • CSS • React • SQL • REST APIs • Object-Oriented Programming • Godot • Software Design • Database Design • Debugging • Data Structures and Algorithms
     </td>
     <td width="50%">
       <strong>📱 Mobile Development</strong><br>
-      React Native • Expo • TypeScript • API Integration • JSON Processing • MVVM Concepts • Mobile UI Design • Cross-platform Development
+      React Native • Expo • TypeScript • API Integration • JSON Processing • MVVM Concepts • Mobile UI Design • Cross-platform Development • Android Studio • Kotlin
     </td>
   </tr>
 
