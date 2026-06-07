@@ -54,7 +54,7 @@ Focused on designing and developing secure, scalable software systems with a str
     </td>
     <td width="50%">
       <strong>🌐 Networking & Infrastructure Security</strong><br>
-      TCP/IP • DNS • DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Wireshark • Linux & Windows Administration • Network Traffic Analysis
+      TCP/IP • DNS • DHCP • VLAN Segmentation • VPNs • pfSense Firewall • Wireshark • Linux & Windows Administration • Network Traffic Analysis • AWS • Azure • Google Cloud CLI
     </td>
   </tr>
 
