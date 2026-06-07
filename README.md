@@ -94,7 +94,7 @@ Focused on designing and developing secure, scalable software systems with a str
   - Persistent data storage architecture (planned)
   - Modular component design for scalability
 
-  <a href="https://github.com/GaryCollinsAI-Sec/Task-Manager">View Project Repository</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Taskmanager-App">View Project Repository</a>
 
 ---
 
