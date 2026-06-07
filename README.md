@@ -166,7 +166,7 @@ Focused on designing and developing secure, scalable software systems with a str
 
 ## 🎓 Education & Certifications
 
-**M.S. Cyber Engineering** — University of the Cumberlands *(Expected 2026)*  
+**M.S. Cyber Engineering** — University of the Cumberlands *(2026)*  
 **B.S. Computer Science** — Colorado State University Global *(2024)*  
 **A.S. Computer Science** — Yuba College *(2021)*  
 
