@@ -119,42 +119,42 @@ Focused on designing and developing secure, scalable software systems with a str
   - Volatile memory and artifact capture  
   - Incident response workflow acceleration  
   <a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">View Project Repository</a>
-
+---
 - **Cross-Platform Security Monitoring Lab (Wazuh SIEM/XDR)**  
   - Windows and Linux security monitoring environment  
   - Alert triage and investigation workflows  
   - Log correlation and incident reconstruction  
   - Attack chain analysis  
   <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">View Project Repository</a>
-
+---
 - **Enterprise Network Security Lab (pfSense / VLANs / IDS/IPS)**  
   - Network segmentation using VLAN architecture  
   - Firewall rule enforcement and traffic control  
   - Intrusion detection and prevention (Suricata)  
   - Network traffic inspection and analysis  
   <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">View Project Repository</a>
-
+---
 - **Vulnerability Management Lab (Nessus / CVSS)**  
   - Credentialed vulnerability scanning  
   - Risk prioritization using CVSS scoring  
   - Patch remediation workflows  
   - Security validation testing  
   <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">View Project Repository</a>
-
+---
 - **Identity & Access Security Lab (Azure / Entra ID)**  
   - Zero Trust identity security implementation  
   - MFA and Conditional Access policies  
   - Role-based access control (RBAC)  
   - Identity auditing and monitoring  
   <a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">View Project Repository</a>
-
+---
 - **Purple Team Security Lab (Kali / Metasploitable 2 / pfSense)**  
   - Controlled attack simulation environments  
   - Defensive tuning and detection improvement  
   - Exploit path analysis and mitigation  
   - Network hardening practices  
   <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">View Project Repository</a>
-
+---
 - **IT Help Desk & Ticketing Operations Lab (Spiceworks Simulation)**  
   - IT support workflow simulation  
   - Ticket triage and escalation processes  
