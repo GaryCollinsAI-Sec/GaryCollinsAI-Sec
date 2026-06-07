@@ -85,9 +85,20 @@ Focused on designing and developing secure, scalable software systems with a str
   <a href="https://github.com/GaryCollinsAI-Sec/Weather-App">View Project Repository</a>
 
 ---
+- **Task Manager (React Native, Expo, TypeScript)** A task management application designed to help users organize their daily responsibilities with a clean, responsive mobile interface.
 
-- **Pong Game (Godot Engine)**  
-  Classic Pong game developed using the Godot Engine to demonstrate core game development principles, physics-based interactions, and real-time gameplay systems.
+  - State management using React Hooks for real-time list updates
+  - Cross-platform development targeting iOS and Android
+  - TypeScript implementation for robust, type-safe data handling
+  - FlatList optimization for smooth performance with large task sets
+  - Persistent data storage architecture (planned)
+  - Modular component design for scalability
+
+  <a href="https://github.com/GaryCollinsAI-Sec/Task-Manager">View Project Repository</a>
+
+---
+
+- **Pong Game (Godot Engine)** Classic Pong game developed using the Godot Engine to demonstrate core game development principles, physics-based interactions, and real-time gameplay systems.
 
   - Implemented real-time game loop and physics-based collision detection  
   - Designed responsive paddle controls using input mapping  
@@ -96,8 +107,7 @@ Focused on designing and developing secure, scalable software systems with a str
   - Applied scripting logic using GDScript for gameplay mechanics  
   - Focused on smooth frame-rate performance and responsive gameplay  
 
-  <br>
-  <a href="YOUR_GITHUB_REPOSITORY_LINK">View Project Repository</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Pong-Game">View Project Repository</a>
 
 ---
 
