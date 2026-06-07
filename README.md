@@ -43,7 +43,7 @@ Focused on designing and developing secure, scalable software systems with a str
     </td>
     <td width="50%">
       <strong>📱 Mobile Development</strong><br>
-      React Native • Expo • TypeScript • API Integration • JSON Processing • MVVM Concepts • Mobile UI Design • Cross-platform Development • Android Studio • Kotlin
+      React Native • Expo • TypeScript • API Integration • JSON Processing • MVVM Concepts • Mobile UI Design • Cross-platform Development • Android Studio
     </td>
   </tr>
 
