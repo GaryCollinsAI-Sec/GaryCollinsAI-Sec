@@ -155,7 +155,7 @@ Focused on designing and developing secure, scalable software systems with a str
   - Network hardening practices  
   <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">View Project Repository</a>
 ---
-- **IT Help Desk & Ticketing Operations Lab (Spiceworks Simulation)**  
+- **IT Help Desk & Ticketing Operations Lab (Spiceworks)**  
   - IT support workflow simulation  
   - Ticket triage and escalation processes  
   - SLA-based incident prioritization  
