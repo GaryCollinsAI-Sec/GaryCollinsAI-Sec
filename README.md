@@ -79,7 +79,6 @@ Focused on designing and developing secure, scalable software systems with a str
   - TypeScript for type-safe development and improved code reliability  
   - JSON data handling and transformation for UI display  
   - Mobile UI development with responsive cross-platform design (iOS/Android)  
-  - Error handling and network request lifecycle management  
   - Component-based architecture using reusable UI modules  
 
   <a href="https://github.com/GaryCollinsAI-Sec/Weather-App">View Project Repository</a>
