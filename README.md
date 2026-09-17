@@ -6,7 +6,14 @@
 
 **Secure Software • Cloud Security • AI • Security Engineering**
 
-<p> <a href="mailto:garycollins0449@email.com"> <img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/garyjosephcollins"> <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
+<p>
+  <a href="mailto:garycollins0449@email.com">
+    <img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/garyjosephcollins">
+    <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -54,29 +61,7 @@ I enjoy building systems, threat modeling them, testing their security, identify
 
 ---
 
-# Featured Security & Cloud Projects
-
-### ☁️ Secure Cloud Application Architecture Lab
-
-**Cloud Security • IAM • Networking • Application Security**
-
-A security-focused cloud architecture project demonstrating:
-
-* Identity and access management
-* Least-privilege design
-* Network segmentation
-* Secure API architecture
-* Secrets management
-* Encryption
-* Logging and monitoring
-* Threat modeling
-* Security validation and remediation
-
-**Methodology:**
-
-`Threat Model → Build → Secure → Test → Detect → Remediate → Retest`
-
----
+# Featured Security Projects
 
 ### 🔐 Identity & Access Security Lab
 
@@ -206,25 +191,6 @@ An AI assistant developed for the Silver Dragons Academy platform with an emphas
 
 ---
 
-### 📱 Silver Dragons Academy Community App
-
-**React Native • Expo • TypeScript**
-
-A separate mobile application project focused on:
-
-* Mobile application architecture
-* Community functionality
-* Authentication
-* Profiles
-* Messaging
-* API integration
-* RBAC
-* Mobile security
-
-The project is being developed separately from the web platform to explore mobile-specific architecture and security considerations.
-
----
-
 ### 🌦️ Weather Application
 
 **Software Engineering • APIs • React**
@@ -245,6 +211,25 @@ A task-management application focused on frontend architecture, state management
 
 ---
 
+### 📱 Silver Dragons Academy Community App
+
+**React Native • Expo • TypeScript**
+
+A separate mobile application project focused on:
+
+* Mobile application architecture
+* Community functionality
+* Authentication
+* Profiles
+* Messaging
+* API integration
+* RBAC
+* Mobile security
+
+The project is being developed separately from the web platform to explore mobile-specific architecture and security considerations.
+
+---
+
 # Secure Software Development
 
 Security is integrated into my development process rather than treated as an afterthought.
@@ -254,6 +239,52 @@ Security is integrated into my development process rather than treated as an aft
 My goal is to understand both sides of the application:
 
 **How it is built → How it can fail → How it can be defended**
+
+---
+
+# ☁️ Future Cloud Security Projects
+
+### ☁️ Secure Google Cloud Application Deployment
+
+**Google Cloud • IAM • Networking • Application Security**
+
+Planned project focused on deploying the Silver Dragons Academy web platform to Google Cloud while implementing appropriate security configurations.
+
+Planned areas include:
+
+* Secure cloud architecture
+* IAM and least privilege
+* Secure service configuration
+* Secrets management
+* HTTPS/TLS
+* Network and access controls
+* Application/API security
+* Cloud logging and monitoring
+* Security alerting
+* Threat modeling
+* Security testing
+* Remediation and retesting
+
+**Planned methodology:**
+
+`Threat Model → Deploy → Secure → Test → Monitor → Remediate → Retest`
+
+---
+
+### ☁️ Cloud Security Architecture Lab
+
+**Cloud Infrastructure • IAM • Networking • Monitoring**
+
+A future isolated cloud environment designed to further develop practical cloud-security skills through:
+
+* Identity and access management
+* Least-privilege architecture
+* Network segmentation
+* Secure cloud services
+* Logging and monitoring
+* Security detection
+* Configuration validation
+* Incident-response exercises
 
 ---
 
@@ -286,17 +317,17 @@ My long-term goal is to combine **software engineering and cybersecurity** to de
 
 # Currently Building
 
-☁️ Secure cloud application architecture
+💻 Silver Dragons Academy web platform
+
+🧠 Secure AI assistant integration
 
 🔐 Application & API security
 
-🛡️ Cloud IAM and access controls
+☁️ Preparing for secure Google Cloud deployment
 
-🤖 AI-assisted security automation
+🛡️ Continuing hands-on cloud and cybersecurity development
 
-💻 Secure full-stack applications
-
-📚 Continuing hands-on cybersecurity and cloud security development
+📚 Expanding practical security engineering skills
 
 ---
 
