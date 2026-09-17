@@ -1,678 +1,307 @@
 <div align="center">
 
-<h1>Hi, I'm Gary Collins 👋</h1>
+# Hi, I'm Gary Collins 👋
 
-<h3>Software Engineer / Application Developer</h3>
+### Software Engineer | Cloud Security | Application Security
 
-<p>
-  <strong>AI • Cybersecurity • Secure Software • Engineering Systems</strong>
-</p>
+**Secure Software • Cloud Security • AI • Security Engineering**
 
-<p>
-  Building practical software applications and secure systems with a focus on
-  mobile development, backend engineering, automation, AI, and cybersecurity.
-</p>
-
-<p>
-  <a href="mailto:garycollins0449@email.com">
-    <img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/garyjosephcollins">
-    <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<p> <a href="mailto:garycollins0449@email.com"> <img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/garyjosephcollins"> <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> </p>
 
 </div>
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
+## About Me
 
-<p>
-  I am a software engineer and application developer focused on building useful,
-  reliable, and secure software.
-</p>
+I'm a software engineer and cybersecurity professional focused on building and securing modern applications and cloud environments.
 
-<p>
-  My primary development interests include <strong>mobile applications,
-  full-stack systems, APIs, automation, and AI-enabled applications</strong>.
-  My cybersecurity background provides an additional perspective when designing
-  and developing software, allowing me to consider security throughout the
-  development lifecycle.
-</p>
+My approach combines **software development, application security, cloud security, and security engineering** throughout the development lifecycle.
 
-<p>
-  I am also expanding into <strong>computer engineering, embedded systems,
-  robotics, electronics, and industrial automation</strong>, with the goal of
-  building systems where software and physical technology work together.
-</p>
+I enjoy building systems, threat modeling them, testing their security, identifying weaknesses, implementing defenses, and validating the results.
 
-<hr>
+> **Build it. Secure it. Understand it. Improve it.**
 
-<h2>🎯 Areas of Focus</h2>
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
+## Core Areas
 
-<h3>💻 Software Engineering</h3>
+* ☁️ **Cloud Security** — IAM, least privilege, secure architecture, cloud networking, logging, monitoring, and security validation
+* 🔐 **Application Security** — secure APIs, authentication, authorization, RBAC, input validation, threat modeling, and security testing
+* 💻 **Software Engineering** — application architecture, debugging, APIs, databases, and full-stack development
+* 🤖 **AI & Automation** — AI-assisted applications, automation, and security-focused AI experimentation
+* 🛡️ **Security Engineering** — vulnerability management, monitoring, incident response, network security, and purple-team validation
 
-<p>
-  Application Development<br>
-  Mobile Application Development<br>
-  Full-Stack Development<br>
-  REST APIs<br>
-  Backend Systems<br>
-  Database Design<br>
-  Software Architecture<br>
-  Object-Oriented Programming<br>
-  Debugging &amp; Testing<br>
-  Data Structures &amp; Algorithms
-</p>
+---
 
+## Technical Skills
 
-</td>
+### Cloud & Infrastructure
 
-<td width="50%" valign="top" align="center">
+`AWS` `Azure` `Google Cloud` `Microsoft Entra ID` `IAM` `RBAC` `Cloud CLI` `Linux` `Windows`
 
+### Application & Software Development
 
-<h3>🤖 AI &amp; Intelligent Systems</h3>
+`Python` `Java` `C#` `C++` `JavaScript` `TypeScript` `React` `React Native` `Expo` `Kotlin` `SQL` `REST APIs` `OOP` `Git/GitHub`
 
-<p>
-  Artificial Intelligence<br>
-  Machine Learning<br>
-  AI Application Development<br>
-  Automation<br>
-  Data Processing<br>
-  AI-Assisted Software<br>
-  Intelligent Security Systems<br>
-  AI Engineering
-</p>
+### Security
 
+`OWASP` `API Security` `Threat Modeling` `Security Testing` `Vulnerability Management` `SIEM` `IDS/IPS` `Network Security` `Incident Response` `Purple Team`
 
-</td>
+### Security Tools
 
+`Wazuh` `Splunk` `Nessus` `Suricata` `Nmap` `Wireshark` `pfSense` `Kali Linux` `Metasploitable 2`
 
-  </tr>
+---
 
-  <tr>
-    <td width="50%" valign="top" align="center">
+# Featured Security & Cloud Projects
 
-<h3>🛡️ Cybersecurity</h3>
+### ☁️ Secure Cloud Application Architecture Lab
 
-<p>
-  Secure Software Development<br>
-  Security Engineering<br>
-  SOC Operations<br>
-  SIEM<br>
-  Threat Detection<br>
-  Vulnerability Management<br>
-  Network Security<br>
-  Identity &amp; Access Management<br>
-  Security Automation
-</p>
+**Cloud Security • IAM • Networking • Application Security**
 
+A security-focused cloud architecture project demonstrating:
 
-</td>
+* Identity and access management
+* Least-privilege design
+* Network segmentation
+* Secure API architecture
+* Secrets management
+* Encryption
+* Logging and monitoring
+* Threat modeling
+* Security validation and remediation
 
-<td width="50%" valign="top" align="center">
+**Methodology:**
 
+`Threat Model → Build → Secure → Test → Detect → Remediate → Retest`
 
-<h3>⚙️ Engineering Systems</h3>
+---
 
-<p>
-  Computer Engineering<br>
-  Embedded Systems<br>
-  Robotics<br>
-  Electronics<br>
-  Industrial Automation<br>
-  IoT<br>
-  Hardware/Software Integration<br>
-  Engineering Software
-</p>
+### 🔐 Identity & Access Security Lab
 
+**Azure • Microsoft Entra ID • IAM • RBAC**
 
-</td>
+* MFA implementation
+* Conditional Access
+* RBAC
+* Identity auditing
+* Access control validation
+* Zero Trust concepts
+* Security monitoring
 
+[View Project](https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab)
 
-  </tr>
-</table>
+---
 
-<hr>
+### 🛡️ Purple Team Security Lab
 
-<h2>🛠️ Technical Skills</h2>
+**Kali Linux • Metasploitable 2 • pfSense**
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
+Controlled security testing environment focused on:
 
-<h3>💻 Software Development</h3>
+* Attack-path analysis
+* Exploitation in an isolated lab
+* Detection engineering
+* Defensive tuning
+* Network hardening
+* Security validation
 
-<p>
-  Java • Kotlin • Python • C# • C++<br>
-  Bash • PowerShell<br>
-  JavaScript • TypeScript<br>
-  React • React Native • Expo<br>
-  HTML • CSS • SQL<br>
-  REST APIs<br>
-  Object-Oriented Programming<br>
-  Software Design • Debugging<br>
-  Data Structures &amp; Algorithms<br>
-  Git • GitHub
-</p>
+[View Project](https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab)
 
+---
 
-</td>
+### 📊 Cross-Platform Security Monitoring Visibility Lab
 
-<td width="50%" valign="top" align="center">
+**Wazuh • Windows • Linux • SIEM/XDR**
 
+* Security monitoring
+* Log correlation
+* Alert investigation
+* Attack-chain analysis
+* Incident reconstruction
 
-<h3>📱 Mobile Development</h3>
+[View Project](https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab)
 
-<p>
-  React Native • Expo • TypeScript<br>
-  Cross-Platform Development<br>
-  Mobile UI Design<br>
-  API Integration<br>
-  JSON Data Processing<br>
-  TanStack Query<br>
-  Axios<br>
-  Component-Based Architecture
-</p>
+---
 
+### 🔎 Vulnerability Management Lab
 
-</td>
+**Nessus • CVSS • Vulnerability Management**
 
+* Credentialed vulnerability scanning
+* Risk prioritization
+* Vulnerability analysis
+* Patch remediation
+* Security validation
 
-  </tr>
+[View Project](https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab)
 
-  <tr>
-    <td width="50%" valign="top" align="center">
+---
 
-<h3>🛡️ Cybersecurity</h3>
+### 🌐 Enterprise Network & Security Lab
 
-<p>
-  SOC Monitoring • Incident Response<br>
-  SIEM • Wazuh • Splunk<br>
-  Threat Detection • Log Analysis<br>
-  Vulnerability Management • Nessus<br>
-  Network Security • Suricata<br>
-  Nmap • Wireshark<br>
-  Security Automation
-</p>
+**pfSense • VLANs • Suricata • Network Security**
 
+* Network segmentation
+* Firewall rule enforcement
+* IDS/IPS
+* Traffic analysis
+* Network security validation
 
-</td>
+[View Project](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab)
 
-<td width="50%" valign="top" align="center">
+---
 
+### 🚨 Automated Incident Response Triage Tool
 
-<h3>🌐 Infrastructure &amp; Cloud</h3>
+**Ubuntu • Bash • Incident Response**
 
-<p>
-  Linux • Windows Administration<br>
-  TCP/IP • DNS • DHCP<br>
-  VLAN Segmentation • VPNs<br>
-  pfSense Firewall<br>
-  AWS • Azure<br>
-  Google Cloud CLI<br>
-  VirtualBox • Linux CLI
-</p>
+Automated collection and analysis of system information to support incident-response workflows.
 
+* Process analysis
+* Network connection analysis
+* User activity
+* Artifact collection
+* Forensic data gathering
+* IR workflow automation
 
-</td>
+[View Project](https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool)
 
+---
 
-  </tr>
-</table>
+# Application Development
 
-<hr>
+I also build applications to apply software engineering and security concepts to real-world systems.
 
-<h2>📱 Featured Software Projects</h2>
+### 🥋 Silver Dragons Academy Web Platform
 
-<h3>🌦️ Weather Application</h3>
+**React • TypeScript • Tailwind • AI • Application Security**
 
-<p>
-  <strong>React Native • Expo • TypeScript • TanStack Query • Axios</strong>
-</p>
+A responsive web platform for Silver Dragons Academy featuring:
 
-<p>
-  A cross-platform mobile weather application designed to retrieve and display
-  real-time weather information through an external API.
-</p>
+* Responsive navigation
+* Program and informational pages
+* Contact functionality
+* AI assistant integration
+* Input validation
+* Security testing
+* Threat modeling
+* Secure application development practices
 
-<ul>
-  <li>OpenWeather API integration</li>
-  <li>Axios-based API requests</li>
-  <li>TanStack Query for data fetching and caching</li>
-  <li>TypeScript for type-safe development</li>
-  <li>JSON data processing and transformation</li>
-  <li>Reusable React Native components</li>
-  <li>Responsive mobile interface</li>
-  <li>Cross-platform architecture for iOS and Android</li>
-</ul>
+---
 
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Weather-App">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🧠 Silvia — Secure AI Assistant
 
-<hr>
+**AI • TypeScript • Application Security**
 
-<h3>✅ Task Manager</h3>
+An AI assistant developed for the Silver Dragons Academy platform with an emphasis on:
 
-<p>
-  <strong>React Native • Expo • TypeScript</strong>
-</p>
+* Input normalization
+* Prompt-injection defenses
+* Controlled knowledge
+* Security testing
+* Response validation
+* Secure AI application design
 
-<p>
-  A mobile task-management application designed to help users organize and
-  manage daily responsibilities through a clean, responsive interface.
-</p>
+---
 
-<ul>
-  <li>React Hooks for application state</li>
-  <li>TypeScript-based development</li>
-  <li>Cross-platform mobile architecture</li>
-  <li>FlatList-based task rendering</li>
-  <li>Modular component design</li>
-  <li>Scalable application structure</li>
-  <li>Persistent storage architecture planned</li>
-</ul>
+### 📱 Silver Dragons Academy Community App
 
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Taskmanager-App">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+**React Native • Expo • TypeScript**
 
-<hr>
+A separate mobile application project focused on:
 
-<h3>Silver Dragons landing page - in progress</h3>
+* Mobile application architecture
+* Community functionality
+* Authentication
+* Profiles
+* Messaging
+* API integration
+* RBAC
+* Mobile security
 
-<p>Developed a web application in react, typescript, and tailwind to style the components of the content. Implemented a functional and mobile friendly web application that encompasses a navbar with hamburger, menu, that contains a home, about, program, and contact page. Built an AI assistant chat bot to help customers with 24/7 customer service capability while utilizing best security practices for protecting the application.</p>
+The project is being developed separately from the web platform to explore mobile-specific architecture and security considerations.
 
-<hr>
+---
 
+### 🌦️ Weather Application
 
-<h2>🔐 Secure Software Development</h2>
+**Software Engineering • APIs • React**
 
-<p>
-  My software engineering approach incorporates cybersecurity principles
-  throughout the development lifecycle.
-</p>
+A weather application demonstrating API integration, application structure, responsive UI development, and asynchronous data handling.
 
-<table>
-  <tr>
-    <td align="center">🔑<br><strong>Authentication</strong></td>
-    <td align="center">👥<br><strong>Authorization</strong></td>
-    <td align="center">🛡️<br><strong>RBAC</strong></td>
-    <td align="center">🔒<br><strong>Data Protection</strong></td>
-    <td align="center">📡<br><strong>Monitoring</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🌐<br><strong>Secure APIs</strong></td>
-    <td align="center">✅<br><strong>Validation</strong></td>
-    <td align="center">🧠<br><strong>Threat Modeling</strong></td>
-    <td align="center">🧪<br><strong>Security Testing</strong></td>
-    <td align="center">☁️<br><strong>Cloud Security</strong></td>
-  </tr>
-</table>
+[View Project](https://github.com/GaryCollinsAI-Sec/Weather-App)
 
-<p>
-  The goal is not simply to build software that works, but to build software
-  that can be <strong>trusted, maintained, tested, and secured</strong>.
-</p>
+---
 
-<hr>
+### ✅ Task Manager
 
-<h2>🛡️ Cybersecurity Projects</h2>
+**Software Engineering • React • Application Development**
 
-<h3>🚨 Automated Incident Response Triage Tool</h3>
+A task-management application focused on frontend architecture, state management, CRUD functionality, and user interaction.
 
-<p>
-  <strong>Ubuntu • Bash</strong>
-</p>
+[View Project](https://github.com/GaryCollinsAI-Sec/Taskmanager-App)
 
-<p>
-  Automated system investigation and incident-response data collection.
-</p>
+---
 
-<ul>
-  <li>Live system forensic data collection</li>
-  <li>Process analysis</li>
-  <li>Network connection analysis</li>
-  <li>User activity analysis</li>
-  <li>Artifact collection</li>
-  <li>Incident-response workflow automation</li>
-</ul>
+# Secure Software Development
 
-<p>
+Security is integrated into my development process rather than treated as an afterthought.
 
-<a href="https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+**Authentication → Authorization → RBAC → Input Validation → Secure APIs → Data Protection → Threat Modeling → Security Testing → Monitoring → Remediation → Retesting**
 
-  
-</p>
+My goal is to understand both sides of the application:
 
-<hr>
+**How it is built → How it can fail → How it can be defended**
 
-<h3>📊 Cross-Platform Security Monitoring Lab</h3>
+---
 
-<p>
-  <strong>Wazuh SIEM/XDR • Windows • Linux</strong>
-</p>
+# Cloud Security Direction
 
-<p>
-  A security monitoring environment focused on centralized visibility and
-  investigation.
-</p>
+I'm continuing to develop toward roles involving:
 
-<ul>
-  <li>Windows and Linux monitoring</li>
-  <li>Security alert investigation</li>
-  <li>Log correlation</li>
-  <li>Attack-chain analysis</li>
-  <li>Incident reconstruction</li>
-  <li>Security event monitoring</li>
-</ul>
+* Cloud Security Engineering
+* Application Security
+* Cloud Infrastructure Security
+* IAM & Identity Security
+* API Security
+* Security Automation
+* Detection & Response
+* Secure Software Development
 
-<p>
- 
+My long-term goal is to combine **software engineering and cybersecurity** to design, build, and secure cloud-based applications and infrastructure.
 
+---
 
-<a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+# Education
 
-  
-</p>
+| Degree                     | Institution                      | Year |
+| -------------------------- | -------------------------------- | ---: |
+| **M.S. Cyber Engineering** | University of the Cumberlands    | 2026 |
+| **B.S. Computer Science**  | Colorado State University Global | 2024 |
+| **A.S. Computer Science**  | Yuba College                     | 2021 |
 
-<hr>
+---
 
-<h3>🌐 Enterprise Network Security Lab</h3>
+# Currently Building
 
-<p>
-  <strong>pfSense • VLANs • Suricata</strong>
-</p>
+☁️ Secure cloud application architecture
 
-<p>
-  A network-security laboratory demonstrating segmentation, firewall
-  configuration, and intrusion detection.
-</p>
+🔐 Application & API security
 
-<ul>
-  <li>VLAN-based network segmentation</li>
-  <li>Firewall rule enforcement</li>
-  <li>Traffic control</li>
-  <li>Suricata IDS/IPS</li>
-  <li>Network traffic analysis</li>
-</ul>
+🛡️ Cloud IAM and access controls
 
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+🤖 AI-assisted security automation
 
-<hr>
+💻 Secure full-stack applications
 
-<h3>🔎 Vulnerability Management Lab</h3>
+📚 Continuing hands-on cybersecurity and cloud security development
 
-<p>
-  <strong>Nessus • CVSS</strong>
-</p>
-
-<p>
-  A vulnerability-management laboratory focused on identifying, prioritizing,
-  and validating security vulnerabilities.
-</p>
-
-<ul>
-  <li>Credentialed vulnerability scanning</li>
-  <li>CVSS-based risk prioritization</li>
-  <li>Vulnerability analysis</li>
-  <li>Patch-remediation workflows</li>
-  <li>Security validation</li>
-</ul>
-
-<p>
-  
-
-
-<a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
-  
-</p>
-
-<hr>
-
-<h3>🔑 Identity &amp; Access Security Lab</h3>
-
-<p>
-  <strong>Azure / Microsoft Entra ID</strong>
-</p>
-
-<p>
-  A cloud identity-security laboratory focused on access control and Zero Trust
-  principles.
-</p>
-
-<ul>
-  <li>Multi-factor authentication</li>
-  <li>Conditional Access</li>
-  <li>Role-Based Access Control</li>
-  <li>Identity auditing</li>
-  <li>Security monitoring</li>
-  <li>Zero Trust concepts</li>
-</ul>
-
-<p>
-
-
-
-<a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
-  
-</p>
-
-<hr>
-
-<h3>🟣 Purple Team Security Lab</h3>
-
-<p>
-  <strong>Kali Linux • Metasploitable 2 • pfSense</strong>
-</p>
-
-<p>
-  An authorized cybersecurity laboratory combining controlled attack
-  simulation with defensive security analysis.
-</p>
-
-<ul>
-  <li>Controlled attack simulation</li>
-  <li>Exploit-path analysis</li>
-  <li>Detection engineering</li>
-  <li>Defensive tuning</li>
-  <li>Security validation</li>
-  <li>Network hardening</li>
-</ul>
-
-<blockquote>
-  <strong>⚠️ Authorized Laboratory Use:</strong>
-  All offensive-security projects are conducted exclusively in controlled,
-  authorized laboratory environments using isolated networks and intentionally
-  vulnerable virtual machines designed for security testing and education.
-</blockquote>
-
-<p>
-  
-
-
-
-<a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-
-
-  
-</p>
-
-<hr>
-
-<h2>🚀 What I'm Building Toward</h2>
-
-<p>
-  My long-term goal is to work at the intersection of
-  <strong>software, artificial intelligence, cybersecurity, and engineering</strong>.
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <strong>💻</strong><br><br>
-      <strong>Software Engineering</strong>
-    </td>
-
-
-<td align="center" width="25%">
-  <strong>🤖</strong><br><br>
-  <strong>Artificial Intelligence</strong>
-</td>
-
-<td align="center" width="25%">
-  <strong>🛡️</strong><br><br>
-  <strong>Cybersecurity</strong>
-</td>
-
-<td align="center" width="25%">
-  <strong>⚙️</strong><br><br>
-  <strong>Engineering Systems</strong>
-</td>
-
-
-  </tr>
-</table>
-
-<p>
-  I am particularly interested in building systems where software and physical
-  technology work together.
-</p>
-
-<table>
-  <tr>
-    <td align="center">🤖<br>AI-Powered Applications</td>
-    <td align="center">🔐<br>Secure Software</td>
-    <td align="center">🦾<br>Robotics</td>
-    <td align="center">🔧<br>Embedded Systems</td>
-  </tr>
-
-  <tr>
-    <td align="center">💻<br>Computer Engineering</td>
-    <td align="center">🏭<br>Industrial Automation</td>
-    <td align="center">🧠<br>Intelligent Control</td>
-    <td align="center">🌐<br>Cyber-Physical Systems</td>
-  </tr>
-</table>
-
-<hr>
-
-<h2>🎓 Education</h2>
-
-<table>
-  <tr>
-    <td>
-      <strong>M.S. Cyber Engineering</strong>
-    </td>
-    <td>
-      University of the Cumberlands — 2026
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <strong>B.S. Computer Science</strong>
-    </td>
-    <td>
-      Colorado State University Global — 2024
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <strong>A.S. Computer Science</strong>
-    </td>
-    <td>
-      Yuba College — 2021
-    </td>
-  </tr>
-
-  
-</table>
-
-<hr>
-
-<h2>📚 Currently Building</h2>
-
-<p>
-  I believe the best way to demonstrate engineering ability is through
-  <strong>working systems</strong>.
-</p>
-
-<p>
-  Rather than simply collecting technologies or creating large numbers of
-  unfinished repositories, I focus on building projects that demonstrate:
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">🧠<br><strong>Problem Solving</strong></td>
-    <td align="center" width="33%">🏗️<br><strong>Software Architecture</strong></td>
-    <td align="center" width="33%">💻<br><strong>Programming</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center">🔗<br><strong>API Integration</strong></td>
-    <td align="center">🗄️<br><strong>Database Design</strong></td>
-    <td align="center">🛡️<br><strong>Security</strong></td>
-  </tr>
-
-  <tr>
-    <td align="center">🧪<br><strong>Testing</strong></td>
-    <td align="center">📖<br><strong>Documentation</strong></td>
-    <td align="center">🚀<br><strong>Deployment</strong></td>
-  </tr>
-</table>
-
-<p>
-  Each project is an opportunity to learn something new and build toward more
-  advanced systems.
-</p>
-
-<hr>
+---
 
 <div align="center">
 
-<h2>Build it. Secure it. Understand it. Improve it.</h2>
-
-<p>
-  <strong>
-    Software Engineering • AI • Cybersecurity • Engineering Systems
-  </strong>
-</p>
-
-<br>
-
-<p>
-  <em>
-    Turning ideas into working software and engineering systems.
-  </em>
-</p>
+### Build it. Secure it. Understand it. Improve it.
 
 </div>
