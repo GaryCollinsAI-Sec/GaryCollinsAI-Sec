@@ -245,93 +245,11 @@ As my projects progress, I am incorporating DevSecOps practices that help automa
 
 ---
 
-# 🔄 Future DevSecOps & Cloud Security Projects
-
-### ☁️ Secure Google Cloud Application Deployment
-
-**Google Cloud • DevSecOps • IAM • Networking • Application Security**
-
-Planned project focused on securely deploying the Silver Dragons Academy web platform while integrating security throughout the development and deployment lifecycle.
-
-Planned areas include:
-
-* Secure cloud architecture
-* IAM and least privilege
-* Secure service configuration
-* Secrets management
-* HTTPS/TLS
-* Network and access controls
-* Application/API security
-* CI/CD security
-* Security scanning
-* Cloud logging and monitoring
-* Security alerting
-* Threat modeling
-* Security testing
-* Remediation and retesting
-
 **Planned methodology:**
 
 `Threat Model → Code → Test → Secure → Build → Deploy → Monitor → Remediate → Retest`
 
 ---
-
-### ☁️ Cloud Security Architecture Lab
-
-**Cloud Infrastructure • IAM • Networking • Monitoring**
-
-A future isolated cloud environment designed to further develop practical cloud-security and DevSecOps skills through:
-
-* Identity and access management
-* Least-privilege architecture
-* Network segmentation
-* Secure cloud services
-* Logging and monitoring
-* Security detection
-* Configuration validation
-* Infrastructure security
-* Incident-response exercises
-
----
-
-### 🔄 Secure CI/CD Pipeline
-
-**GitHub Actions • DevSecOps • Security Automation**
-
-A future project focused on integrating automated security controls into a software development pipeline.
-
-Planned areas include:
-
-* Source-code security checks
-* SAST
-* Dependency scanning
-* Secret detection
-* Automated testing
-* API security testing
-* Infrastructure security validation
-* Build security
-* Deployment controls
-* Security reporting
-
-**Planned methodology:**
-
-`Code → Test → Scan → Validate → Build → Deploy → Monitor`
-
----
-
-# DevSecOps & Cloud Security Direction
-
-I'm continuing to develop toward roles involving:
-
-* DevSecOps Engineering
-* Cloud Security Engineering
-* Application Security
-* Cloud Infrastructure Security
-* IAM & Identity Security
-* API Security
-* Security Automation
-* Detection & Response
-* Secure Software Development
 
 My long-term goal is to combine **software engineering, DevSecOps, and cybersecurity** to design, build, deploy, and secure modern cloud-based applications and infrastructure.
 
