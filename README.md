@@ -2,7 +2,7 @@
 
 # Hi, I'm Gary Collins 👋
 
-### Software Engineer | Cloud Security | Application Security
+### Software Engineer | DevSecOps | Cloud, Application & AI Security
 
 **Secure Software • Cloud Security • AI • Security Engineering**
 
@@ -21,11 +21,11 @@
 
 ## About Me
 
-I'm a software engineer and cybersecurity professional focused on building and securing modern applications and cloud environments.
+I'm a software engineer and cybersecurity professional focused on building, securing, and improving modern applications and cloud environments.
 
-My approach combines **software development, application security, cloud security, and security engineering** throughout the development lifecycle.
+My approach combines **software development, DevSecOps, application security, cloud security, and security engineering** throughout the development lifecycle.
 
-I enjoy building systems, threat modeling them, testing their security, identifying weaknesses, implementing defenses, and validating the results.
+I enjoy building systems, threat modeling them, testing their security, identifying weaknesses, implementing defenses, automating security practices, and validating the results.
 
 > **Build it. Secure it. Understand it. Improve it.**
 
@@ -33,6 +33,7 @@ I enjoy building systems, threat modeling them, testing their security, identify
 
 ## Core Areas
 
+* 🔄 **DevSecOps** — secure software delivery, security automation, threat modeling, security testing, vulnerability management, and integrating security throughout the development lifecycle
 * ☁️ **Cloud Security** — IAM, least privilege, secure architecture, cloud networking, logging, monitoring, and security validation
 * 🔐 **Application Security** — secure APIs, authentication, authorization, RBAC, input validation, threat modeling, and security testing
 * 💻 **Software Engineering** — application architecture, debugging, APIs, databases, and full-stack development
@@ -43,13 +44,13 @@ I enjoy building systems, threat modeling them, testing their security, identify
 
 ## Technical Skills
 
-### Cloud & Infrastructure
+### DevSecOps, Cloud & Infrastructure
 
-`AWS` `Azure` `Google Cloud` `Microsoft Entra ID` `IAM` `RBAC` `Cloud CLI` `Linux` `Windows`
+`Git/GitHub` `CI/CD` `AWS` `Azure` `Google Cloud` `Microsoft Entra ID` `IAM` `RBAC` `Cloud CLI` `Linux` `Windows`
 
 ### Application & Software Development
 
-`Python` `Java` `C#` `C++` `JavaScript` `TypeScript` `React` `React Native` `Expo` `Kotlin` `SQL` `REST APIs` `OOP` `Git/GitHub`
+`Python` `Java` `C#` `C++` `JavaScript` `TypeScript` `React` `React Native` `Expo` `Kotlin` `SQL` `REST APIs` `OOP`
 
 ### Security
 
@@ -157,7 +158,7 @@ Automated collection and analysis of system information to support incident-resp
 
 # Application Development
 
-I also build applications to apply software engineering and security concepts to real-world systems.
+I also build applications to apply software engineering, security, and DevSecOps concepts to real-world systems.
 
 ### 🥋 Silver Dragons Academy Web Platform
 
@@ -230,25 +231,27 @@ The project is being developed separately from the web platform to explore mobil
 
 ---
 
-# Secure Software Development
+# Secure Software & DevSecOps
 
 Security is integrated into my development process rather than treated as an afterthought.
 
-**Authentication → Authorization → RBAC → Input Validation → Secure APIs → Data Protection → Threat Modeling → Security Testing → Monitoring → Remediation → Retesting**
+**Authentication → Authorization → RBAC → Input Validation → Secure APIs → Data Protection → Threat Modeling → Security Testing → Automation → Monitoring → Remediation → Retesting**
 
 My goal is to understand both sides of the application:
 
 **How it is built → How it can fail → How it can be defended**
 
+As my projects progress, I am incorporating DevSecOps practices that help automate security throughout the software development and deployment lifecycle.
+
 ---
 
-# ☁️ Future Cloud Security Projects
+# 🔄 Future DevSecOps & Cloud Security Projects
 
 ### ☁️ Secure Google Cloud Application Deployment
 
-**Google Cloud • IAM • Networking • Application Security**
+**Google Cloud • DevSecOps • IAM • Networking • Application Security**
 
-Planned project focused on deploying the Silver Dragons Academy web platform to Google Cloud while implementing appropriate security configurations.
+Planned project focused on securely deploying the Silver Dragons Academy web platform while integrating security throughout the development and deployment lifecycle.
 
 Planned areas include:
 
@@ -259,6 +262,8 @@ Planned areas include:
 * HTTPS/TLS
 * Network and access controls
 * Application/API security
+* CI/CD security
+* Security scanning
 * Cloud logging and monitoring
 * Security alerting
 * Threat modeling
@@ -267,7 +272,7 @@ Planned areas include:
 
 **Planned methodology:**
 
-`Threat Model → Deploy → Secure → Test → Monitor → Remediate → Retest`
+`Threat Model → Code → Test → Secure → Build → Deploy → Monitor → Remediate → Retest`
 
 ---
 
@@ -275,7 +280,7 @@ Planned areas include:
 
 **Cloud Infrastructure • IAM • Networking • Monitoring**
 
-A future isolated cloud environment designed to further develop practical cloud-security skills through:
+A future isolated cloud environment designed to further develop practical cloud-security and DevSecOps skills through:
 
 * Identity and access management
 * Least-privilege architecture
@@ -284,14 +289,41 @@ A future isolated cloud environment designed to further develop practical cloud-
 * Logging and monitoring
 * Security detection
 * Configuration validation
+* Infrastructure security
 * Incident-response exercises
 
 ---
 
-# Cloud Security Direction
+### 🔄 Secure CI/CD Pipeline
+
+**GitHub Actions • DevSecOps • Security Automation**
+
+A future project focused on integrating automated security controls into a software development pipeline.
+
+Planned areas include:
+
+* Source-code security checks
+* SAST
+* Dependency scanning
+* Secret detection
+* Automated testing
+* API security testing
+* Infrastructure security validation
+* Build security
+* Deployment controls
+* Security reporting
+
+**Planned methodology:**
+
+`Code → Test → Scan → Validate → Build → Deploy → Monitor`
+
+---
+
+# DevSecOps & Cloud Security Direction
 
 I'm continuing to develop toward roles involving:
 
+* DevSecOps Engineering
 * Cloud Security Engineering
 * Application Security
 * Cloud Infrastructure Security
@@ -301,17 +333,17 @@ I'm continuing to develop toward roles involving:
 * Detection & Response
 * Secure Software Development
 
-My long-term goal is to combine **software engineering and cybersecurity** to design, build, and secure cloud-based applications and infrastructure.
+My long-term goal is to combine **software engineering, DevSecOps, and cybersecurity** to design, build, deploy, and secure modern cloud-based applications and infrastructure.
 
 ---
 
 # Education
 
-| Degree                     | Institution                      | Year |
-| -------------------------- | -------------------------------- | ---: |
-| **M.S. Cyber Engineering** | University of the Cumberlands    | 2026 |
-| **B.S. Computer Science**  | Colorado State University Global | 2024 |
-| **A.S. Computer Science**  | Yuba College                     | 2021 |
+| Degree | Institution | Year |
+|---|---|---:|
+| **M.S. Cyber Engineering** | University of the Cumberlands | 2026 |
+| **B.S. Computer Science** | Colorado State University Global | 2024 |
+| **A.S. Computer Science** | Yuba College | 2021 |
 
 ---
 
@@ -322,6 +354,8 @@ My long-term goal is to combine **software engineering and cybersecurity** to de
 🧠 Secure AI assistant integration
 
 🔐 Application & API security
+
+🔄 Developing DevSecOps practices
 
 ☁️ Preparing for secure Google Cloud deployment
 
