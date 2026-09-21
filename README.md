@@ -189,7 +189,8 @@ An AI assistant developed for the Silver Dragons Academy platform with an emphas
 * Security testing
 * Response validation
 * Secure AI application design
-
+  
+[View Project](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
 ---
 
 ### 🌦️ Weather Application
