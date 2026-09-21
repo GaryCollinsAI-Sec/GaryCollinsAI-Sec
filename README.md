@@ -179,7 +179,7 @@ A responsive web platform for Silver Dragons Academy featuring:
 
 ### 🧠 Silvia — Secure AI Assistant
 
-**AI • TypeScript • Application Security**
+**AI • React • Tailwind • TypeScript • Go • Chi • AI Security • Application Security**
 
 An AI assistant developed for the Silver Dragons Academy platform with an emphasis on:
 
@@ -189,8 +189,9 @@ An AI assistant developed for the Silver Dragons Academy platform with an emphas
 * Security testing
 * Response validation
 * Secure AI application design
-  
+
 [View Project](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
+
 ---
 
 ### 🌦️ Weather Application
