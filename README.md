@@ -188,16 +188,6 @@ A weather application demonstrating API integration, application structure, resp
 
 ---
 
-### ✅ Task Manager
-
-**Software Engineering • React • Application Development**
-
-A task-management application focused on frontend architecture, state management, CRUD functionality, and user interaction.
-
-[View Project](https://github.com/GaryCollinsAI-Sec/Taskmanager-App)
-
----
-
 ### 📱 Silver Dragons Academy Community App
 
 **React Native • Expo • TypeScript**
