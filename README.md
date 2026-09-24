@@ -137,22 +137,6 @@ Controlled security testing environment focused on:
 
 [View Project](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab)
 
----
-
-### 🚨 Automated Incident Response Triage Tool
-
-**Ubuntu • Bash • Incident Response**
-
-Automated collection and analysis of system information to support incident-response workflows.
-
-* Process analysis
-* Network connection analysis
-* User activity
-* Artifact collection
-* Forensic data gathering
-* IR workflow automation
-
-[View Project](https://github.com/GaryCollinsAI-Sec/Automated-Incident-Response-Triage-Tool)
 
 ---
 
