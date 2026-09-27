@@ -164,6 +164,7 @@ Cloud security and DevSecOps support my application-security work through:
 <code>SQL</code>
 <code>REST APIs</code>
 <code>OOP</code>
+<code>Django</code>
 </p>
 
 <h3>Cloud &amp; DevSecOps</h3>
