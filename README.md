@@ -290,6 +290,8 @@ The application serves as the foundation for experimenting with additional
 application-security controls and future cloud deployment.
 </p>
 
+<a href= "https://github.com/GaryCollinsAI-Sec/Silver-web-app"><strong> View Project → </strong></a>
+
 <hr>
 
 <h2>🧪 Application Security Testing</h2>
