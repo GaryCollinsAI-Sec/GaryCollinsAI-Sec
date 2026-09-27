@@ -203,7 +203,7 @@ Cloud security and DevSecOps support my application-security work through:
 <h3>🧠 Silvia — Secure AI Assistant API</h3>
 
 <p>
-<strong>Go • Chi • React • TypeScript • AI Security • API Security</strong>
+<strong>Python • Django • React • TypeScript • AI Security • API Security</strong>
 </p>
 
 <p>
@@ -259,7 +259,7 @@ abuse cases.
 <h3>🥋 Silver Dragons Academy Web Platform</h3>
 
 <p>
-<strong>React • TypeScript • Tailwind • AI • Application Security</strong>
+<strong>React • TypeScript • Tailwind • Python • Django • AI • Rest API • Application Security</strong>
 </p>
 
 <p>
