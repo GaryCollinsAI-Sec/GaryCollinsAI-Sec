@@ -1,621 +1,432 @@
+
 <div align="center">
 
-<h1>Hi, I'm Gary Collins 👋</h1>
+  <h1>Hi, I'm Gary Collins 👋</h1>
 
-<h3>Application Security | Software Engineering | Cloud Security</h3>
+  <h3>Software Engineering | Web Development | AI Integration</h3>
 
-<p><strong>Secure Applications • API Security • AI Security • DevSecOps</strong></p>
+  <p>
+    <strong>Web Applications • Backend APIs • AI Solutions • Secure Software</strong>
+  </p>
 
-<p>
-  <a href="mailto:garycollins0449@email.com">
-    <img src="https://img.shields.io/badge/Email-garycollins0449%40email.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/garyjosephcollins">
-    <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="mailto:garycollins0449@email.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/garyjosephcollins">
+      <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
 </div>
 
 <hr>
 
-<h2>About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 <p>
-I'm a software engineering and cybersecurity professional focused on
-<strong>application security, secure software development, and cloud-based applications</strong>.
+  I'm a software engineer with a background in computer science and cyber engineering,
+  focused on building web applications, backend services, REST APIs, and AI-enabled software.
 </p>
 
 <p>
-My approach combines software engineering with security testing to understand
-applications from both sides: <strong>how they are built and how they can fail</strong>.
+  My interests include full-stack web development, backend engineering, API development,
+  database integration, AI application development, and software quality.
 </p>
 
 <p>
-I build applications and APIs, then apply security practices such as threat modeling,
-input validation, authentication and authorization testing, API security testing,
-vulnerability analysis, and defensive controls.
+  I combine software engineering principles with a security-conscious mindset,
+  considering maintainability, reliability, input validation, access control, and
+  secure application architecture throughout development.
 </p>
 
 <p>
-I'm particularly interested in securing modern applications that incorporate
-<strong>APIs, cloud services, AI components, and distributed systems</strong>.
+  I'm particularly interested in developing practical software solutions for businesses,
+  integrating AI into existing applications, and building systems that are useful,
+  maintainable, and secure.
 </p>
 
 <blockquote>
-  <strong>Build it. Test it. Secure it. Understand it. Improve it.</strong>
+  <strong>Design thoughtfully. Build practically. Test thoroughly. Secure by design.</strong>
 </blockquote>
 
 <hr>
 
-<h2>Application Security Focus</h2>
+<h2>🛠️ Technical Skills</h2>
+
+<h3>Software &amp; Web Development</h3>
 
 <p>
-My primary area of focus is <strong>Application Security (AppSec)</strong>.
+  <code>Python</code>
+  <code>Django</code>
+  <code>Django REST Framework</code>
+  <code>Go</code>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
+  <code>React</code>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>Tailwind CSS</code>
+  <code>SQL</code>
+  <code>REST APIs</code>
+  <code>C#</code>
+  <code>C++</code>
 </p>
 
-<h3>🔐 Application Security</h3>
-
-<ul>
-  <li>Secure application architecture</li>
-  <li>OWASP principles</li>
-  <li>Threat modeling</li>
-  <li>Secure coding practices</li>
-  <li>Input validation</li>
-  <li>Authentication</li>
-  <li>Authorization</li>
-  <li>RBAC</li>
-  <li>Session and access-control security</li>
-  <li>API security</li>
-  <li>Security testing</li>
-  <li>Vulnerability identification and remediation</li>
-  <li>Security regression testing</li>
-  <li>Dependency and configuration security</li>
-  <li>Secure error handling</li>
-  <li>Security headers</li>
-  <li>Rate limiting</li>
-  <li>Data protection</li>
-</ul>
-
-<h3>🌐 API Security</h3>
-
-<ul>
-  <li>REST API security</li>
-  <li>Request validation</li>
-  <li>Input sanitization</li>
-  <li>Authentication and authorization</li>
-  <li>Rate limiting</li>
-  <li>CORS</li>
-  <li>HTTP security headers</li>
-  <li>Error-handling security</li>
-  <li>API abuse scenarios</li>
-  <li>Negative testing</li>
-  <li>Automated security tests</li>
-</ul>
-
-<h3>🤖 AI Application Security</h3>
-
-<ul>
-  <li>Prompt-injection testing</li>
-  <li>Instruction-disclosure testing</li>
-  <li>AI input validation</li>
-  <li>Controlled knowledge boundaries</li>
-  <li>Response validation</li>
-  <li>AI application threat modeling</li>
-  <li>Secure AI integration</li>
-  <li>Testing AI-assisted applications for unintended behavior</li>
-</ul>
-
-<h3>☁️ Cloud &amp; DevSecOps</h3>
+<h3>AI Application Development</h3>
 
 <p>
-Cloud security and DevSecOps support my application-security work through:
+  <code>AI Integration</code>
+  <code>Chatbot Development</code>
+  <code>API Integration</code>
+  <code>Prompt Engineering</code>
+  <code>AI Application Testing</code>
 </p>
 
-<ul>
-  <li>IAM</li>
-  <li>Least privilege</li>
-  <li>RBAC</li>
-  <li>Secure cloud architecture</li>
-  <li>CI/CD security</li>
-  <li>Security automation</li>
-  <li>Logging and monitoring</li>
-  <li>Vulnerability management</li>
-  <li>Secure deployment practices</li>
-  <li>Security validation</li>
-</ul>
-
-<hr>
-
-<h2>Technical Skills</h2>
-
-<h3>Application Security</h3>
+<h3>Software Engineering</h3>
 
 <p>
-<code>OWASP</code>
-<code>Application Security</code>
-<code>API Security</code>
-<code>Threat Modeling</code>
-<code>Security Testing</code>
-<code>Secure Coding</code>
-<code>Authentication</code>
-<code>Authorization</code>
-<code>RBAC</code>
-<code>Input Validation</code>
-<code>Security Headers</code>
-<code>CORS</code>
-<code>Rate Limiting</code>
-<code>Vulnerability Management</code>
+  <code>Object-Oriented Programming</code>
+  <code>API Design</code>
+  <code>Database Integration</code>
+  <code>Debugging</code>
+  <code>Automated Testing</code>
+  <code>Input Validation</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Application Maintenance</code>
 </p>
 
-<h3>Application Development</h3>
+<h3>Mobile Development</h3>
 
 <p>
-<code>Go</code>
-<code>Python</code>
-<code>C#</code>
-<code>C++</code>
-<code>JavaScript</code>
-<code>TypeScript</code>
-<code>React</code>
-<code>React Native</code>
-<code>Expo</code>
-<code>Kotlin</code>
-<code>SQL</code>
-<code>REST APIs</code>
-<code>OOP</code>
-<code>Django</code>
+  <code>React Native</code>
+  <code>Expo</code>
+  <code>TypeScript</code>
+  <code>Mobile API Integration</code>
 </p>
 
-<h3>Cloud &amp; DevSecOps</h3>
+<h3>Cloud &amp; Infrastructure</h3>
 
 <p>
-<code>Git/GitHub</code>
-<code>CI/CD</code>
-<code>AWS</code>
-<code>Azure</code>
-<code>Google Cloud</code>
-<code>Microsoft Entra ID</code>
-<code>IAM</code>
-<code>RBAC</code>
-<code>Linux</code>
-<code>Windows</code>
-<code>Cloud CLI</code>
+  <code>AWS</code>
+  <code>Microsoft Azure</code>
+  <code>Google Cloud</code>
+  <code>Microsoft Entra ID</code>
+  <code>IAM</code>
+  <code>RBAC</code>
+  <code>Linux</code>
+  <code>Windows</code>
+  <code>CI/CD</code>
 </p>
 
-<h3>Security Operations &amp; Testing</h3>
+<h3>Application &amp; Cloud Security</h3>
 
 <p>
-<code>Wazuh</code>
-<code>Splunk</code>
-<code>Nessus</code>
-<code>Suricata</code>
-<code>Nmap</code>
-<code>Wireshark</code>
-<code>pfSense</code>
-<code>Kali Linux</code>
-<code>Metasploitable 2</code>
+  <code>OWASP</code>
+  <code>Application Security</code>
+  <code>API Security</code>
+  <code>Threat Modeling</code>
+  <code>Secure Coding</code>
+  <code>Authentication</code>
+  <code>Authorization</code>
+  <code>Vulnerability Analysis</code>
+  <code>Security Testing</code>
+</p>
+
+<h3>Security Tools &amp; Monitoring</h3>
+
+<p>
+  <code>Wazuh</code>
+  <code>Splunk</code>
+  <code>Nessus</code>
+  <code>Suricata</code>
+  <code>Nmap</code>
+  <code>Wireshark</code>
+  <code>pfSense</code>
+  <code>Kali Linux</code>
+  <code>Metasploitable 2</code>
 </p>
 
 <hr>
 
-<h2>Featured Application Security Projects</h2>
+<h2>🚀 Featured Software Engineering Projects</h2>
 
-<h3>🧠 Silvia — Secure AI Assistant API</h3>
+<h3>🥋 Silver Dragons Academy Web Platform</h3>
 
 <p>
-<strong>Python • Django • React • TypeScript • AI Security • API Security</strong>
+  <strong>React • TypeScript • Vite • Tailwind CSS • Python • Django REST Framework</strong>
 </p>
 
 <p>
-A security-focused AI assistant API developed for the Silver Dragons Academy platform.
+  A web application project for Silver Dragons Academy, combining a modern frontend
+  with a Python backend and API-driven functionality.
+</p>
+
+<h4>Engineering Focus</h4>
+
+<ul>
+  <li>Component-based frontend development with React and TypeScript</li>
+  <li>Responsive user interface development</li>
+  <li>Backend API development and integration</li>
+  <li>Frontend-to-backend communication</li>
+  <li>Application structure and maintainability</li>
+  <li>AI assistant integration</li>
+  <li>Input validation and error handling</li>
+  <li>Security-conscious software development</li>
+</ul>
+
+<p>
+  <a href="https://github.com/GaryCollinsAI-Sec/Silver-web-app">
+    <strong>View Project →</strong>
+  </a>
+</p>
+
+<hr>
+
+<h3>🧠 Silvia — AI Assistant API</h3>
+
+<p>
+  <strong>Python • Django • Django REST Framework • REST APIs • AI Integration</strong>
 </p>
 
 <p>
-The project is being developed with an emphasis on
-<strong>secure API design, adversarial testing, input validation, and AI application security</strong>.
+  An AI assistant API developed for the Silver Dragons Academy platform.
+  The project explores integrating conversational AI into a web application
+  through a dedicated backend service.
 </p>
 
-<h4>Security Engineering</h4>
+<h4>Engineering Focus</h4>
+
+<ul>
+  <li>REST API design and implementation</li>
+  <li>Request and response handling</li>
+  <li>Request-structure and input validation</li>
+  <li>Backend integration with a web application</li>
+  <li>Error handling and API reliability</li>
+  <li>Request-size and message-length limits</li>
+  <li>API testing and validation</li>
+  <li>AI behavior testing</li>
+</ul>
+
+<h4>Application Security</h4>
 
 <ul>
   <li>Prompt-injection testing</li>
   <li>Instruction-disclosure testing</li>
   <li>Controlled knowledge boundaries</li>
-  <li>Private-system access prevention</li>
-  <li>AI response validation</li>
-  <li>Malformed request testing</li>
-  <li>Unknown-field rejection</li>
-  <li>Request structure validation</li>
-  <li>Request body size limits</li>
-  <li>Message length limits</li>
-  <li>Rate limiting</li>
-  <li>CORS controls</li>
+  <li>Rate limiting and CORS configuration</li>
   <li>HTTP security headers</li>
   <li>Secure error handling</li>
   <li>Automated security testing</li>
 </ul>
 
-<h4>API Security</h4>
-
 <p>
-The API is intentionally designed so security controls are part of the application
-architecture rather than added after development.
-</p>
-
-<p>
-Security tests are used to validate expected behavior against malformed requests,
-unauthorized behaviors, prompt-injection attempts, and other application-level
-abuse cases.
-</p>
-
-<p>
-<a href="https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development">
-  <strong>View Project →</strong>
-</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development">
+    <strong>View Project →</strong>
+  </a>
 </p>
 
 <hr>
 
-<h3>🥋 Silver Dragons Academy Web Platform</h3>
+<h3>📱 Silver Dragons Academy Community App</h3>
 
 <p>
-<strong>React • TypeScript • Tailwind • Python • Django • AI • Rest API • Application Security</strong>
+  <strong>React Native • Expo • TypeScript</strong>
 </p>
 
 <p>
-A production-oriented web application being developed for Silver Dragons Academy.
+  A planned mobile application extending the Silver Dragons Academy platform
+  into a cross-platform mobile experience.
 </p>
 
-<p>
-The project provides an opportunity to apply
-<strong>secure software development and application-security practices to a real application</strong>.
-</p>
-
-<h4>Application Security Work</h4>
+<h4>Planned Development Areas</h4>
 
 <ul>
-  <li>Threat modeling</li>
-  <li>Input validation</li>
-  <li>Secure API integration</li>
-  <li>Security testing</li>
-  <li>Client/server security considerations</li>
-  <li>AI integration security</li>
-  <li>Secure application architecture</li>
-  <li>Error handling</li>
-  <li>Security-conscious development practices</li>
+  <li>Mobile application architecture</li>
+  <li>Reusable interface components</li>
+  <li>API integration</li>
+  <li>User profiles and authentication</li>
+  <li>Authorization and role-based access control</li>
+  <li>Secure data handling</li>
+  <li>Mobile application testing</li>
 </ul>
 
 <p>
-The application serves as the foundation for experimenting with additional
-application-security controls and future cloud deployment.
-</p>
-
-<a href= "https://github.com/GaryCollinsAI-Sec/Silver-web-app"><strong> View Project → </strong></a>
-
-<hr>
-
-<h2>🧪 Application Security Testing</h2>
-
-<p>
-My application-security projects focus on testing applications from an adversarial
-perspective while maintaining controlled and authorized environments.
-</p>
-
-<p>
-Areas of testing include:
-</p>
-
-<p>
-<code>Input</code> →
-<code>Authentication</code> →
-<code>Authorization</code> →
-<code>API</code> →
-<code>Business Logic</code> →
-<code>Configuration</code> →
-<code>Dependencies</code> →
-<code>AI Behavior</code> →
-<code>Error Handling</code> →
-<code>Security Controls</code>
-</p>
-
-<p>
-I use both <strong>positive and negative testing</strong> to determine whether
-applications behave securely under expected and unexpected conditions.
-</p>
-
-<h3>Example Security Testing Process</h3>
-
-<p>
-<strong>
-Understand → Threat Model → Identify Attack Surface → Test →
-Validate → Remediate → Retest → Document
-</strong>
-</p>
-
-<p>
-The objective is not simply to identify a vulnerability, but to understand:
-</p>
-
-<p>
-<strong>
-What can go wrong → Why it happens → How it can be exploited →
-How to mitigate it → How to verify the fix
-</strong>
+  <em>Status: Planned development.</em>
 </p>
 
 <hr>
 
-<h2>🛡️ Security Engineering Projects</h2>
-
-<h3>🔐 Identity &amp; Access Security Lab</h3>
+<h2>🔐 Application Security &amp; Cloud Security Projects</h2>
 
 <p>
-<strong>Azure • Microsoft Entra ID • IAM • RBAC</strong>
+  My security projects complement my software engineering work through practical
+  exploration of identity management, network defense, vulnerability management,
+  and security monitoring.
 </p>
+
+<h3>🔑 Identity &amp; Access Security Lab</h3>
+
+<p><strong>Azure • Microsoft Entra ID • Active Directory • IAM • RBAC</strong></p>
 
 <ul>
-  <li>MFA implementation</li>
+  <li>Multi-factor authentication (MFA)</li>
   <li>Conditional Access</li>
-  <li>RBAC</li>
-  <li>Identity auditing</li>
-  <li>Access-control validation</li>
+  <li>Role-based access control</li>
+  <li>Identity auditing and access validation</li>
+  <li>Least-privilege principles</li>
   <li>Zero Trust concepts</li>
   <li>Security monitoring</li>
 </ul>
 
 <p>
-<a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
-  <strong>View Project →</strong>
-</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
+    <strong>View Project →</strong>
+  </a>
 </p>
 
 <hr>
 
 <h3>🛡️ Purple Team Security Lab</h3>
 
-<p>
-<strong>Kali Linux • Metasploitable 2 • pfSense</strong>
-</p>
-
-<p>
-Controlled security-testing environment demonstrating:
-</p>
+<p><strong>Kali Linux • Metasploitable 2 • pfSense</strong></p>
 
 <ul>
+  <li>Controlled security testing</li>
   <li>Attack-path analysis</li>
-  <li>Exploitation in an isolated lab</li>
-  <li>Detection engineering</li>
-  <li>Defensive tuning</li>
+  <li>Detection and defensive validation</li>
   <li>Network hardening</li>
-  <li>Security validation</li>
+  <li>Security control evaluation</li>
 </ul>
 
 <p>
-<a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">
-  <strong>View Project →</strong>
-</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">
+    <strong>View Project →</strong>
+  </a>
 </p>
 
 <hr>
 
 <h3>📊 Cross-Platform Security Monitoring Visibility Lab</h3>
 
-<p>
-<strong>Wazuh • Windows • Linux • SIEM/XDR</strong>
-</p>
+<p><strong>Wazuh • Windows • Linux • SIEM/XDR</strong></p>
 
 <ul>
-  <li>Security monitoring</li>
-  <li>Log correlation</li>
+  <li>Cross-platform security monitoring</li>
+  <li>Log analysis and correlation</li>
   <li>Alert investigation</li>
   <li>Attack-chain analysis</li>
   <li>Incident reconstruction</li>
 </ul>
 
 <p>
-<a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
-  <strong>View Project →</strong>
-</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
+    <strong>View Project →</strong>
+  </a>
 </p>
 
 <hr>
 
 <h3>🔎 Vulnerability Management Lab</h3>
 
-<p>
-<strong>Nessus • CVSS • Vulnerability Management</strong>
-</p>
+<p><strong>Nessus • CVSS • Vulnerability Management</strong></p>
 
 <ul>
-  <li>Credentialed vulnerability scanning</li>
-  <li>Risk prioritization</li>
+  <li>Vulnerability scanning</li>
+  <li>Risk-based prioritization</li>
   <li>Vulnerability analysis</li>
-  <li>Patch remediation</li>
-  <li>Security validation</li>
+  <li>Remediation planning</li>
+  <li>Post-remediation validation</li>
 </ul>
 
 <p>
-<a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">
-  <strong>View Project →</strong>
-</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">
+    <strong>View Project →</strong>
+  </a>
 </p>
 
 <hr>
 
 <h3>🌐 Enterprise Network &amp; Security Lab</h3>
 
-<p>
-<strong>pfSense • VLANs • Suricata • Network Security</strong>
-</p>
+<p><strong>pfSense • VLANs • Suricata • Network Security</strong></p>
 
 <ul>
   <li>Network segmentation</li>
-  <li>Firewall rule enforcement</li>
-  <li>IDS/IPS</li>
-  <li>Traffic analysis</li>
-  <li>Network security validation</li>
+  <li>Firewall configuration</li>
+  <li>Intrusion detection and prevention</li>
+  <li>Network traffic analysis</li>
+  <li>Security control validation</li>
 </ul>
 
 <p>
-<a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
-  <strong>View Project →</strong>
-</a>
+  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
+    <strong>View Project →</strong>
+  </a>
 </p>
 
 <hr>
 
-<h2>💻 Software Engineering</h2>
+<h2>⚙️ My Software Development Approach</h2>
 
 <p>
-Software engineering is the foundation of my application-security approach.
+  I aim to develop software that is maintainable, testable, reliable, and secure.
 </p>
 
-<p>
-I believe application security is strengthened by understanding the underlying
-application rather than treating security as a separate layer.
-</p>
+<ol>
+  <li><strong>Requirements &amp; Design:</strong> Understand the problem and define requirements.</li>
+  <li><strong>Architecture:</strong> Plan application components, APIs, and data models.</li>
+  <li><strong>Implementation:</strong> Develop frontend interfaces, backend services, and integrations.</li>
+  <li><strong>Testing:</strong> Validate expected behavior, edge cases, and error handling.</li>
+  <li><strong>Security:</strong> Consider access control, input validation, and application risks.</li>
+  <li><strong>Maintenance:</strong> Troubleshoot issues, improve reliability, and refine functionality.</li>
+</ol>
 
 <p>
-My development work includes:
+  I also use positive and negative testing to evaluate how applications behave
+  with valid, invalid, unexpected, and potentially malicious input.
 </p>
+
+<hr>
+
+<h2>☁️ Cloud &amp; Development Infrastructure</h2>
 
 <ul>
-  <li>Application architecture</li>
-  <li>REST APIs</li>
-  <li>Frontend development</li>
-  <li>Backend development</li>
-  <li>Database integration</li>
-  <li>Authentication and authorization</li>
-  <li>API design</li>
-  <li>Debugging</li>
-  <li>Automated testing</li>
-  <li>Secure coding</li>
-  <li>Application maintenance</li>
+  <li>AWS and Azure services</li>
+  <li>Database hosting and SQL operations</li>
+  <li>Identity and access management</li>
+  <li>Cloud access control and least privilege</li>
+  <li>Linux and Windows environments</li>
+  <li>CI/CD and development automation</li>
+  <li>Application configuration and deployment</li>
+  <li>Cloud and application security</li>
 </ul>
-
-<p>
-This allows me to approach security from the perspective of someone who understands
-<strong>how applications are actually constructed and maintained</strong>.
-</p>
 
 <hr>
 
-<h2>📱 Silver Dragons Academy Community App</h2>
-
-<p>
-<strong>React Native • Expo • TypeScript</strong>
-</p>
-
-<p>
-A separate mobile application project exploring mobile application architecture
-and security.
-</p>
-
-<h3>Planned Areas</h3>
+<h2>🔭 Areas of Continued Development</h2>
 
 <ul>
-  <li>Authentication</li>
-  <li>Authorization</li>
-  <li>RBAC</li>
-  <li>Profiles</li>
-  <li>Messaging</li>
-  <li>API integration</li>
-  <li>Secure data handling</li>
-  <li>Mobile security testing</li>
-  <li>Application security controls</li>
+  <li>Full-stack web application development</li>
+  <li>Python and Django REST Framework</li>
+  <li>React and TypeScript</li>
+  <li>AI-powered web applications and chatbot integration</li>
+  <li>API design, testing, and reliability</li>
+  <li>Automated software testing</li>
+  <li>Cloud application development</li>
+  <li>Secure software engineering</li>
+  <li>React Native and cross-platform mobile development</li>
 </ul>
 
 <p>
-The project provides an additional environment for exploring security considerations
-specific to mobile applications and their supporting APIs.
+  My longer-term interests include AI security, cloud security, robotics software,
+  and cybersecurity for connected and cyber-physical systems.
 </p>
 
 <hr>
 
-<h2>🔄 Secure Software Development</h2>
-
-<p>
-Security is integrated into my development process rather than treated as an afterthought.
-</p>
-
-<h3>Security Lifecycle</h3>
-
-<p>
-<strong>
-Threat Model → Design → Code → Test → Secure → Build →
-Deploy → Monitor → Remediate → Retest
-</strong>
-</p>
-
-<p>
-Application security considerations can be introduced throughout the software
-development lifecycle, including:
-</p>
-
-<ul>
-  <li>Architecture</li>
-  <li>Code</li>
-  <li>Dependencies</li>
-  <li>APIs</li>
-  <li>Authentication</li>
-  <li>Authorization</li>
-  <li>Infrastructure</li>
-  <li>Deployment</li>
-  <li>Monitoring</li>
-  <li>Maintenance</li>
-</ul>
-
-<p>
-My goal is to continuously improve applications rather than treating security
-as a one-time assessment.
-</p>
-
-<hr>
-
-<h2>🎯 Areas of Continued Development</h2>
-
-<p>
-I'm currently expanding my practical experience in:
-</p>
-
-<ul>
-  <li>Application Security</li>
-  <li>API Security</li>
-  <li>Secure Software Development</li>
-  <li>AI Application Security</li>
-  <li>Cloud Security</li>
-  <li>DevSecOps</li>
-  <li>Security Testing</li>
-  <li>Vulnerability Management</li>
-  <li>Application Threat Modeling</li>
-  <li>Mobile Application Security</li>
-</ul>
-
-<p>
-I'm particularly interested in the intersection of
-<strong>application security, cloud platforms, AI-enabled applications,
-and eventually cyber-physical systems</strong>.
-</p>
-
-<hr>
-
-<h2>🚧 Currently Building</h2>
-
-<ul>
-  <li>💻 <strong>Silver Dragons Academy Web Platform</strong></li>
-  <li>🧠 <strong>Silvia Secure AI Assistant API</strong></li>
-  <li>🔐 <strong>Application &amp; API Security Testing</strong></li>
-  <li>🧪 <strong>Security Regression Testing</strong></li>
-  <li>🔄 <strong>Secure Software &amp; DevSecOps Practices</strong></li>
-  <li>☁️ <strong>Secure Cloud Deployment</strong></li>
-  <li>📱 <strong>Silver Dragons Academy Mobile Application</strong></li>
-  <li>📚 <strong>Hands-on Application Security Portfolio Development</strong></li>
-</ul>
-
-<hr>
-
-<h2>Education</h2>
+<h2>🎓 Education</h2>
 
 <table>
   <thead>
@@ -648,6 +459,6 @@ and eventually cyber-physical systems</strong>.
 
 <div align="center">
 
-<h3>Build it. Test it. Secure it. Understand it. Improve it.</h3>
+  <h3>Build useful software. Engineer reliable systems. Secure by design.</h3>
 
 </div>
