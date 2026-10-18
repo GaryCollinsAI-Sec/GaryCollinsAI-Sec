@@ -229,34 +229,9 @@
 
 <hr>
 
-<h3>📱 Silver Dragons Academy Community App</h3>
 
-<p>
-  <strong>React Native • Expo • TypeScript</strong>
-</p>
 
-<p>
-  A planned mobile application extending the Silver Dragons Academy platform
-  into a cross-platform mobile experience.
-</p>
 
-<h4>Planned Development Areas</h4>
-
-<ul>
-  <li>Mobile application architecture</li>
-  <li>Reusable interface components</li>
-  <li>API integration</li>
-  <li>User profiles and authentication</li>
-  <li>Authorization and role-based access control</li>
-  <li>Secure data handling</li>
-  <li>Mobile application testing</li>
-</ul>
-
-<p>
-  <em>Status: Planned development.</em>
-</p>
-
-<hr>
 
 <h2>🔐 Application Security &amp; Cloud Security Projects</h2>
 
