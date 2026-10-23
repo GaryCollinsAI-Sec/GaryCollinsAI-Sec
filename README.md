@@ -76,11 +76,10 @@ My toolkit continues to evolve as I build projects and expand my practical exper
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
 </p>
@@ -195,23 +194,19 @@ An AI assistant backend developed using Python and Django REST Framework, design
   <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silvia AI Assistant API" />
 </a>
 
-### 3. Identity & Access Security Lab
+### 3. Collins Crumble Website — In Development
 
-A practical lab exploring identity management and access controls in a cloud environment.
-
-**Technologies:** Microsoft Azure, Microsoft Entra ID, Active Directory
+A website project for a bakery business, focused on presenting products,
+communicating the brand, and creating a welcoming customer experience.
 
 **Project focus:**
-- Identity and access management
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication (MFA)
-- Conditional Access
-- Auditing and least privilege
-- Zero Trust security principles
+- Website design and branding
+- Responsive frontend development
+- Product presentation
+- User experience and accessibility
+- Responsive AI capability
+- LLM integration
 
-<a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Identity and Access Security Lab" />
-</a>
 
 ### 4. AI Website Troubleshooting Tool — In Development
 
