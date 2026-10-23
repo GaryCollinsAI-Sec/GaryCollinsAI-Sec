@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Gary Collins 👋</h1>
 
-  <h3>Software Engineering | Web Development | AI Integration</h3>
+  <h3>AI Engineering | Robotics Software Engineering | AI Integration Specialist </h3>
 
   <p>
     <strong>Web Applications • Backend APIs • AI Solutions • Secure Software</strong>
