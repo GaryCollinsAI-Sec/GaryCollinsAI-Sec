@@ -261,85 +261,9 @@
   </a>
 </p>
 
-<hr>
 
-<h3>🛡️ Purple Team Security Lab</h3>
 
-<p><strong>Kali Linux • Metasploitable 2 • pfSense</strong></p>
 
-<ul>
-  <li>Controlled security testing</li>
-  <li>Attack-path analysis</li>
-  <li>Detection and defensive validation</li>
-  <li>Network hardening</li>
-  <li>Security control evaluation</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab">
-    <strong>View Project →</strong>
-  </a>
-</p>
-
-<hr>
-
-<h3>📊 Cross-Platform Security Monitoring Visibility Lab</h3>
-
-<p><strong>Wazuh • Windows • Linux • SIEM/XDR</strong></p>
-
-<ul>
-  <li>Cross-platform security monitoring</li>
-  <li>Log analysis and correlation</li>
-  <li>Alert investigation</li>
-  <li>Attack-chain analysis</li>
-  <li>Incident reconstruction</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Visibility-Lab">
-    <strong>View Project →</strong>
-  </a>
-</p>
-
-<hr>
-
-<h3>🔎 Vulnerability Management Lab</h3>
-
-<p><strong>Nessus • CVSS • Vulnerability Management</strong></p>
-
-<ul>
-  <li>Vulnerability scanning</li>
-  <li>Risk-based prioritization</li>
-  <li>Vulnerability analysis</li>
-  <li>Remediation planning</li>
-  <li>Post-remediation validation</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab">
-    <strong>View Project →</strong>
-  </a>
-</p>
-
-<hr>
-
-<h3>🌐 Enterprise Network &amp; Security Lab</h3>
-
-<p><strong>pfSense • VLANs • Suricata • Network Security</strong></p>
-
-<ul>
-  <li>Network segmentation</li>
-  <li>Firewall configuration</li>
-  <li>Intrusion detection and prevention</li>
-  <li>Network traffic analysis</li>
-  <li>Security control validation</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Enterprise-Network-and-Security-Lab">
-    <strong>View Project →</strong>
-  </a>
-</p>
 
 <hr>
 
