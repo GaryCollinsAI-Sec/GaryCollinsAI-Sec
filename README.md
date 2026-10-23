@@ -205,7 +205,7 @@ communicating the brand, and creating a welcoming customer experience.
 - Product presentation
 - User experience and accessibility
 - Responsive AI capability
-- LLM integration
+- Large Language Model (LLM) integration
 
 
 ### 4. AI Website Troubleshooting Tool — In Development
