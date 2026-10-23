@@ -3,361 +3,295 @@
 
   <h1>Hi, I'm Gary Collins 👋</h1>
 
-  <h3>AI Engineering | Robotics Software Engineering | AI Integration Specialist </h3>
+  <h3>AI Engineer | AI Systems & Integrations | Software Developer</h3>
 
   <p>
-    <strong>Web Applications • Backend APIs • AI Solutions • Secure Software</strong>
+    AI-Powered Applications • Intelligent Automation • API Integrations • Web Development
   </p>
 
   <p>
-    <a href="mailto:garycollins0449@email.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:garycollins0449@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/garyjosephcollins">
-      <img src="https://img.shields.io/badge/LinkedIn-Gary%20Collins-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/GaryCollinsAI-Sec">
+      <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
 </div>
 
-<hr>
+---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-  I'm a software engineer with a background in computer science and cyber engineering,
-  focused on building web applications, backend services, REST APIs, and AI-enabled software.
-</p>
+I'm a software engineer with a background in computer science and cyber engineering, focused on building practical AI-powered applications, intelligent systems, and software integrations.
 
-<p>
-  My interests include full-stack web development, backend engineering, API development,
-  database integration, AI application development, and software quality.
-</p>
+My goal is to help individuals and businesses solve real problems through thoughtful engineering, whether that means integrating AI into an existing application, automating a workflow, developing an API, or building a modern web experience.
 
-<p>
-  I combine software engineering principles with a security-conscious mindset,
-  considering maintainability, reliability, input validation, access control, and
-  secure application architecture throughout development.
-</p>
+I combine software development fundamentals with AI integration, system design, testing, and a security-conscious approach to engineering.
 
-<p>
-  I'm particularly interested in developing practical software solutions for businesses,
-  integrating AI into existing applications, and building systems that are useful,
-  maintainable, and secure.
-</p>
+- 🤖 **Primary focus:** AI engineering, AI systems, and integrations.
+- 🔗 **Application development:** Connecting AI models, APIs, databases, and user interfaces.
+- ⚙️ **Automation:** Exploring practical ways to streamline repetitive tasks and workflows.
+- 🌐 **Web development:** Building responsive interfaces and backend services.
+- 🛡️ **Security mindset:** Considering validation, access controls, reliability, and responsible AI behavior.
+- 🧠 **Engineering philosophy:** Choose the right solution for the problem rather than adding complexity unnecessarily.
 
-<blockquote>
-  <strong>Design thoughtfully. Build practically. Test thoroughly. Secure by design.</strong>
-</blockquote>
+## 🤖 AI Engineering & Systems Integration
 
-<hr>
+I'm developing my expertise in designing, building, and integrating AI-powered software systems.
 
-<h2>🛠️ Technical Skills</h2>
+### Areas of Focus
 
-<h3>Software &amp; Web Development</h3>
+- AI Application Development
+- AI Model and API Integration
+- AI Chatbots and Knowledge Assistants
+- AI-Enabled Web Applications
+- Workflow Automation
+- Retrieval-Augmented Generation (RAG)
+- Model Evaluation and Testing
+- AI-Assisted Software Development
+- Human-in-the-Loop AI Workflows
 
-<p>
-  <code>Python</code>
-  <code>Django</code>
-  <code>Django REST Framework</code>
-  <code>Go</code>
-  <code>JavaScript</code>
-  <code>TypeScript</code>
-  <code>React</code>
-  <code>HTML5</code>
-  <code>CSS3</code>
-  <code>Tailwind CSS</code>
-  <code>SQL</code>
-  <code>REST APIs</code>
-  <code>C#</code>
-  <code>C++</code>
-</p>
-
-<h3>AI Application Development</h3>
+### AI Engineering Toolkit
 
 <p>
-  <code>AI Integration</code>
-  <code>Chatbot Development</code>
-  <code>API Integration</code>
-  <code>Prompt Engineering</code>
-  <code>AI Application Testing</code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Langflow-111827?style=flat" alt="Langflow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<h3>Software Engineering</h3>
+My toolkit continues to evolve as I build projects and expand my practical experience. I select tools based on the requirements of each system rather than forcing every project to use the same stack.
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 
 <p>
-  <code>Object-Oriented Programming</code>
-  <code>API Design</code>
-  <code>Database Integration</code>
-  <code>Debugging</code>
-  <code>Automated Testing</code>
-  <code>Input Validation</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>Application Maintenance</code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-<h3>Mobile Development</h3>
+### Backend Development & APIs
+
+- Python and Django
+- Django REST Framework
+- REST API Design and Integration
+- Request Validation and Error Handling
+- Authentication and Authorization Fundamentals
+- Database Integration
+- API Testing and Debugging
+
+### Frontend & Web Development
 
 <p>
-  <code>React Native</code>
-  <code>Expo</code>
-  <code>TypeScript</code>
-  <code>Mobile API Integration</code>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<h3>Cloud &amp; Infrastructure</h3>
+- Responsive User Interface Development
+- Component-Based Architecture
+- Frontend and Backend Integration
+- Website Updates and Maintenance
+- UI/UX Design and Prototyping
+
+### Software Engineering & Quality
+
+- Object-Oriented Programming
+- API and Application Design
+- Debugging and Troubleshooting
+- Unit and Integration Testing Fundamentals
+- Input Validation
+- Git and GitHub
+- Maintainable and Reusable Code
+- Software Documentation
+
+### Databases & Infrastructure
+
+- SQL and Relational Database Fundamentals
+- PostgreSQL
+- Linux and Windows Environments
+- Docker and Containerization
+- Cloud Computing Fundamentals
+- CI/CD Concepts
+- AWS and Microsoft Azure Fundamentals
+
+### Application & Cloud Security
+
+My cyber engineering background helps me consider security throughout the software development process.
+
+- Application and API Security Fundamentals
+- Secure Coding Practices
+- Identity and Access Management
+- Role-Based Access Control (RBAC)
+- Authentication and Authorization
+- Threat Modeling Fundamentals
+- Vulnerability Assessment
+- AI Application Security Testing
+
+**Security tools and lab technologies:** Wazuh, Splunk, Nessus, Suricata, Nmap, Wireshark, pfSense, Kali Linux, and Metasploitable 2.
+
+### Additional Areas of Interest
+
+- Robotics Software Engineering
+- ROS 2 and Simulation
+- AI Security
+- Cloud Security
+- Mobile Application Development
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Silver Dragons Academy Web Platform
+
+A web platform for a martial arts academy, built with a modern frontend and a Python-based backend.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Python, Django REST Framework
+
+**Project focus:**
+- Frontend application development
+- Reusable UI components
+- REST API integration
+- AI assistant integration
+- Separation of frontend and backend responsibilities
+
+<a href="https://github.com/GaryCollinsAI-Sec/Silver-web-app">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silver Dragons Academy Project" />
+</a>
+
+### 2. Silvia — AI Assistant API
+
+An AI assistant backend developed using Python and Django REST Framework, designed to support a conversational interface through a REST API.
+
+**Technologies:** Python, Django, Django REST Framework, REST APIs
+
+**Project focus:**
+- Backend API development
+- Request validation and error handling
+- AI integration
+- Controlled knowledge boundaries
+- Testing AI responses and instruction-handling behavior
+- Security-conscious API design
+
+<a href="https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silvia AI Assistant API" />
+</a>
+
+### 3. Identity & Access Security Lab
+
+A practical lab exploring identity management and access controls in a cloud environment.
+
+**Technologies:** Microsoft Azure, Microsoft Entra ID, Active Directory
+
+**Project focus:**
+- Identity and access management
+- Role-Based Access Control (RBAC)
+- Multi-Factor Authentication (MFA)
+- Conditional Access
+- Auditing and least privilege
+- Zero Trust security principles
+
+<a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Identity and Access Security Lab" />
+</a>
+
+### 4. AI Website Troubleshooting Tool — In Development
+
+I'm exploring an AI-powered tool designed to help users identify website issues, understand potential causes, and work through possible fixes.
+
+**Planned capabilities:**
+- Website issue detection and diagnostics
+- AI-assisted explanations and troubleshooting
+- Suggested fixes with human approval
+- Verification after fixes
+- Potential history and recurring monitoring features
+
+The goal is to make website troubleshooting more accessible while keeping users in control of changes.
+
+*This project is in development. Planned features and monetization options remain subject to implementation and testing.*
+
+---
+
+## 🧭 My Engineering Approach
+
+I believe good engineering starts with understanding the problem.
+
+1. **Understand** — Identify the user's needs and the underlying problem.
+2. **Design** — Select an appropriate architecture, tools, and workflow.
+3. **Build** — Develop the application, integration, or automation.
+4. **Integrate** — Connect APIs, models, databases, and interfaces where needed.
+5. **Test** — Verify functionality, reliability, and expected behavior.
+6. **Improve** — Refine the solution based on testing and feedback.
+
+AI is a powerful tool, but it isn't the answer to every problem. My objective is to apply AI where it provides practical value and use simpler, more reliable approaches when they are a better fit.
+
+## ⚙️ Development Infrastructure
 
 <p>
-  <code>AWS</code>
-  <code>Microsoft Azure</code>
-  <code>Google Cloud</code>
-  <code>Microsoft Entra ID</code>
-  <code>IAM</code>
-  <code>RBAC</code>
-  <code>Linux</code>
-  <code>Windows</code>
-  <code>CI/CD</code>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-<h3>Application &amp; Cloud Security</h3>
+## 📚 Areas of Continued Development
 
-<p>
-  <code>OWASP</code>
-  <code>Application Security</code>
-  <code>API Security</code>
-  <code>Threat Modeling</code>
-  <code>Secure Coding</code>
-  <code>Authentication</code>
-  <code>Authorization</code>
-  <code>Vulnerability Analysis</code>
-  <code>Security Testing</code>
-</p>
+I'm continually building my knowledge and practical experience in:
 
-<h3>Security Tools &amp; Monitoring</h3>
+- AI application architecture and integrations
+- Retrieval-Augmented Generation (RAG)
+- AI workflow orchestration with Langflow
+- Open-source models and Hugging Face
+- Local AI development with Ollama
+- AI experiment tracking and evaluation with MLflow
+- Containerized application development with Docker
+- Automated testing and application reliability
+- Robotics software and simulation
+- AI and application security
 
-<p>
-  <code>Wazuh</code>
-  <code>Splunk</code>
-  <code>Nessus</code>
-  <code>Suricata</code>
-  <code>Nmap</code>
-  <code>Wireshark</code>
-  <code>pfSense</code>
-  <code>Kali Linux</code>
-  <code>Metasploitable 2</code>
-</p>
+My goal is to turn these skills into practical, well-engineered solutions that address real-world needs.
 
-<hr>
+## 🎓 Education
 
-<h2>🚀 Featured Software Engineering Projects</h2>
+- **Master of Science in Cyber Engineering** — University of the Cumberlands, 2026
+- **Bachelor of Science in Computer Science** — CSU Global, 2024
+- **Associate of Science in Computer Science** — Yuba College, 2021
 
-<h3>🥋 Silver Dragons Academy Web Platform</h3>
-
-<p>
-  <strong>React • TypeScript • Vite • Tailwind CSS • Python • Django REST Framework</strong>
-</p>
-
-<p>
-  A web application project for Silver Dragons Academy, combining a modern frontend
-  with a Python backend and API-driven functionality.
-</p>
-
-<h4>Engineering Focus</h4>
-
-<ul>
-  <li>Component-based frontend development with React and TypeScript</li>
-  <li>Responsive user interface development</li>
-  <li>Backend API development and integration</li>
-  <li>Frontend-to-backend communication</li>
-  <li>Application structure and maintainability</li>
-  <li>AI assistant integration</li>
-  <li>Input validation and error handling</li>
-  <li>Security-conscious software development</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Silver-web-app">
-    <strong>View Project →</strong>
-  </a>
-</p>
-
-<hr>
-
-<h3>🧠 Silvia — AI Assistant API</h3>
-
-<p>
-  <strong>Python • Django • Django REST Framework • REST APIs • AI Integration</strong>
-</p>
-
-<p>
-  An AI assistant API developed for the Silver Dragons Academy platform.
-  The project explores integrating conversational AI into a web application
-  through a dedicated backend service.
-</p>
-
-<h4>Engineering Focus</h4>
-
-<ul>
-  <li>REST API design and implementation</li>
-  <li>Request and response handling</li>
-  <li>Request-structure and input validation</li>
-  <li>Backend integration with a web application</li>
-  <li>Error handling and API reliability</li>
-  <li>Request-size and message-length limits</li>
-  <li>API testing and validation</li>
-  <li>AI behavior testing</li>
-</ul>
-
-<h4>Application Security</h4>
-
-<ul>
-  <li>Prompt-injection testing</li>
-  <li>Instruction-disclosure testing</li>
-  <li>Controlled knowledge boundaries</li>
-  <li>Rate limiting and CORS configuration</li>
-  <li>HTTP security headers</li>
-  <li>Secure error handling</li>
-  <li>Automated security testing</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development">
-    <strong>View Project →</strong>
-  </a>
-</p>
-
-<hr>
-
-
-
-
-
-<h2>🔐 Application Security &amp; Cloud Security Projects</h2>
-
-<p>
-  My security projects complement my software engineering work through practical
-  exploration of identity management, network defense, vulnerability management,
-  and security monitoring.
-</p>
-
-<h3>🔑 Identity &amp; Access Security Lab</h3>
-
-<p><strong>Azure • Microsoft Entra ID • Active Directory • IAM • RBAC</strong></p>
-
-<ul>
-  <li>Multi-factor authentication (MFA)</li>
-  <li>Conditional Access</li>
-  <li>Role-based access control</li>
-  <li>Identity auditing and access validation</li>
-  <li>Least-privilege principles</li>
-  <li>Zero Trust concepts</li>
-  <li>Security monitoring</li>
-</ul>
-
-<p>
-  <a href="https://github.com/GaryCollinsAI-Sec/Identity-Access-Security-Lab">
-    <strong>View Project →</strong>
-  </a>
-</p>
-
-
-
-
-
-<hr>
-
-<h2>⚙️ My Software Development Approach</h2>
-
-<p>
-  I aim to develop software that is maintainable, testable, reliable, and secure.
-</p>
-
-<ol>
-  <li><strong>Requirements &amp; Design:</strong> Understand the problem and define requirements.</li>
-  <li><strong>Architecture:</strong> Plan application components, APIs, and data models.</li>
-  <li><strong>Implementation:</strong> Develop frontend interfaces, backend services, and integrations.</li>
-  <li><strong>Testing:</strong> Validate expected behavior, edge cases, and error handling.</li>
-  <li><strong>Security:</strong> Consider access control, input validation, and application risks.</li>
-  <li><strong>Maintenance:</strong> Troubleshoot issues, improve reliability, and refine functionality.</li>
-</ol>
-
-<p>
-  I also use positive and negative testing to evaluate how applications behave
-  with valid, invalid, unexpected, and potentially malicious input.
-</p>
-
-<hr>
-
-<h2>☁️ Cloud &amp; Development Infrastructure</h2>
-
-<ul>
-  <li>AWS and Azure services</li>
-  <li>Database hosting and SQL operations</li>
-  <li>Identity and access management</li>
-  <li>Cloud access control and least privilege</li>
-  <li>Linux and Windows environments</li>
-  <li>CI/CD and development automation</li>
-  <li>Application configuration and deployment</li>
-  <li>Cloud and application security</li>
-</ul>
-
-<hr>
-
-<h2>🔭 Areas of Continued Development</h2>
-
-<ul>
-  <li>Full-stack web application development</li>
-  <li>Python and Django REST Framework</li>
-  <li>React and TypeScript</li>
-  <li>AI-powered web applications and chatbot integration</li>
-  <li>API design, testing, and reliability</li>
-  <li>Automated software testing</li>
-  <li>Cloud application development</li>
-  <li>Secure software engineering</li>
-  <li>React Native and cross-platform mobile development</li>
-</ul>
-
-<p>
-  My longer-term interests include AI security, cloud security, robotics software,
-  and cybersecurity for connected and cyber-physical systems.
-</p>
-
-<hr>
-
-<h2>🎓 Education</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Degree</th>
-      <th>Institution</th>
-      <th>Year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>M.S. Cyber Engineering</strong></td>
-      <td>University of the Cumberlands</td>
-      <td>2026</td>
-    </tr>
-    <tr>
-      <td><strong>B.S. Computer Science</strong></td>
-      <td>Colorado State University Global</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td><strong>A.S. Computer Science</strong></td>
-      <td>Yuba College</td>
-      <td>2021</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
+---
 
 <div align="center">
 
-  <h3>Build useful software. Engineer reliable systems. Secure by design.</h3>
+  <h3>Build intelligently. Integrate thoughtfully. Solve real problems.</h3>
+
+  <p>
+    Interested in AI systems, application development, or software integrations?
+  </p>
+
+  <p>
+    <a href="mailto:garycollins0449@gmail.com">Let's Connect</a>
+    •
+    <a href="https://www.linkedin.com/in/garyjosephcollins">LinkedIn</a>
+    •
+    <a href="https://github.com/GaryCollinsAI-Sec">GitHub</a>
+  </p>
 
 </div>
