@@ -208,7 +208,7 @@ communicating the brand, and creating a welcoming customer experience.
 - Large Language Model (LLM) integration
 
 
-### 4. AI Website Troubleshooting Tool — In Development
+### 4. Abel AI Website Troubleshooting Tool — In Development
 
 I'm exploring an AI-powered tool designed to help users identify website issues, understand potential causes, and work through possible fixes.
 
@@ -218,6 +218,10 @@ I'm exploring an AI-powered tool designed to help users identify website issues,
 - Suggested fixes with human approval
 - Verification after fixes
 - Potential history and recurring monitoring features
+
+<a href="https://github.com/GaryCollinsAI-Sec/AI-website-maintenance-tool">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silvia AI Assistant API" />
+</a>
 
 The goal is to make website troubleshooting more accessible while keeping users in control of changes.
 
