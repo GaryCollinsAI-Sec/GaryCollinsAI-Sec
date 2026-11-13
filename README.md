@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Gary Collins 👋</h1>
 
-  <h3>AI Engineer | AI Systems & Integrations | Software Developer</h3>
+  <h3>AI Engineer | AI Systems & Integrations | Cybersecurity Specialist </h3>
 
   <p>
     AI-Powered Applications • Intelligent Automation • API Integrations • Web Development
