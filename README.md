@@ -206,7 +206,12 @@ Configured a simulated Microsoft Entra ID environment to demonstrate enterprise 
 [Identity & Access Security Lab](https://github.com/GaryCollinsAI-Sec/Identity-and-Access-Security-Lab)
 
 
+### Cross-Platform Security Monitoring Lab
+**Wazuh SIEM/XDR | Windows | Ubuntu Linux | PowerShell | Bash**
 
+Deployed a centralized Wazuh SIEM/XDR environment using VirtualBox to monitor Windows 10 and Ubuntu Linux endpoints. Configured and enrolled agents, established Manager-Agent communication, and validated centralized telemetry collection, endpoint status, and security event ingestion.
+
+[Cross-Platform Security Monitoring Lab](https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Lab)
 
 
 ### SOC Operations & Blue Team
