@@ -187,6 +187,16 @@ Built a segmented virtual enterprise network using pfSense and VirtualBox, imple
 [Enterprise Network & Security Lab](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-Security-Lab)
 
 
+
+
+### Vulnerability Management Lab
+**Nessus Essentials | CVSS | Vulnerability Assessment | Remediation**
+
+Conducted a vulnerability management assessment in a simulated enterprise environment using Nessus Essentials, Ubuntu, and Metasploitable 2. Identified and prioritized vulnerabilities using severity and exploitability, implemented remediation strategies, and performed post-remediation scans to validate security improvements.
+
+[ Vulnerability Management Lab](https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab)
+
+
 ### SOC Operations & Blue Team
 
 Exploring security monitoring and defensive security through hands-on laboratory development.
