@@ -1,296 +1,364 @@
 
 <div align="center">
 
-  <h1>Hi, I'm Gary Collins 👋</h1>
+# Gary Collins
 
-  <h3>AI Engineer | AI Systems & Integrations | Cybersecurity Specialist </h3>
+### Cybersecurity Analyst | SOC Operations | Security Engineering
 
-  <p>
-    AI-Powered Applications • Intelligent Automation • API Integrations • Web Development
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-Security%20Analysis-8B2942?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20Operations-303846?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-444444?style=for-the-badge" />
+</p>
 
-  <p>
-    <a href="mailto:garycollins0449@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/garyjosephcollins">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/GaryCollinsAI-Sec">
-      <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+<p>
+  Security Monitoring • Incident Investigation • Vulnerability Assessment • Network Security
+</p>
+
+<p>
+  <a href="mailto:garycollins0449@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/garyjosephcollins">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/GaryCollinsAI-Sec">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a software engineer with a background in computer science and cyber engineering, focused on building practical AI-powered applications, intelligent systems, and software integrations.
+I am a cybersecurity-focused technology professional with a background in computer science and cyber engineering.
 
-My goal is to help individuals and businesses solve real problems through thoughtful engineering, whether that means integrating AI into an existing application, automating a workflow, developing an API, or building a modern web experience.
+My interests center on security operations, defensive security, penetration testing, vulnerability assessment, and infrastructure security.
 
-I combine software development fundamentals with AI integration, system design, testing, and a security-conscious approach to engineering.
+I enjoy building practical laboratory environments, investigating security events, evaluating system vulnerabilities, and developing technical solutions to improve security visibility and resilience.
 
-- 🤖 **Primary focus:** AI engineering, AI systems, and integrations.
-- 🔗 **Application development:** Connecting AI models, APIs, databases, and user interfaces.
-- ⚙️ **Automation:** Exploring practical ways to streamline repetitive tasks and workflows.
-- 🌐 **Web development:** Building responsive interfaces and backend services.
-- 🛡️ **Security mindset:** Considering validation, access controls, reliability, and responsible AI behavior.
-- 🧠 **Engineering philosophy:** Choose the right solution for the problem rather than adding complexity unnecessarily.
+My software engineering background also provides experience with programming, APIs, application architecture, and automation.
 
-## 🤖 AI Engineering & Systems Integration
+### Professional Focus
 
-I'm developing my expertise in designing, building, and integrating AI-powered software systems.
+- **Security Operations:** Security monitoring, log analysis, alert investigation, and incident response.
+- **Defensive Security:** Endpoint monitoring, threat detection, and system hardening.
+- **Penetration Testing:** Network reconnaissance, vulnerability identification, and controlled security testing.
+- **Network Security:** Network traffic analysis, infrastructure protection, and firewall technologies.
+- **Security Engineering:** Linux administration, scripting, and security automation.
+- **Cloud Security:** AWS and Azure security fundamentals.
+- **Emerging Technologies:** IoT security, embedded systems, and robotics security.
 
-### Areas of Focus
+---
 
-- AI Application Development
-- AI Model and API Integration
-- AI Chatbots and Knowledge Assistants
-- AI-Enabled Web Applications
-- Workflow Automation
-- Retrieval-Augmented Generation (RAG)
-- Model Evaluation and Testing
-- AI-Assisted Software Development
-- Human-in-the-Loop AI Workflows
+## Cybersecurity Technical Skills
 
-### AI Engineering Toolkit
+### Security Operations & Defensive Security
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Langflow-111827?style=flat" alt="Langflow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat" alt="Ollama" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+- Security monitoring concepts
+- Log analysis and investigation
+- Security event identification
+- Incident response fundamentals
+- Endpoint monitoring
+- Threat detection concepts
+- Security documentation
+- Vulnerability assessment
 
-My toolkit continues to evolve as I build projects and expand my practical experience. I select tools based on the requirements of each system rather than forcing every project to use the same stack.
+### Penetration Testing & Vulnerability Assessment
 
-## 🛠️ Technical Skills
+- Network reconnaissance
+- Port and service enumeration
+- Vulnerability identification
+- Controlled security testing
+- Security assessment documentation
+- Remediation recommendations
 
-### Programming Languages
+### Security Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-1679A7?style=flat" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-### Backend Development & APIs
-
-- Python and Django
-- Django REST Framework
-- REST API Design and Integration
-- Request Validation and Error Handling
-- Authentication and Authorization Fundamentals
-- Database Integration
-- API Testing and Debugging
-
-### Frontend & Web Development
+### Operating Systems & Scripting
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
-- Responsive User Interface Development
-- Component-Based Architecture
-- Frontend and Backend Integration
-- Website Updates and Maintenance
-- UI/UX Design and Prototyping
+### Cloud Platforms
 
-### Software Engineering & Quality
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+</p>
 
-- Object-Oriented Programming
-- API and Application Design
-- Debugging and Troubleshooting
-- Unit and Integration Testing Fundamentals
-- Input Validation
+- Cloud infrastructure fundamentals
+- Cloud identity and access management concepts
+- Cloud security fundamentals
+- Infrastructure security
+- Cloud monitoring concepts
+
+### Security Frameworks & Standards
+
+<p>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-ED1C24?style=flat" />
+  <img src="https://img.shields.io/badge/NIST%20CSF-003366?style=flat" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat&logo=owasp&logoColor=white" />
+</p>
+
+- **MITRE ATT&CK:** Adversary tactics, techniques, procedures (TTPs), threat analysis, and detection mapping.
+- **NIST Cybersecurity Framework (CSF):** Cybersecurity risk management, governance, protection, detection, response, and recovery.
+- **OWASP Top 10:** Common web application security risks, vulnerability awareness, and secure development practices.
+
+
+### Programming, Automation & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+- Python scripting and automation
+- Bash and PowerShell scripting
+- JavaScript and TypeScript
+- React application development
+- Tailwind CSS
+- FastAPI and Django development
+- REST API development and integration
+- SQL and relational databases
+- Security workflow automation
+- API testing
+
+### Systems & Infrastructure
+
+- Linux and Windows administration fundamentals
+- Network infrastructure and security
+- Docker and containerization
+- Virtualization and laboratory environments
+- AWS and Azure cloud fundamentals
+- PowerShell and Bash scripting
+- Python security automation
+- REST APIs and database technologies
 - Git and GitHub
-- Maintainable and Reusable Code
-- Software Documentation
 
-### Databases & Infrastructure
+---
 
-- SQL and Relational Database Fundamentals
-- PostgreSQL
-- Linux and Windows Environments
-- Docker and Containerization
-- Cloud Computing Fundamentals
-- CI/CD Concepts
-- AWS and Microsoft Azure Fundamentals
+## Security Frameworks & Methodologies
 
-### Application & Cloud Security
+My cybersecurity studies and practical development include exploring established security frameworks and methodologies.
 
-My cyber engineering background helps me consider security throughout the software development process.
+| Framework | Application |
+|---|---|
+| MITRE ATT&CK | Threat behavior analysis and detection mapping |
+| NIST CSF | Cybersecurity risk management |
+| OWASP Top 10 | Web application security assessment |
 
-- Application and API Security Fundamentals
-- Secure Coding Practices
-- Identity and Access Management
+---
+
+## Featured Cybersecurity Projects
+
+My portfolio emphasizes practical security exercises, laboratory environments, technical documentation, and security research.
+
+### SOC Operations & Blue Team
+
+Exploring security monitoring and defensive security through hands-on laboratory development.
+
+Areas of development:
+
+- Security information and event monitoring
+- Log collection and analysis
+- Endpoint monitoring with Wazuh
+- Security alert investigation
+- Incident investigation workflows
+- Security event documentation
+- MITRE ATT&CK detection mapping
+
+### Penetration Testing & Vulnerability Assessment
+
+Developing practical skills in controlled security testing environments.
+
+Areas of development:
+
+- Network reconnaissance using Nmap
+- Service enumeration
+- Vulnerability identification
+- Linux security testing
+- Security assessment documentation
+- OWASP Top 10 security testing
+- Remediation strategies
+
+### Network Security & Infrastructure
+
+Building and evaluating network security environments.
+
+Areas of development:
+
+- Network traffic analysis
+- Linux server security
+- Network monitoring
+- Firewall technologies
+- Virtualized security laboratories
+- Infrastructure hardening
+- Docker security fundamentals
+
+### Cloud Security
+
+Exploring security concepts across cloud infrastructure platforms.
+
+Areas of development:
+
+- AWS security fundamentals
+- Microsoft Azure security fundamentals
+- Identity and access management
+- Cloud infrastructure protection
+- Security monitoring concepts
+- Cloud configuration security
+
+### IoT & Robotics Security Research
+
+Exploring security challenges associated with embedded devices and robotic systems.
+
+Areas of development:
+
+- ESP32 embedded device security
+- Device communication security
+- ROS 2 security exploration
+- Embedded system testing
+- Robotics infrastructure security
+
+---
+
+## Software Engineering Background
+
+My software engineering experience complements my cybersecurity interests.
+
+### Programming & Backend Development
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- REST API development
+- Database integration
+- Application testing
+
+### Frontend Development
+
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- HTML5 and CSS3
+
+### Security-Conscious Development
+
+- Authentication and authorization fundamentals
 - Role-Based Access Control (RBAC)
-- Authentication and Authorization
-- Threat Modeling Fundamentals
+- Input validation
+- API security fundamentals
+- Secure coding practices
+- Application security testing
+
+---
+
+## Selected Software Projects
+
+### Silver Dragons Academy Web Platform
+
+A web platform developed using a modern frontend and Python-based backend.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Python, Django REST Framework.
+
+[View Project](https://github.com/GaryCollinsAI-Sec/Silver-web-app)
+
+### Silvia — AI Assistant API
+
+An AI assistant backend developed using Python and Django REST Framework.
+
+**Technologies:** Python, Django, Django REST Framework, REST APIs.
+
+[View Project](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
+
+---
+
+## Education
+
+**Master of Science in Cyber Engineering**
+
+University of the Cumberlands — 2026
+
+**Bachelor of Science in Computer Science**
+
+Colorado State University Global — 2024
+
+**Associate of Science in Computer Science**
+
+Yuba College — 2021
+
+---
+
+## Professional Development
+
+I am continuously developing my cybersecurity knowledge through:
+
+- Building dedicated cybersecurity laboratory environments.
+- Practicing security monitoring and investigation workflows.
+- Developing penetration testing capabilities.
+- Improving Linux and network administration skills.
+- Exploring vulnerability assessment methodologies.
+- Developing Python, Bash, and PowerShell automation.
+- Exploring cloud security with AWS and Azure.
+- Studying MITRE ATT&CK, NIST CSF, and OWASP Top 10.
+- Exploring IoT and robotics security.
+- Documenting technical findings and security methodologies.
+
+---
+
+## Career Interests
+
+I am interested in entry-level opportunities involving:
+
+- SOC Analyst
+- Junior Security Analyst
+- Information Security Analyst
+- Security Operations
 - Vulnerability Assessment
-- AI Application Security Testing
+- Cybersecurity Internship
 
-**Security tools and lab technologies:** Wazuh, Splunk, Nessus, Suricata, Nmap, Wireshark, pfSense, Kali Linux, and Metasploitable 2.
-
-### Additional Areas of Interest
-
-- Robotics Software Engineering
-- ROS 2 and Simulation
-- AI Security
-- Cloud Security
-- Mobile Application Development
-
----
-
-## 🚀 Featured Projects
-
-### 1. Silver Dragons Academy Web Platform
-
-A web platform for a martial arts academy, built with a modern frontend and a Python-based backend.
-
-**Technologies:** React, TypeScript, Vite, Tailwind CSS, Python, Django REST Framework
-
-**Project focus:**
-- Frontend application development
-- Reusable UI components
-- REST API integration
-- AI assistant integration
-- Separation of frontend and backend responsibilities
-
-<a href="https://github.com/GaryCollinsAI-Sec/Silver-web-app">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silver Dragons Academy Project" />
-</a>
-
-### 2. Silvia — AI Assistant API
-
-An AI assistant backend developed using Python and Django REST Framework, designed to support a conversational interface through a REST API.
-
-**Technologies:** Python, Django, Django REST Framework, REST APIs
-
-**Project focus:**
-- Backend API development
-- Request validation and error handling
-- AI integration
-- Controlled knowledge boundaries
-- Testing AI responses and instruction-handling behavior
-- Security-conscious API design
-
-<a href="https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silvia AI Assistant API" />
-</a>
-
-### 3. Collins Crumble Website — In Development
-
-A website project for a bakery business, focused on presenting products,
-communicating the brand, and creating a welcoming customer experience.
-
-**Project focus:**
-- Website design and branding
-- Responsive frontend development
-- Product presentation
-- User experience and accessibility
-- Responsive AI capability
-- Large Language Model (LLM) integration
-
-
-### 4. Abel AI Website Troubleshooting Tool — In Development
-
-I'm exploring an AI-powered tool designed to help users identify website issues, understand potential causes, and work through possible fixes.
-
-**Planned capabilities:**
-- Website issue detection and diagnostics
-- AI-assisted explanations and troubleshooting
-- Suggested fixes with human approval
-- Verification after fixes
-- Potential history and recurring monitoring features
-
-<a href="https://github.com/GaryCollinsAI-Sec/AI-website-maintenance-tool">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" alt="View Silvia AI Assistant API" />
-</a>
-
-The goal is to make website troubleshooting more accessible while keeping users in control of changes.
-
-*This project is in development. Planned features and monetization options remain subject to implementation and testing.*
-
----
-
-## 🧭 My Engineering Approach
-
-I believe good engineering starts with understanding the problem.
-
-1. **Understand** — Identify the user's needs and the underlying problem.
-2. **Design** — Select an appropriate architecture, tools, and workflow.
-3. **Build** — Develop the application, integration, or automation.
-4. **Integrate** — Connect APIs, models, databases, and interfaces where needed.
-5. **Test** — Verify functionality, reliability, and expected behavior.
-6. **Improve** — Refine the solution based on testing and feedback.
-
-AI is a powerful tool, but it isn't the answer to every problem. My objective is to apply AI where it provides practical value and use simpler, more reliable approaches when they are a better fit.
-
-## ⚙️ Development Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
-
-## 📚 Areas of Continued Development
-
-I'm continually building my knowledge and practical experience in:
-
-- AI application architecture and integrations
-- Retrieval-Augmented Generation (RAG)
-- AI workflow orchestration with Langflow
-- Open-source models and Hugging Face
-- Local AI development with Ollama
-- AI experiment tracking and evaluation with MLflow
-- Containerized application development with Docker
-- Automated testing and application reliability
-- Robotics software and simulation
-- AI and application security
-
-My goal is to turn these skills into practical, well-engineered solutions that address real-world needs.
-
-## 🎓 Education
-
-- **Master of Science in Cyber Engineering** — University of the Cumberlands, 2026
-- **Bachelor of Science in Computer Science** — CSU Global, 2024
-- **Associate of Science in Computer Science** — Yuba College, 2021
+I value opportunities that encourage hands-on learning, technical collaboration, structured development, and continuous improvement.
 
 ---
 
 <div align="center">
 
-  <h3>Build intelligently. Integrate thoughtfully. Solve real problems.</h3>
+### Building. Testing. Investigating. Securing.
 
-  <p>
-    Interested in AI systems, application development, or software integrations?
-  </p>
-
-  <p>
-    <a href="mailto:garycollins0449@gmail.com">Let's Connect</a>
-    •
-    <a href="https://www.linkedin.com/in/garyjosephcollins">LinkedIn</a>
-    •
-    <a href="https://github.com/GaryCollinsAI-Sec">GitHub</a>
-  </p>
+<p>
+  <a href="mailto:garycollins0449@gmail.com">Email</a>
+  •
+  <a href="https://www.linkedin.com/in/garyjosephcollins">LinkedIn</a>
+  •
+  <a href="https://github.com/GaryCollinsAI-Sec">GitHub</a>
+</p>
 
 </div>
