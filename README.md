@@ -197,6 +197,13 @@ Conducted a vulnerability management assessment in a simulated enterprise enviro
 [ Vulnerability Management Lab](https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab)
 
 
+
+
+
+
+
+
+
 ### SOC Operations & Blue Team
 
 Exploring security monitoring and defensive security through hands-on laboratory development.
