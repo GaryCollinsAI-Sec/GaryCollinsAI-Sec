@@ -198,7 +198,12 @@ Conducted a vulnerability management assessment in a simulated enterprise enviro
 
 
 
+### Identity & Access Security Lab
+**Microsoft Entra ID | Azure | RBAC | MFA | Least Privilege**
 
+Configured a simulated Microsoft Entra ID environment to demonstrate enterprise identity and access management. Created role-based user accounts and security groups, enforced MFA through Security Defaults, and validated least-privilege access controls through permission testing.
+
+[Identity & Access Security Lab](https://github.com/GaryCollinsAI-Sec/Identity-and-Access-Security-Lab)
 
 
 
