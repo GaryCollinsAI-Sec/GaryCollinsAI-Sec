@@ -184,7 +184,7 @@ My portfolio emphasizes practical security exercises, laboratory environments, t
 
 Built a segmented virtual enterprise network using pfSense and VirtualBox, implementing firewall rules, VLAN isolation, network traffic analysis, and intrusion detection testing.
 
-[View Project Repository](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-Security-Lab)
+[Enterprise Network & Security Lab](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-Security-Lab)
 
 
 ### SOC Operations & Blue Team
