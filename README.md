@@ -214,6 +214,19 @@ Deployed a centralized Wazuh SIEM/XDR environment using VirtualBox to monitor Wi
 [Cross-Platform Security Monitoring Lab](https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Lab)
 
 
+### Purple Team Security Lab
+**Kali Linux | Metasploitable 2 | pfSense | Offensive & Defensive Security**
+
+Conducted hands-on purple team exercises in a controlled virtual environment, demonstrating vulnerability discovery, exploitation, credential auditing, and defensive remediation. Implemented system hardening, PAM password policies, SSH security controls, and firewall enforcement to validate risk reduction following simulated attacks.
+
+[Purple Team Security Lab](https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab)
+
+
+
+
+
+
+
 ### SOC Operations & Blue Team
 
 Exploring security monitoring and defensive security through hands-on laboratory development.
