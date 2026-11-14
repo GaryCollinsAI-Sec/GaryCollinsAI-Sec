@@ -178,6 +178,15 @@ My cybersecurity studies and practical development include exploring established
 
 My portfolio emphasizes practical security exercises, laboratory environments, technical documentation, and security research.
 
+
+### Enterprise Network & Security Lab
+**pfSense | VLANs | Wireshark | Suricata**
+
+Built a segmented virtual enterprise network using pfSense and VirtualBox, implementing firewall rules, VLAN isolation, network traffic analysis, and intrusion detection testing.
+
+[View Project Repository](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-Security-Lab)
+
+
 ### SOC Operations & Blue Team
 
 Exploring security monitoring and defensive security through hands-on laboratory development.
