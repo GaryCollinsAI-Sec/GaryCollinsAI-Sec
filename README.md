@@ -1,9 +1,8 @@
-
-<div align="center">
+ <div align="center">
 
 # Gary Collins
 
-### Cybersecurity Analyst | SOC Operations | Security Engineering
+### SOC Analyst | Cybersecurity | Security Operations
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-Security%20Analysis-8B2942?style=for-the-badge" />
@@ -46,7 +45,7 @@ My software engineering background also provides experience with programming, AP
 - **Security Operations:** Security monitoring, log analysis, alert investigation, and incident response.
 - **Defensive Security:** Endpoint monitoring, threat detection, and system hardening.
 - **Penetration Testing:** Network reconnaissance, vulnerability identification, and controlled security testing.
-- **Network Security:** Network traffic analysis, infrastructure protection, and firewall technologies.
+- **Network Security:** Network traffic analysis, infrastructure protection, firewall technologies, and network segmentation.
 - **Security Engineering:** Linux administration, scripting, and security automation.
 - **Cloud Security:** AWS and Azure security fundamentals.
 - **Emerging Technologies:** IoT security, embedded systems, and robotics security.
@@ -65,6 +64,7 @@ My software engineering background also provides experience with programming, AP
 - Threat detection concepts
 - Security documentation
 - Vulnerability assessment
+- Security event and telemetry collection
 
 ### Penetration Testing & Vulnerability Assessment
 
@@ -74,6 +74,7 @@ My software engineering background also provides experience with programming, AP
 - Controlled security testing
 - Security assessment documentation
 - Remediation recommendations
+- System hardening and security validation
 
 ### Security Tools & Technologies
 
@@ -82,8 +83,12 @@ My software engineering background also provides experience with programming, AP
   <img src="https://img.shields.io/badge/Wazuh-1679A7?style=flat" />
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat" />
+  <img src="https://img.shields.io/badge/Nessus-00A88F?style=flat" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spiceworks-4B5563?style=flat" />
 </p>
 
 ### Operating Systems & Scripting
@@ -121,7 +126,6 @@ My software engineering background also provides experience with programming, AP
 - **NIST Cybersecurity Framework (CSF):** Cybersecurity risk management, governance, protection, detection, response, and recovery.
 - **OWASP Top 10:** Common web application security risks, vulnerability awareness, and secure development practices.
 
-
 ### Programming, Automation & Development
 
 <p>
@@ -152,6 +156,8 @@ My software engineering background also provides experience with programming, AP
 
 - Linux and Windows administration fundamentals
 - Network infrastructure and security
+- pfSense firewall configuration and network segmentation
+- VLAN isolation and firewall rule management
 - Docker and containerization
 - Virtualization and laboratory environments
 - AWS and Azure cloud fundamentals
@@ -164,7 +170,7 @@ My software engineering background also provides experience with programming, AP
 
 ## Security Frameworks & Methodologies
 
-My cybersecurity studies and practical development include exploring established security frameworks and methodologies.
+My cybersecurity studies and practical laboratory exercises include exploring established security frameworks and methodologies.
 
 | Framework | Application |
 |---|---|
@@ -178,127 +184,59 @@ My cybersecurity studies and practical development include exploring established
 
 My portfolio emphasizes practical security exercises, laboratory environments, technical documentation, and security research.
 
-
 ### Enterprise Network & Security Lab
-**pfSense | VLANs | Wireshark | Suricata**
+
+**pfSense | VLANs | Wireshark | Suricata | VirtualBox**
 
 Built a segmented virtual enterprise network using pfSense and VirtualBox, implementing firewall rules, VLAN isolation, network traffic analysis, and intrusion detection testing.
 
 [Enterprise Network & Security Lab](https://github.com/GaryCollinsAI-Sec/Enterprise-Network-Security-Lab)
 
-
-
-
 ### Vulnerability Management Lab
+
 **Nessus Essentials | CVSS | Vulnerability Assessment | Remediation**
 
 Conducted a vulnerability management assessment in a simulated enterprise environment using Nessus Essentials, Ubuntu, and Metasploitable 2. Identified and prioritized vulnerabilities using severity and exploitability, implemented remediation strategies, and performed post-remediation scans to validate security improvements.
 
-[ Vulnerability Management Lab](https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab)
-
-
+[Vulnerability Management Lab](https://github.com/GaryCollinsAI-Sec/Vulnerability-Management-Lab)
 
 ### Identity & Access Security Lab
+
 **Microsoft Entra ID | Azure | RBAC | MFA | Least Privilege**
 
 Configured a simulated Microsoft Entra ID environment to demonstrate enterprise identity and access management. Created role-based user accounts and security groups, enforced MFA through Security Defaults, and validated least-privilege access controls through permission testing.
 
 [Identity & Access Security Lab](https://github.com/GaryCollinsAI-Sec/Identity-and-Access-Security-Lab)
 
-
 ### Cross-Platform Security Monitoring Lab
+
 **Wazuh SIEM/XDR | Windows | Ubuntu Linux | PowerShell | Bash**
 
 Deployed a centralized Wazuh SIEM/XDR environment using VirtualBox to monitor Windows 10 and Ubuntu Linux endpoints. Configured and enrolled agents, established Manager-Agent communication, and validated centralized telemetry collection, endpoint status, and security event ingestion.
 
 [Cross-Platform Security Monitoring Lab](https://github.com/GaryCollinsAI-Sec/Cross-Platform-Security-Monitoring-Lab)
 
-
 ### Purple Team Security Lab
+
 **Kali Linux | Metasploitable 2 | pfSense | Offensive & Defensive Security**
 
 Conducted hands-on purple team exercises in a controlled virtual environment, demonstrating vulnerability discovery, exploitation, credential auditing, and defensive remediation. Implemented system hardening, PAM password policies, SSH security controls, and firewall enforcement to validate risk reduction following simulated attacks.
 
 [Purple Team Security Lab](https://github.com/GaryCollinsAI-Sec/Purple-Team-Security-Lab)
 
+### IT Help Desk & Ticketing System Lab
 
+**Spiceworks | ITSM | Incident Management | Windows 11 | Technical Support**
 
+Simulated an enterprise IT help desk environment using Spiceworks Cloud Help Desk, managing 15+ support tickets across four departments. Practiced incident prioritization, ticket lifecycle management, end-user communication, technical documentation, and troubleshooting of account access, operating systems, hardware, and network connectivity issues.
 
-
-
-
-### SOC Operations & Blue Team
-
-Exploring security monitoring and defensive security through hands-on laboratory development.
-
-Areas of development:
-
-- Security information and event monitoring
-- Log collection and analysis
-- Endpoint monitoring with Wazuh
-- Security alert investigation
-- Incident investigation workflows
-- Security event documentation
-- MITRE ATT&CK detection mapping
-
-### Penetration Testing & Vulnerability Assessment
-
-Developing practical skills in controlled security testing environments.
-
-Areas of development:
-
-- Network reconnaissance using Nmap
-- Service enumeration
-- Vulnerability identification
-- Linux security testing
-- Security assessment documentation
-- OWASP Top 10 security testing
-- Remediation strategies
-
-### Network Security & Infrastructure
-
-Building and evaluating network security environments.
-
-Areas of development:
-
-- Network traffic analysis
-- Linux server security
-- Network monitoring
-- Firewall technologies
-- Virtualized security laboratories
-- Infrastructure hardening
-- Docker security fundamentals
-
-### Cloud Security
-
-Exploring security concepts across cloud infrastructure platforms.
-
-Areas of development:
-
-- AWS security fundamentals
-- Microsoft Azure security fundamentals
-- Identity and access management
-- Cloud infrastructure protection
-- Security monitoring concepts
-- Cloud configuration security
-
-### IoT & Robotics Security Research
-
-Exploring security challenges associated with embedded devices and robotic systems.
-
-Areas of development:
-
-- ESP32 embedded device security
-- Device communication security
-- ROS 2 security exploration
-- Embedded system testing
-- Robotics infrastructure security
+[IT Help Desk & Ticketing System Lab](https://github.com/GaryCollinsAI-Sec/IT-Help-Desk-Ticketing-System-Lab)
 
 ---
 
 ## Software Engineering Background
 
-My software engineering experience complements my cybersecurity interests.
+My software engineering experience complements my cybersecurity interests and provides a foundation for developing technical solutions, automation, and security-focused applications.
 
 ### Programming & Backend Development
 
