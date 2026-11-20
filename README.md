@@ -168,7 +168,7 @@ React · TypeScript · Vite · Tailwind CSS · FormSubmit
 
 For additional information about Lenora, including its project vision, features, technology stack, planned architecture, AI integration, and security principles, visit the documentation repository.
 
-**[View Lenora Documentation](YOUR-DOCUMENTATION-REPOSITORY-URL)**
+[View Github Repository](https://github.com/GaryCollinsAI-Sec/Lenora-App)
 
 
 
