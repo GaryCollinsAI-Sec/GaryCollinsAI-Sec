@@ -159,7 +159,7 @@ The website serves as a professional introduction to culinary interests, hands-o
 **Technologies:**
 React · TypeScript · Vite · Tailwind CSS · FormSubmit
 
-[View GitHub Repository](YOUR_CULINARY_PORTFOLIO_REPOSITORY_LINK)
+[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Culinary-portfolio-website)
 
 
 
