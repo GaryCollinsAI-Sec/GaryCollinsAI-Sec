@@ -132,6 +132,47 @@ Python · Django · Django REST Framework · REST APIs
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
 
 ---
+### 2. Weather App
+
+**Mobile Weather Application**
+
+A modern mobile weather application built using React Native and Expo, featuring real-time weather information, city-based search, and efficient API data management.
+
+The project demonstrates mobile application development, third-party API integration, asynchronous data fetching, caching, and modular application architecture.
+
+**Technologies:**
+React Native · Expo · TypeScript · Axios · TanStack Query · OpenWeather API
+
+**Key Features:**
+- Real-time weather data
+- City-based weather search
+- API caching with TanStack Query
+- Reusable component architecture
+- Mobile-first responsive interface
+
+**Architecture:**
+- Modular API layer using Axios
+- Custom hooks for data fetching
+- Component-based user interface
+- Query caching and state management
+
+**Future Enhancements:**
+- GPS-based location detection
+- Seven-day weather forecast
+- Weather animations
+- Dark mode
+- Offline caching
+
+[View GitHub Repository](YOUR_WEATHER_APP_REPOSITORY_LINK)
+
+---
+
+
+
+
+
+
+
 
 ## Education
 
