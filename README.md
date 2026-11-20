@@ -162,6 +162,16 @@ React · TypeScript · Vite · Tailwind CSS · FormSubmit
 [View GitHub Repository](YOUR_CULINARY_PORTFOLIO_REPOSITORY_LINK)
 
 
+
+
+### 5. Lenora - Dating PWA
+
+For additional information about Lenora, including its project vision, features, technology stack, planned architecture, AI integration, and security principles, visit the documentation repository.
+
+**[View Lenora Documentation](YOUR-DOCUMENTATION-REPOSITORY-URL)**
+
+
+
 ---
 
 
