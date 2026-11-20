@@ -145,13 +145,22 @@ React Native · Expo · TypeScript · Axios · TanStack Query · OpenWeather API
 
 [View GitHub Repository](YOUR_WEATHER_APP_REPOSITORY_LINK)
 
+
+### 4. Culinary Portfolio Website
+
+**Personal Portfolio & Professional Website**
+
+A personal culinary portfolio showcasing cooking experience, food preparation skills, baking projects, and continued development as an aspiring culinary professional.
+
+The website serves as a professional introduction to culinary interests, hands-on experience, and a commitment to learning and growing within the culinary industry.
+
+**Technologies:**
+React · TypeScript · Vite · Tailwind CSS · FormSubmit
+
+[View GitHub Repository](YOUR_CULINARY_PORTFOLIO_REPOSITORY_LINK)
+
+
 ---
-
-
-
-
-
-
 
 
 ## Education
