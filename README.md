@@ -132,7 +132,7 @@ Python · Django · Django REST Framework · REST APIs
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
 
 ---
-### 2. Weather App
+### 3. Weather App
 
 **Mobile Weather Application**
 
