@@ -164,11 +164,19 @@ React · TypeScript · Vite · Tailwind CSS · FormSubmit
 
 
 
-### 5. Lenora - Dating PWA
+### 5. Lenora — Dating PWA
 
-For additional information about Lenora, including its project vision, features, technology stack, planned architecture, AI integration, and security principles, visit the documentation repository.
+**Faith-Centered Dating Platform & AI-Powered Matchmaking**
 
-[View Github Repository](https://github.com/GaryCollinsAI-Sec/Lenora-App)
+A faith-centered dating Progressive Web Application designed for adult LDS singles seeking meaningful connections and serious relationships.
+
+The project incorporates AI-assisted matchmaking through a planned LangChain integration, alongside a secure and scalable backend architecture using Supabase and PostgreSQL.
+
+**Technologies:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Python · LangChain
+
+**Project Documentation:** Additional information about Lenora, including its project vision, features, technology stack, planned architecture, AI integration, and security principles.
+
+[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Lenora-App)
 
 
 
