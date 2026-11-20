@@ -119,7 +119,7 @@ A web development project designed to support a martial arts academy and its dig
 React · TypeScript · Vite · Tailwind CSS · Python · Django REST Framework
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silver-web-app)
-
+---
 ### 2. Silvia — AI Assistant API
 
 **AI Assistant & Backend Development**
@@ -145,6 +145,7 @@ React Native · Expo · TypeScript · Axios · TanStack Query · OpenWeather API
 
 [View GitHub Repository](YOUR_WEATHER_APP_REPOSITORY_LINK)
 
+---
 
 ### 4. Culinary Portfolio Website
 
