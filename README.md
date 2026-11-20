@@ -119,6 +119,7 @@ A web development project designed to support a martial arts academy and its dig
 React · TypeScript · Vite · Tailwind CSS · Python · Django REST Framework
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silver-web-app)
+
 ---
 ### 2. Silvia — AI Assistant API
 
