@@ -143,26 +143,6 @@ The project demonstrates mobile application development, third-party API integra
 **Technologies:**
 React Native · Expo · TypeScript · Axios · TanStack Query · OpenWeather API
 
-**Key Features:**
-- Real-time weather data
-- City-based weather search
-- API caching with TanStack Query
-- Reusable component architecture
-- Mobile-first responsive interface
-
-**Architecture:**
-- Modular API layer using Axios
-- Custom hooks for data fetching
-- Component-based user interface
-- Query caching and state management
-
-**Future Enhancements:**
-- GPS-based location detection
-- Seven-day weather forecast
-- Weather animations
-- Dark mode
-- Offline caching
-
 [View GitHub Repository](YOUR_WEATHER_APP_REPOSITORY_LINK)
 
 ---
