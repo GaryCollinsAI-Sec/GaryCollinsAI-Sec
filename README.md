@@ -214,7 +214,7 @@ Python · FastAPI · React · TypeScript · Vite · Tailwind CSS · SQLite · ai
 
 **Project Status:** Functional Prototype — Version 0.1
 
-[View GitHub Repository](YOUR_ABEL_REPOSITORY_LINK)
+[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Abel-website-assistant)
 
 ---
 
