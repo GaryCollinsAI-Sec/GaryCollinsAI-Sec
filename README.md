@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 # Gary Collins
 
@@ -116,11 +115,13 @@ I enjoy working on projects from initial planning through implementation, helpin
 A web development project designed to support a martial arts academy and its digital services.
 
 **Technologies:**
+
 React · TypeScript · Vite · Tailwind CSS · Python · Django REST Framework
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silver-web-app)
 
 ---
+
 ### 2. Silvia — AI Assistant API
 
 **AI Assistant & Backend Development**
@@ -128,11 +129,13 @@ React · TypeScript · Vite · Tailwind CSS · Python · Django REST Framework
 An AI assistant backend project developed using Python and Django REST Framework, demonstrating backend application development and API integration.
 
 **Technologies:**
+
 Python · Django · Django REST Framework · REST APIs
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
 
 ---
+
 ### 3. Weather App
 
 **Mobile Weather Application**
@@ -142,6 +145,7 @@ A modern mobile weather application built using React Native and Expo, featuring
 The project demonstrates mobile application development, third-party API integration, asynchronous data fetching, caching, and modular application architecture.
 
 **Technologies:**
+
 React Native · Expo · TypeScript · Axios · TanStack Query · OpenWeather API
 
 [View GitHub Repository](YOUR_WEATHER_APP_REPOSITORY_LINK)
@@ -157,12 +161,12 @@ A personal culinary portfolio showcasing cooking experience, food preparation sk
 The website serves as a professional introduction to culinary interests, hands-on experience, and a commitment to learning and growing within the culinary industry.
 
 **Technologies:**
+
 React · TypeScript · Vite · Tailwind CSS · FormSubmit
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Culinary-portfolio-website)
 
-
-
+---
 
 ### 5. Lenora — Dating PWA
 
@@ -172,16 +176,47 @@ A faith-centered dating Progressive Web Application designed for adult LDS singl
 
 The project incorporates AI-assisted matchmaking through a planned LangChain integration, alongside a secure and scalable backend architecture using Supabase and PostgreSQL.
 
-**Technologies:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Python · LangChain
+**Technologies:**
+
+React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Python · LangChain
 
 **Project Documentation:** Additional information about Lenora, including its project vision, features, technology stack, planned architecture, AI integration, and security principles.
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Lenora-App)
 
-
-
 ---
 
+### 6. Abel — Website Assistant & Uptime Monitor
+
+**Python Automation & Website Monitoring**
+
+Abel is a Chrome extension that combines rule-based website analysis with an automated uptime monitoring system.
+
+The project features a React and TypeScript frontend integrated with a Python FastAPI backend. Its monitoring system uses scheduled HTTP checks to track website availability, measure response times, detect failures, and maintain historical monitoring records.
+
+The project demonstrates practical Python automation, backend API development, asynchronous scheduling, database integration, browser extension development, and application security.
+
+**Key Features:**
+
+- Rule-based website scanning.
+- Automated website availability checks every five minutes.
+- Manual website monitoring.
+- HTTP response and failure detection.
+- Response-time measurement.
+- Historical monitoring records.
+- Uptime statistics.
+- API-key authentication and rate limiting.
+- URL validation and SSRF protection measures.
+
+**Technologies:**
+
+Python · FastAPI · React · TypeScript · Vite · Tailwind CSS · SQLite · aiohttp · APScheduler · Chrome Extension Manifest V3
+
+**Project Status:** Functional Prototype — Version 0.1
+
+[View GitHub Repository](YOUR_ABEL_REPOSITORY_LINK)
+
+---
 
 ## Education
 
