@@ -1,79 +1,88 @@
- <div align="center">
-
 # Gary Collins
+### Independent Web Developer & Python Automation Specialist
 
-### Independent Software Developer
+**Website Development | Website Maintenance | Python Automation**
 
-**Web Development | Mobile Applications | AI Integration | Chatbot Development**
+I help small businesses, entrepreneurs, and organizations establish a professional online presence and simplify everyday operations through practical software solutions.
 
-Building practical, responsive, and intelligent digital solutions for businesses and entrepreneurs.
+From building and maintaining business websites to automating repetitive tasks, my goal is to develop reliable, user-friendly solutions that help businesses work more efficiently.
 
-<p>
-  <img src="https://img.shields.io/badge/Web-Development-8B2942?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-Applications-303846?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Integration-6B5B95?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chatbot-Development-267A75?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Website-Development-8B2942?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website-Maintenance-303846?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge" />
 </p>
 
-<p>
+<p align="center">
   <a href="mailto:garycollins0449@gmail.com">Email Me</a> •
   <a href="https://www.linkedin.com/in/garyjosephcollins">LinkedIn</a> •
   <a href="https://github.com/GaryCollinsAI-Sec">GitHub</a>
 </p>
 
-</div>
-
 ---
 
 ## About Me
 
-I'm an independent software developer with an academic background in computer science and a passion for building practical software solutions.
+I'm an independent software developer with a Bachelor of Science in Computer Science and a Master of Science in Cyber Engineering.
 
-I specialize in developing responsive web applications, mobile-friendly experiences, backend systems, and AI-powered integrations.
+I work with small businesses, independent entrepreneurs, and online clients to develop practical digital solutions.
 
-My approach combines frontend and backend development, API integration, and database technologies to create functional and maintainable digital products.
+I focus on two primary areas:
 
-I enjoy working on projects from initial planning through implementation, helping individuals, entrepreneurs, and businesses transform their ideas into working applications.
+- **Website Development & Maintenance:** Creating responsive websites, improving existing websites, and helping businesses maintain their online presence.
+- **Python Automation:** Developing scripts and automation tools that reduce repetitive work, simplify processes, and improve operational efficiency.
+
+My approach combines practical development experience, attention to detail, and an understanding of how technology can address everyday business challenges.
+
+I believe software should be useful, maintainable, and appropriate for the needs and budget of the business.
 
 ## Services
 
-### Web Development
+### 1. Website Development & Maintenance
 
-- Responsive website development
-- Frontend application development
-- Backend development
-- Full-stack web applications
-- Website improvements and maintenance
-- API integration
-- Database integration
+Helping businesses establish and maintain a professional online presence.
 
-### Mobile Application Development
+**Website Development**
+- Responsive business websites.
+- Business landing pages.
+- Frontend development.
+- Website redesigns and improvements.
+- Contact forms and website functionality.
+- API and third-party service integration.
 
-- Mobile-friendly application interfaces
-- Cross-platform application development
-- Responsive application experiences
-- Application functionality and integration
-- Backend connectivity
+**Website Maintenance**
+- Website content updates.
+- Layout and functionality improvements.
+- Bug fixes and troubleshooting.
+- Routine website updates.
+- Performance and usability improvements.
+- Ongoing website support.
 
-### AI & Chatbot Integration
+Whether you need a new website or assistance maintaining an existing one, I can help identify practical improvements that fit your requirements.
 
-- AI API integration
-- AI-powered application features
-- Conversational interfaces
-- Chatbot development
-- AI assistant backends
-- Intelligent workflow integration
+### 2. Python Automation
 
-### Backend & API Development
+Helping businesses reduce repetitive work through practical Python-based automation.
 
-- Python backend development
-- Django and FastAPI applications
-- REST API development
-- Database integration
-- Application architecture
-- Backend functionality and testing
+**Automation Services**
+- Repetitive task automation.
+- File and data processing.
+- Data organization and transformation.
+- Automated reporting.
+- API-based integrations.
+- Scheduled scripts and background tasks.
+- Website availability monitoring.
+- Custom automation utilities.
+
+Automation can help reduce manual work, improve consistency, and free up time for more important business activities.
+
+I focus on identifying manageable automation opportunities that provide practical value without introducing unnecessary complexity.
+
+---
 
 ## Technical Skills
+
+My development experience includes the following technologies:
 
 ### Frontend Development
 
@@ -87,13 +96,13 @@ I enjoy working on projects from initial planning through implementation, helpin
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-### Backend Development
+### Backend & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
 </p>
 
 ### Development Tools
@@ -103,102 +112,23 @@ I enjoy working on projects from initial planning through implementation, helpin
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
+
+---
 
 ## Featured Projects
 
-### 1. Silver Dragons Academy
+The following projects demonstrate my experience building websites, developing applications, and creating practical automation tools.
 
-**Martial Arts Website & Digital Learning Platform**
+### 1. Abel — Website Assistant & Uptime Monitor
 
-A web development project designed to support a martial arts academy and its digital services.
+**Python Automation | Website Monitoring | Backend Development**
 
-**Technologies:**
+Abel is a Chrome extension and website monitoring application combining rule-based website analysis with automated uptime monitoring.
 
-React · TypeScript · Vite · Tailwind CSS · Python · Django REST Framework
+Its monitoring system uses scheduled HTTP requests to track website availability, measure response times, detect failures, and maintain historical monitoring records.
 
-[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silver-web-app)
-
----
-
-### 2. Silvia — AI Assistant API
-
-**AI Assistant & Backend Development**
-
-An AI assistant backend project developed using Python and Django REST Framework, demonstrating backend application development and API integration.
-
-**Technologies:**
-
-Python · Django · Django REST Framework · REST APIs
-
-[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
-
----
-
-### 3. Weather App
-
-**Mobile Weather Application**
-
-A modern mobile weather application built using React Native and Expo, featuring real-time weather information, city-based search, and efficient API data management.
-
-The project demonstrates mobile application development, third-party API integration, asynchronous data fetching, caching, and modular application architecture.
-
-**Technologies:**
-
-React Native · Expo · TypeScript · Axios · TanStack Query · OpenWeather API
-
-[View GitHub Repository](YOUR_WEATHER_APP_REPOSITORY_LINK)
-
----
-
-### 4. Culinary Portfolio Website
-
-**Personal Portfolio & Professional Website**
-
-A personal culinary portfolio showcasing cooking experience, food preparation skills, baking projects, and continued development as an aspiring culinary professional.
-
-The website serves as a professional introduction to culinary interests, hands-on experience, and a commitment to learning and growing within the culinary industry.
-
-**Technologies:**
-
-React · TypeScript · Vite · Tailwind CSS · FormSubmit
-
-[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Culinary-portfolio-website)
-
----
-
-### 5. Lenora — Dating PWA
-
-**Faith-Centered Dating Platform & AI-Powered Matchmaking**
-
-A faith-centered dating Progressive Web Application designed for adult LDS singles seeking meaningful connections and serious relationships.
-
-The project incorporates AI-assisted matchmaking through a planned LangChain integration, alongside a secure and scalable backend architecture using Supabase and PostgreSQL.
-
-**Technologies:**
-
-React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL · Python · LangChain
-
-**Project Documentation:** Additional information about Lenora, including its project vision, features, technology stack, planned architecture, AI integration, and security principles.
-
-[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Lenora-App)
-
----
-
-### 6. Abel — Website Assistant & Uptime Monitor
-
-**Python Automation & Website Monitoring**
-
-Abel is a Chrome extension that combines rule-based website analysis with an automated uptime monitoring system.
-
-The project features a React and TypeScript frontend integrated with a Python FastAPI backend. Its monitoring system uses scheduled HTTP checks to track website availability, measure response times, detect failures, and maintain historical monitoring records.
-
-The project demonstrates practical Python automation, backend API development, asynchronous scheduling, database integration, browser extension development, and application security.
-
-**Key Features:**
-
-- Rule-based website scanning.
+**Key Features**
 - Automated website availability checks every five minutes.
 - Manual website monitoring.
 - HTTP response and failure detection.
@@ -208,13 +138,53 @@ The project demonstrates practical Python automation, backend API development, a
 - API-key authentication and rate limiting.
 - URL validation and SSRF protection measures.
 
-**Technologies:**
-
-Python · FastAPI · React · TypeScript · Vite · Tailwind CSS · SQLite · aiohttp · APScheduler · Chrome Extension Manifest V3
+**Technologies:** Python, FastAPI, React, TypeScript, SQLite, aiohttp, APScheduler.
 
 **Project Status:** Functional Prototype — Version 0.1
 
 [View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Abel-website-assistant)
+
+---
+
+### 2. Silver Dragons Academy
+
+**Business Website & Digital Learning Platform**
+
+A web development project designed to support a martial arts academy and its digital services.
+
+The project demonstrates responsive frontend development, application functionality, and backend integration for an organization with specific operational and user requirements.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Python, Django REST Framework.
+
+[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silver-web-app)
+
+---
+
+### 3. Culinary Portfolio Website
+
+**Professional Website Development**
+
+A personal portfolio website designed to present professional information, showcase work, and establish an online presence.
+
+The project demonstrates the development of a responsive website with organized content, modern frontend technologies, and contact functionality.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, FormSubmit.
+
+[View GitHub Repository](https://github.com/GaryCollinsAI-Sec/Culinary-portfolio-website)
+
+---
+
+## Additional Development Experience
+
+In addition to my primary service areas, I have worked on projects involving backend development, API integration, mobile applications, and AI-assisted application functionality.
+
+These projects demonstrate my broader software engineering experience.
+
+- **Lenora:** A faith-centered dating Progressive Web Application with planned AI-assisted matchmaking.
+  [GitHub Repository](https://github.com/GaryCollinsAI-Sec/Lenora-App)
+
+- **Silvia:** An AI assistant backend developed using Python and Django REST Framework.
+  [GitHub Repository](https://github.com/GaryCollinsAI-Sec/Silvia-Chatbot-API-development)
 
 ---
 
@@ -231,25 +201,33 @@ Yuba College — 2021
 
 ---
 
-## My Development Approach
+## My Approach to Client Projects
 
-I believe successful software should be:
+I believe successful development starts with understanding the problem before choosing the technology.
 
-- **Functional:** Designed to solve real problems.
-- **User-Friendly:** Easy to navigate and understand.
-- **Responsive:** Accessible across desktop, tablet, and mobile devices.
-- **Maintainable:** Built with organized and understandable code.
-- **Scalable:** Designed with future improvements in mind.
+My approach emphasizes:
 
-I value clear communication, thoughtful planning, and delivering solutions that meet project requirements.
+- **Understanding Requirements:** Learning what the business needs and what problem needs to be solved.
+- **Practical Solutions:** Prioritizing functionality and meaningful improvements over unnecessary complexity.
+- **Clear Communication:** Maintaining communication throughout the development process.
+- **Maintainability:** Writing organized code that can be understood and maintained.
+- **Defined Scope:** Establishing project requirements, deliverables, and expectations before beginning work.
+- **Reliability:** Paying attention to functionality, usability, and security.
+
+I aim to build professional working relationships through transparency, reasonable expectations, and solutions that address actual business needs.
 
 ---
 
 ## Let's Work Together
 
-Have an idea for a website, mobile application, chatbot, or AI-powered solution?
+Are you a small business owner, entrepreneur, or organization looking for help with your website or everyday business processes?
 
-I'd be happy to discuss your project and explore how we can bring it to life.
+I would be happy to discuss your requirements and explore how practical software development or Python automation could help.
+
+**Services:**
+- Website Development
+- Website Maintenance
+- Python Automation
 
 **Email:** garycollins0449@gmail.com
 
@@ -257,10 +235,10 @@ I'd be happy to discuss your project and explore how we can bring it to life.
 
 ---
 
-<div align="center">
+<p align="center">
 
-### Building. Creating. Innovating.
+### Practical Solutions. Thoughtful Development. Reliable Results.
 
-*Turning ideas into digital solutions.*
+*Helping businesses make better use of technology.*
 
-</div>
+</p>
